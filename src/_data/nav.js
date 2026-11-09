@@ -141,7 +141,6 @@ const nav = {
     ext("PACMMOD", "https://dl.acm.org/journal/pacmmod"),
     ext("SIGMOD Blog", "https://blog.sigmod.org/"),
     ext("Reproducibility", "https://reproducibility.sigmod.org/"),
-    ext("Video series", "https://sigmod-org.github.io/archive/videoseries/"),
     { label: "DBCares", url: "/sigmod-policies/dbcares-policy/" },
     { label: "ACM Open", url: "/acm-open-sigmod/" },
     { label: "Join SIGMOD", url: "/join/" },
