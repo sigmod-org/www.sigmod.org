@@ -1,0 +1,709 @@
+[
+  {
+    "year": 2027,
+    "url": "https://2027.sigmod.org/",
+    "location": "Huntington Beach, CA, USA",
+    "chairs": [
+      {
+        "name": "Sourav S Bhowmick",
+        "url": "https://personal.ntu.edu.sg/assourav/"
+      },
+      {
+        "name": "Yuanyuan Tian",
+        "url": "https://humming80.github.io/"
+      }
+    ]
+  },
+  {
+    "year": 2026,
+    "url": "https://2026.sigmod.org/",
+    "location": "Bengaluru, India",
+    "chairs": [
+      {
+        "name": "Carsten Binnig",
+        "url": "https://www.informatik.tu-darmstadt.de/systems/systems_tuda/group/team_detail_18624.en.jsp"
+      },
+      {
+        "name": "Sudeepa Roy",
+        "url": "https://users.cs.duke.edu/~sudeepa/"
+      }
+    ]
+  },
+  {
+    "year": 2025,
+    "url": "https://2025.sigmod.org/",
+    "location": "Berlin, Germany",
+    "chairs": [
+      {
+        "name": "Joe Hellerstein",
+        "url": "https://dsf.berkeley.edu/jmh/"
+      },
+      {
+        "name": "Azza Abouzied",
+        "url": "https://nyuad.nyu.edu/en/academics/divisions/science/faculty/azza-abouzied.html"
+      }
+    ]
+  },
+  {
+    "year": 2024,
+    "url": "https://2024.sigmod.org/",
+    "location": "Santiago, Chile",
+    "chairs": [
+      {
+        "name": "S. Sudarshan",
+        "url": "https://www.cse.iitb.ac.in/~sudarsha/"
+      },
+      {
+        "name": "Alexandra Meliou",
+        "url": "https://people.cs.umass.edu/~ameli/"
+      }
+    ]
+  },
+  {
+    "year": 2023,
+    "url": "https://2023.sigmod.org/",
+    "location": "Seattle, WA, USA",
+    "chairs": [
+      {
+        "name": "K. Selcuk Candan",
+        "url": "https://search.asu.edu/profile/20861"
+      },
+      {
+        "name": "Sihem Amer-Yahia",
+        "url": "https://lig-membres.imag.fr/amery/"
+      }
+    ]
+  },
+  {
+    "year": 2022,
+    "url": "https://2022.sigmod.org/",
+    "location": "Philadelphia, PA, USA",
+    "chairs": [
+      {
+        "name": "Angela Bonifati",
+        "url": "https://perso.liris.cnrs.fr/angela.bonifati/"
+      },
+      {
+        "name": "Amr El Abbadi",
+        "url": "https://sites.cs.ucsb.edu/~amr/"
+      }
+    ]
+  },
+  {
+    "year": 2021,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2021.html",
+    "location": "Xi’an, Shaanxi, China",
+    "chairs": [
+      {
+        "name": "Stratos Idreos",
+        "url": "https://stratos.seas.harvard.edu/"
+      },
+      {
+        "name": "Divesh Srivastava",
+        "url": "https://divesh.net/"
+      }
+    ]
+  },
+  {
+    "year": 2020,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2020.html",
+    "location": "Portland, OR, USA",
+    "chairs": [
+      {
+        "name": "AnHai Doan",
+        "url": "https://dblp.org/pid/d/AnHaiDoan.html"
+      },
+      {
+        "name": "Wang-Chiew Tan",
+        "url": "https://dblp.org/pid/t/WangChiewTan.html"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2019,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2019.html",
+    "location": "Amsterdam, The Netherlands",
+    "chairs": [
+      {
+        "name": "Anastassia Ailamaki",
+        "url": "https://dblp.org/pid/a/AnastassiaAilamaki.html"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2018,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2018.html",
+    "location": "Houston, TX, USA",
+    "chairs": [
+      {
+        "name": "Phillip A. Bernstein",
+        "url": "https://dblp.org/pid/b/PhilipABernstein.html"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2017,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2017.html",
+    "location": "Chicago, IL, USA",
+    "chairs": [
+      {
+        "name": "Dan Suciu",
+        "url": "https://dblp.org/pers/hd/s/Suciu:Dan"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2016,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2016.html",
+    "location": "San Francisco, CA, USA",
+    "chairs": [
+      {
+        "name": "Sam Madden",
+        "url": "https://dblp.org/pers/hd/m/Madden:Sam"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2015,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2015.html",
+    "location": "Melbourne, Victoria, Australia",
+    "chairs": [
+      {
+        "name": "Susan B. Davidson",
+        "url": "https://dblp.org/pers/hd/d/Davidson:Susan_B="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2014,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2014.html",
+    "location": "Snowbird, UT, USA",
+    "chairs": [
+      {
+        "name": "M. Tamer Özsu",
+        "url": "https://dblp.org/pers/hd/=/=Ouml=zsu:M=_Tamer"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2013,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2013.html",
+    "location": "New York, NY, USA",
+    "chairs": [
+      {
+        "name": "Dimitris Papadias",
+        "url": "https://dblp.org/pers/hd/p/Papadias:Dimitris"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2012,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2012.html",
+    "location": "Scottsdale, AZ, USA",
+    "chairs": [
+      {
+        "name": "Luis Gravano",
+        "url": "https://dblp.org/pers/hd/g/Gravano:Luis"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2011,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2011.html",
+    "location": "Athens, Greece",
+    "chairs": [
+      {
+        "name": "Renée J. Miller",
+        "url": "https://dblp.org/pers/hd/m/Miller:Ren=eacute=e_J="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2010,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2010.html",
+    "location": "Indianapolis, Indiana, USA",
+    "chairs": [
+      {
+        "name": "Divyakant Agrawal",
+        "url": "https://dblp.org/pers/hd/a/Agrawal:Divyakant"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2009,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2009.html",
+    "location": "Providence, Rhode Island, USA",
+    "chairs": [
+      {
+        "name": "Donald Kossmann",
+        "url": "https://dblp.org/pers/hd/k/Kossmann:Donald"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2008,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2008.html",
+    "location": "Vancouver, BC, Canada",
+    "chairs": [
+      {
+        "name": "Dennis Shasha",
+        "url": "https://dblp.org/pers/hd/s/Shasha:Dennis"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2007,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2007.html",
+    "location": "Beijing, China",
+    "chairs": [
+      {
+        "name": "Beng Chin Ooi",
+        "url": "https://dblp.org/pers/hd/o/Ooi:Beng_Chin"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2006,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2006.html",
+    "location": "Chicago, Illinois, USA",
+    "chairs": [
+      {
+        "name": "Surajit Chaudhuri",
+        "url": "https://dblp.org/pers/hd/c/Chaudhuri:Surajit"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2005,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2005.html",
+    "location": "Baltimore, Maryland",
+    "chairs": [
+      {
+        "name": "Jennifer Widom",
+        "url": "https://dblp.org/pers/hd/w/Widom:Jennifer"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2004,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2004.html",
+    "location": "Paris, France",
+    "chairs": [
+      {
+        "name": "Gerhard Weikum",
+        "url": "https://dblp.org/pers/hd/w/Weikum:Gerhard"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2003,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2003.html",
+    "location": "San Diego, CA",
+    "chairs": [
+      {
+        "name": "Alon Y. Halevy",
+        "url": "https://dblp.org/pers/hd/h/Halevy:Alon_Y="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2002,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2002.html",
+    "location": "Madison, WI",
+    "chairs": [
+      {
+        "name": "Michael J. Franklin",
+        "url": "https://dblp.org/pers/hd/f/Franklin:Michael_J="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 2001,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2001.html",
+    "location": "Santa Barbara, CA",
+    "chairs": [
+      {
+        "name": "Timos K. Sellis",
+        "url": "https://dblp.org/pers/hd/s/Sellis:Timos_K="
+      },
+      {
+        "name": "Divyakant Agrawal",
+        "url": "https://dblp.org/pers/hd/a/Agrawal:Divyakant",
+        "note": "Associate Chair"
+      }
+    ],
+    "yearUnderline": true,
+    "separator": ", "
+  },
+  {
+    "year": 2000,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod2000.html",
+    "location": "Dallas, TX",
+    "chairs": [
+      {
+        "name": "Jeffrey F. Naughton",
+        "url": "https://dblp.org/pers/hd/n/Naughton:Jeffrey_F="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1999,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod99.html",
+    "location": "Philadelphia, PA",
+    "chairs": [
+      {
+        "name": "Christos Faloutsos",
+        "url": "https://dblp.org/pers/hd/f/Faloutsos:Christos"
+      },
+      {
+        "name": "Shahram Ghandeharizadeh",
+        "url": "https://dblp.org/pers/hd/g/Ghandeharizadeh:Shahram",
+        "note": "Associate Chair"
+      }
+    ],
+    "yearUnderline": true,
+    "separator": ", "
+  },
+  {
+    "year": 1998,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod98.html",
+    "location": "Seattle, WA",
+    "chairs": [
+      {
+        "name": "Laura M. Haas",
+        "url": "https://dblp.org/pers/hd/h/Haas:Laura_M="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1997,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod97.html",
+    "location": "Tucson, AZ",
+    "chairs": [
+      {
+        "name": "Patrick Valduriez",
+        "url": "https://dblp.org/pers/hd/v/Valduriez:Patrick"
+      },
+      {
+        "name": "Henry F. Korth",
+        "url": "https://dblp.org/pers/hd/k/Korth:Henry_F=",
+        "note": "Associate Chair"
+      }
+    ],
+    "yearUnderline": true,
+    "separator": ", "
+  },
+  {
+    "year": 1996,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod96.html",
+    "location": "Montreal, Canada",
+    "chairs": [
+      {
+        "name": "H. V. Jagadish",
+        "url": "https://dblp.org/pers/hd/j/Jagadish:H=_V="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1995,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod95.html",
+    "location": "San Jose, CA",
+    "chairs": [
+      {
+        "name": "Michael J. Carey",
+        "url": "https://dblp.org/pers/hd/c/Carey:Michael_J="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1994,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod94.html",
+    "location": "Minneapolis, MN",
+    "chairs": [
+      {
+        "name": "Richard T. Snodgrass",
+        "url": "https://dblp.org/pers/hd/s/Snodgrass:Richard_T="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1993,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod93.html",
+    "location": "Washington, DC",
+    "chairs": [
+      {
+        "name": "Peter Buneman",
+        "url": "https://dblp.org/pers/hd/b/Buneman:Peter"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1992,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod92.html",
+    "location": "San Diego, CA",
+    "chairs": [
+      {
+        "name": "Michael Stonebraker",
+        "url": "https://dblp.org/pers/hd/s/Stonebraker:Michael"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1991,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod91.html",
+    "location": "Denver, CO",
+    "chairs": [
+      {
+        "name": "Roger King",
+        "url": "https://dblp.org/pers/hd/k/King:Roger"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1990,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod90.html",
+    "location": "Atlantic City, NJ",
+    "chairs": [
+      {
+        "name": "Hector Garcia-Molina",
+        "url": "https://dblp.org/pers/hd/g/Garcia=Molina:Hector"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1989,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod89.html",
+    "location": "Portland, OR",
+    "chairs": [
+      {
+        "name": "Bruce G. Lindsay",
+        "url": "https://dblp.org/pers/hd/l/Lindsay:Bruce_G=",
+        "note": "Systems and Applications"
+      },
+      {
+        "name": "David Maier",
+        "url": "https://dblp.org/pers/hd/m/Maier:David",
+        "note": "Concepts and Algorithms"
+      }
+    ],
+    "yearUnderline": true,
+    "separator": ", "
+  },
+  {
+    "year": 1988,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod88.html",
+    "location": "Chicago, IL",
+    "chairs": [
+      {
+        "name": "Haran Boral",
+        "url": "https://dblp.org/pers/hd/b/Boral:Haran",
+        "note": "Applications and Implementations"
+      },
+      {
+        "name": "Per-Åke Larson",
+        "url": "https://dblp.org/pers/hd/l/Larson:Per==Aring=ke",
+        "note": "Concepts and Techniques"
+      }
+    ],
+    "yearUnderline": true,
+    "separator": ", "
+  },
+  {
+    "year": 1987,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod87.html",
+    "location": "San Francisco, CA",
+    "chairs": [
+      {
+        "name": "Umeshwar Dayal",
+        "url": "https://dblp.org/pers/hd/d/Dayal:Umeshwar",
+        "note": "Systems and Algorithms"
+      },
+      {
+        "name": "Irving L. Traiger",
+        "url": "https://dblp.org/pers/hd/t/Traiger:Irving_L=",
+        "note": "Architectures and Applications"
+      }
+    ],
+    "yearUnderline": true,
+    "separator": ", "
+  },
+  {
+    "year": 1986,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod86.html",
+    "location": "Washington, DC",
+    "chairs": [
+      {
+        "name": "Carlo Zaniolo",
+        "url": "https://dblp.org/pers/hd/z/Zaniolo:Carlo"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1985,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod85.html",
+    "location": "Austin, TX",
+    "chairs": [
+      {
+        "name": "Shamkant B. Navathe",
+        "url": "https://dblp.org/pers/hd/n/Navathe:Shamkant_B="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1984,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod84.html",
+    "location": "Boston, MA",
+    "chairs": [
+      {
+        "name": "Bea Yormark",
+        "url": "https://dblp.org/pers/hd/y/Yormark:Bea"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1983,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod83.html",
+    "location": "San Jose, CA",
+    "chairs": [
+      {
+        "name": "David J. DeWitt",
+        "url": "https://dblp.org/pers/hd/d/DeWitt:David_J=",
+        "note": "U.S."
+      },
+      {
+        "name": "Georges Gardarin",
+        "url": "https://dblp.org/pers/hd/g/Gardarin:Georges",
+        "note": "European"
+      }
+    ],
+    "yearUnderline": true,
+    "separator": ", "
+  },
+  {
+    "year": 1982,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod82.html",
+    "location": "Orlando, FL",
+    "chairs": [
+      {
+        "name": "Mario Schkolnick",
+        "url": "https://dblp.org/pers/hd/s/Schkolnick:Mario"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1981,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod81.html",
+    "location": "Ann Arbor, MI",
+    "chairs": [
+      {
+        "name": "Y. Edmund Lien",
+        "url": "https://dblp.org/pers/hd/l/Lien:Y=_Edmund"
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1980,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod80.html",
+    "location": "Santa Monica, CA",
+    "chairs": [
+      {
+        "name": "Peter P. Chen",
+        "url": "https://dblp.org/pers/hd/c/Chen:Peter_P="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1979,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod79.html",
+    "location": "Boston, MA",
+    "chairs": [
+      {
+        "name": "Philip A. Bernstein",
+        "url": "https://dblp.org/pers/hd/b/Bernstein:Philip_A="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1978,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod78.html",
+    "location": "Austin, TX",
+    "chairs": [
+      {
+        "name": "Eugene I. Lowenthal",
+        "url": "https://dblp.org/pers/hd/l/Lowenthal:Eugene_I="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1977,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod77.html",
+    "location": "Toronto, Canada",
+    "chairs": [
+      {
+        "name": "Diane C. P. Smith",
+        "url": "https://dblp.org/pers/hd/s/Smith:Diane_C=_P="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1976,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod76.html",
+    "location": "Washington, DC",
+    "chairs": [
+      {
+        "name": "James B. Rothnie",
+        "url": "https://dblp.org/pers/hd/r/Rothnie:James_B="
+      }
+    ],
+    "yearUnderline": true
+  },
+  {
+    "year": 1975,
+    "url": "https://dblp.org/db/conf/sigmod/sigmod75.html",
+    "location": "San Jose, CA",
+    "chairs": [
+      {
+        "name": "W. Frank King",
+        "url": "https://dblp.org/pers/hd/k/King:W=_Frank"
+      }
+    ],
+    "yearUnderline": true
+  }
+]

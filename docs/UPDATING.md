@@ -11,9 +11,10 @@ change that does it. Most updates touch one file.
 | [Next SIGMOD/PODS conference](#a-new-sigmodpods-conference) | When the next venue is announced | One entry in `src/_data/conferences.json` + one row in `src/content/pages/conferences/index.md` |
 | [Award recipients](#award-recipients) | Each spring, when the awards are announced | One row (or photo) per award page + one news item |
 | [Ongoing awards call](#ongoing-awards-call) | When the Awards Chair or the call changes | `src/content/pages/sigmod-awards/ongoing-awards-call/index.md` |
-| [Committees and officers](#committees-officers-and-other-people) | When members change; officers every four years | `src/content/pages/about-sigmod/committees/index.md` (and `about-sigmod/index.md` for officers) |
+| [Committees and officers](#committees-officers-and-other-people) | When members change; officers every four years | `src/content/pages/about-sigmod/committees/index.md` (and `about-sigmod/index.md` for the officers and Executive Committee) |
 | Membership numbers | Once a year, from ACM's statistics | One sentence in `src/content/pages/membership/index.md` |
-| Program chairs | Each conference | One row in `src/content/pages/sigmod-history/program-chair/index.md` |
+| Program chairs | Each conference | One entry at the top of `src/_data/programChairs.json` (also feeds the officers history) |
+| Officers and EC history | When the EC changes; a new entry every four years | `src/_data/officers.json` |
 | PODS organization and PC | When members change | `src/content/pages/pods-home/pods-organization/index.md` |
 | Menus | Only when a page is added or retired | `src/_data/nav.js` |
 | Partners, volunteer note | Rarely | `src/_data/site.js` |
@@ -187,9 +188,31 @@ if it takes nominations, a row on the ongoing awards call page.
 
 | What | When | Where |
 |---|---|---|
-| Officers | Every four years, after the elections | `src/content/pages/about-sigmod/index.md`; photos in `src/static/assets/officers/` |
-| Executive committee, boards, editors | When members change | `src/content/pages/about-sigmod/committees/index.md` |
+| Officers and Executive Committee | Officers every four years; the committee when members change (PC chairs each year) | `src/content/pages/about-sigmod/index.md`; photos in `src/static/assets/officers/` |
+| Boards, editors | When members change | `src/content/pages/about-sigmod/committees/index.md` |
 | SIGMOD Awards Committee | Each year | `about-sigmod/committees/index.md` and a new row on `src/content/pages/sigmod-awards/committees/sigmod-awards-committee/index.md` |
 | Awards Chair | When it changes | Also the ongoing awards call page (e-mail addresses) |
-| Program chairs | Each new conference | `src/content/pages/sigmod-history/program-chair/index.md` |
+| Program chairs | Each new conference | `src/_data/programChairs.json` (newest first; the page and the officers history read it) |
+| Officers and EC history | When someone joins or leaves the EC; a new entry after each election | `src/_data/officers.json`: see below |
 | PODS organization and PCs | When members change | `src/content/pages/pods-home/pods-organization/index.md` |
+
+**Officers and EC history** (`/sigmod-history/officers/`) is built from
+`src/_data/officers.json`: three periods (SIGFIDET, two-year terms, four-year
+terms), each a table with its terms oldest first (the page shows them newest
+first). A term is labelled with
+overlapping years (`"from": 2025, "to": 2029`, July to June). Each term has the
+officers (`chair`, `viceChair`, `treasurer`), `editor`, `members` (name and
+role), `sources` and `election` links. A person without `from`/`to` serves the
+whole term and appears on the term row; when someone joins mid-term add them
+with `"from": 2027` (they appear on a 2027 row under the term), and give the
+person they replace `"to": 2027`. A source with `"when": 2027` goes on that
+row if it exists, otherwise on the term row. Sources appear under the term as
+volume(issue) links: the number is taken from a sigmodrecord.org URL or from
+"8(1)" in the label; otherwise add `"issue": "36(2)"`. Roles with "Information
+Director", "DiSC" or "Anthology" fill the Information Director column,
+"Conference Coordinator" its own column, and everything else Other members.
+SIGMOD PC chairs (from 2020) come from `programChairs.json` and get a row for
+each year up to the current one, so nothing to add here for them. After an
+election, add a new term at the end of the last period with `"inProgress":
+true` and remove `inProgress` from the previous one. Columns that are empty
+for a whole period are left out of that table.

@@ -12,7 +12,7 @@
     <div class="xfoot-about">
       <p>{{ site.longTitle }}, and sponsor of the Symposium on Principles of Database Systems.</p>
       <p class="xfoot-volunteer"><strong>Run by volunteers.</strong> {{ site.volunteerNote }}
-        <a href="{{ site.repo }}/issues/new">Report a problem</a> or <a href="{{ site.editBase }}{{ page.inputPath | replace('./', '') }}">suggest an edit</a>.</p>
+        <a href="{{ site.repo }}/issues/new">Report a problem</a> or <a href="{{ site.editBase }}{{ editPath or (page.inputPath | replace('./', '')) }}">suggest an edit</a>.</p>
       <a class="xfoot-acm" href="https://www.acm.org/" title="Association for Computing Machinery"><img src="/assets/logo/acm.png" alt="ACM, Association for Computing Machinery" width="160" height="56"></a>
     </div>
     <nav class="xfoot-col" aria-label="SIGMOD">

@@ -1,0 +1,1421 @@
+{
+ "_readme": "Periods, each with its terms (oldest first). A term is labelled from-to with overlapping years, because terms start in July, and covers the calendar years from..to-1. People without \"from\"/\"to\" serve the whole term; give \"from\" (a year, or \"Mon YYYY\") when someone joins mid-term and \"to\" when someone leaves. Each \"from\" becomes a row under the term. Roles containing \"Information Director\", \"DiSC\" or \"Anthology\" go to the Information Director column, \"Conference Coordinator\" to its own column, everything else to Other members. SIGMOD PC chairs (from 2020) come from programChairs.json. A source with \"when\" goes on that year's row if there is one, otherwise on the term row. A person with \"inline\": true is shown on the term row with their years instead of on a row of their own. A period may set \"issueLabel\" for the Term column heading. Terms with \"yearRows\": true (since 2013) have a row for every year, listing the PC chairs, PODS chair and TODS EiC of that year, and put everyone who did not serve the whole term, except Record editors, on the row of the year they started, with their years. \"column\": \"other\" puts a person in Other members whatever their role. \"noYears\": true hides a person's years on the page. \"showYears\": true shows the years even for someone who served the whole term. Since 1993 sources sit on the term row (at most four per term), except Hammer's 1999 one.",
+ "periods": [
+  {
+   "id": "sigfidet",
+   "title": "SIGFIDET",
+   "note": "Two-year terms. The group took the name SIGMOD in 1974, during Bernard K. Plagman’s term.",
+   "terms": [
+    {
+     "from": 1969,
+     "to": 1971,
+     "chair": [
+      {
+       "name": "Don Hatfield"
+      }
+     ],
+     "viceChair": [],
+     "treasurer": [],
+     "editor": [
+      {
+       "name": "H. R. Morse"
+      }
+     ],
+     "members": [],
+     "sources": [
+      {
+       "label": "fdt 1(1) Aug 1969, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984409"
+      }
+     ]
+    },
+    {
+     "from": 1971,
+     "to": 1973,
+     "chair": [
+      {
+       "name": "Kendall R. Wright"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Don P. Moehrke"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Peter S. Browne"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Daniel F. O'Connell"
+      }
+     ],
+     "members": [
+      {
+       "name": "Don Hatfield",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Charles W. Bachman"
+      },
+      {
+       "name": "Edgar F. Codd"
+      },
+      {
+       "name": "Walter J. Fraser"
+      },
+      {
+       "name": "Donald A. Jardine"
+      },
+      {
+       "name": "Dennis Manelski"
+      },
+      {
+       "name": "A. C. Patterson IV"
+      },
+      {
+       "name": "Eugene Raichelson"
+      },
+      {
+       "name": "Paul Y. Tani"
+      },
+      {
+       "name": "Harrison Tellier"
+      }
+     ],
+     "sources": [
+      {
+       "label": "fdt 3(2) 1971, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F983046"
+      }
+     ]
+    },
+    {
+     "from": 1973,
+     "to": 1975,
+     "chair": [
+      {
+       "name": "Bernard K. Plagman"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Don P. Moehrke"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Robert J. Lindner"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Randall Rustin"
+      }
+     ],
+     "members": [
+      {
+       "name": "Kendall R. Wright",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Susan Brewer",
+       "role": "Standards Liaison"
+      },
+      {
+       "name": "James Fry"
+      },
+      {
+       "name": "Gene Altshuler"
+      },
+      {
+       "name": "Edgar F. Codd"
+      },
+      {
+       "name": "Dennis Manelski"
+      },
+      {
+       "name": "T. William Olle"
+      },
+      {
+       "name": "Charles Bachman",
+       "from": 1974
+      },
+      {
+       "name": "Larry Cohn",
+       "from": 1974
+      },
+      {
+       "name": "Eugene Raichelson",
+       "from": 1974
+      }
+     ],
+     "sources": [
+      {
+       "label": "fdt 5(2) 1973, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F983061"
+      },
+      {
+       "label": "fdt 6(4) Nov 1974, back matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showBmPdf?doi=10.1145%2F983082",
+       "when": 1974
+      }
+     ]
+    }
+   ],
+   "issueLabel": "FDT issue"
+  },
+  {
+   "id": "two-year",
+   "title": "SIGMOD, two-year terms",
+   "note": "Officers were elected for two years. The 1991 election was not held and the term was extended to June 1993.",
+   "terms": [
+    {
+     "from": 1975,
+     "to": 1977,
+     "chair": [
+      {
+       "name": "James P. Fry"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Diane C. P. Smith"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "John D. Joyce"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Douglas S. Kerr"
+      }
+     ],
+     "members": [
+      {
+       "name": "Bernard K. Plagman",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Charles Bachman",
+       "to": "Jan 1976"
+      },
+      {
+       "name": "T. William Olle",
+       "to": "Jan 1976"
+      },
+      {
+       "name": "Larry Cohn",
+       "to": "Jan 1976"
+      },
+      {
+       "name": "Robert Taylor"
+      },
+      {
+       "name": "Ann E. Bandurski",
+       "from": "Sep 1976"
+      },
+      {
+       "name": "Susan Brewer",
+       "from": "Sep 1976"
+      },
+      {
+       "name": "Richard H. Godlove",
+       "from": "Sep 1976"
+      },
+      {
+       "name": "David K. Hsiao",
+       "from": "Sep 1976"
+      },
+      {
+       "name": "Edgar H. Sibley",
+       "from": "Sep 1976"
+      }
+     ],
+     "sources": [
+      {
+       "label": "Record 8(3) Sep 1976, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984378",
+       "when": "Sep 1976"
+      }
+     ],
+     "election": [
+      {
+       "label": "results of the first officer election (fall 1975), Record 8(1) Jan 1976",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984341"
+      }
+     ]
+    },
+    {
+     "from": 1977,
+     "to": 1979,
+     "chair": [
+      {
+       "name": "John K. Lyon"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Diane C. P. Smith"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Michael Hammer"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Douglas S. Kerr"
+      }
+     ],
+     "members": [
+      {
+       "name": "James P. Fry",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Bernard K. Plagman",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Ann E. Bandurski"
+      },
+      {
+       "name": "Susan Brewer"
+      },
+      {
+       "name": "Richard H. Godlove"
+      },
+      {
+       "name": "David K. Hsiao"
+      },
+      {
+       "name": "Edgar H. Sibley"
+      },
+      {
+       "name": "Robert Taylor"
+      }
+     ],
+     "sources": [
+      {
+       "label": "Record 9(3) 1977, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984395"
+      }
+     ]
+    },
+    {
+     "from": 1979,
+     "to": 1981,
+     "chair": [
+      {
+       "name": "John K. Lyon"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Diane C. P. Smith"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Michael Hammer"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Douglas S. Kerr"
+      }
+     ],
+     "members": [
+      {
+       "name": "James P. Fry",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Bernard K. Plagman",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Ann E. Bandurski"
+      },
+      {
+       "name": "Susan Brewer"
+      },
+      {
+       "name": "Richard H. Godlove"
+      },
+      {
+       "name": "David K. Hsiao"
+      },
+      {
+       "name": "Edgar H. Sibley"
+      },
+      {
+       "name": "Robert Taylor"
+      }
+     ],
+     "sources": [
+      {
+       "label": "Record 10(2-3) 1979, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984465"
+      }
+     ]
+    },
+    {
+     "from": 1981,
+     "to": 1983,
+     "chair": [
+      {
+       "name": "Michael Stonebraker"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Patricia G. Selinger"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "John L. Berg"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Tom Cook"
+      }
+     ],
+     "members": [
+      {
+       "name": "Chris Date",
+       "role": "Representing industry",
+       "from": 1982
+      },
+      {
+       "name": "Jerry Held",
+       "role": "Representing industry",
+       "from": 1982
+      },
+      {
+       "name": "Eugene Lowenthal",
+       "role": "Representing industry",
+       "from": 1982
+      },
+      {
+       "name": "Michael Blasgen",
+       "role": "Representing sponsored research",
+       "from": 1982
+      },
+      {
+       "name": "Diane Smith",
+       "role": "Representing sponsored research",
+       "from": 1982
+      },
+      {
+       "name": "Phil Bernstein",
+       "role": "Representing universities",
+       "from": 1982
+      },
+      {
+       "name": "Dave DeWitt",
+       "role": "Representing universities",
+       "from": 1982
+      },
+      {
+       "name": "Stanley Su",
+       "role": "Representing universities",
+       "from": 1982
+      }
+     ],
+     "sources": [
+      {
+       "label": "Record 11(1) 1981, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984471"
+      },
+      {
+       "label": "Record 13(1) 1982, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984514",
+       "when": 1982
+      }
+     ]
+    },
+    {
+     "from": 1983,
+     "to": 1985,
+     "chair": [
+      {
+       "name": "Beatrice Yormark"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Jeffrey Ullman"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Dennis McLeod"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Jon D. Clark"
+      }
+     ],
+     "members": [],
+     "sources": [
+      {
+       "label": "Record 14(1) 1983, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984540"
+      }
+     ],
+     "election": [
+      {
+       "label": "\"election time is coming up\", Record 13(2) 1983",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984523"
+      },
+      {
+       "label": "new officers take office in July, Record 13(3) 1983",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984532"
+      }
+     ]
+    },
+    {
+     "from": 1985,
+     "to": 1987,
+     "chair": [
+      {
+       "name": "David DeWitt"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Paula Hawthorn"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Fred Maryanski"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Margaret H. Eich"
+      }
+     ],
+     "members": [],
+     "sources": [
+      {
+       "label": "Record 15(3) 1986, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F15833"
+      }
+     ],
+     "election": []
+    },
+    {
+     "from": 1987,
+     "to": 1989,
+     "chair": [
+      {
+       "name": "David DeWitt"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Paula Hawthorn"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Fred Maryanski"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Margaret H. Eich"
+      }
+     ],
+     "members": [],
+     "sources": [
+      {
+       "label": "Record 17(4) 1988, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F61733",
+       "when": 1988
+      }
+     ],
+     "election": [
+      {
+       "label": "officers re-elected, Chair's Message, Record 16(2) 1987",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F988598"
+      }
+     ]
+    },
+    {
+     "from": 1989,
+     "to": 1991,
+     "chair": [
+      {
+       "name": "Won Kim"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Laura Haas"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Michael Carey"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Arie Segev"
+      }
+     ],
+     "members": [
+      {
+       "name": "David DeWitt",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Michael Stonebraker",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Francois Bancilhon"
+      },
+      {
+       "name": "Michael Brodie"
+      },
+      {
+       "name": "Yahiko Kambayashi"
+      },
+      {
+       "name": "Jeff Ullman"
+      },
+      {
+       "name": "Maria Zemankova"
+      }
+     ],
+     "sources": [
+      {
+       "label": "Record 17(4) 1988 (Arie Segev as editor), front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F61733"
+      },
+      {
+       "label": "Chair's goodbye message (EC members), Record 22(1) 1993",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F156883"
+      }
+     ],
+     "election": [
+      {
+       "label": "election result, Chair's Message, Record 18(3) 1989",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F71031"
+      }
+     ]
+    },
+    {
+     "from": 1991,
+     "to": 1993,
+     "chair": [
+      {
+       "name": "Won Kim"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Laura Haas"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Michael Carey"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Arie Segev"
+      }
+     ],
+     "members": [
+      {
+       "name": "David DeWitt",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Michael Stonebraker",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Francois Bancilhon"
+      },
+      {
+       "name": "Michael Brodie"
+      },
+      {
+       "name": "Yahiko Kambayashi"
+      },
+      {
+       "name": "Jeff Ullman"
+      },
+      {
+       "name": "Maria Zemankova"
+      }
+     ],
+     "sources": [
+      {
+       "label": "Chair's goodbye message (EC members), Record 22(1) 1993",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F156883"
+      }
+     ],
+     "election": [
+      {
+       "label": "no election: term extended to June 1993, Chair's Message, Record 19(4) 1990",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F122058"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "id": "four-year",
+   "title": "SIGMOD, four-year terms",
+   "note": "Officers are elected for four years, from July.",
+   "terms": [
+    {
+     "from": 1993,
+     "to": 1997,
+     "chair": [
+      {
+       "name": "Won Kim"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Laura Haas"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Michael Carey"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Arie Segev",
+       "to": 1995
+      },
+      {
+       "name": "Jennifer Widom",
+       "from": 1995,
+       "inline": true
+      }
+     ],
+     "members": [
+      {
+       "name": "David DeWitt",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Michael Brodie"
+      },
+      {
+       "name": "Klaus Dittrich"
+      },
+      {
+       "name": "Larry Kerschberg"
+      },
+      {
+       "name": "Moshe Vardi"
+      },
+      {
+       "name": "Ralph Wachter",
+       "role": "Adjunct Member"
+      }
+     ],
+     "sources": [
+      {
+       "label": "Record 25(3) 1996 (Jennifer Widom as editor since 1995), front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F234889"
+      }
+     ],
+     "election": [
+      {
+       "label": "upcoming election, Chair's Message, Record 21(4) 1992",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F141818"
+      },
+      {
+       "label": "re-election of the officers, Record 22(3) 1993",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F163090"
+      }
+     ]
+    },
+    {
+     "from": 1997,
+     "to": 2001,
+     "chair": [
+      {
+       "name": "Richard Snodgrass"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Z. Meral Özsoyoğlu"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Eric N. Hanson",
+       "to": 1998
+      },
+      {
+       "name": "Joachim Hammer",
+       "from": 1999
+      }
+     ],
+     "editor": [
+      {
+       "name": "Michael Franklin"
+      }
+     ],
+     "members": [
+      {
+       "name": "Alberto Mendelzon",
+       "role": "Information Director",
+       "from": 1998,
+       "inline": true
+      },
+      {
+       "name": "Victor Vianu",
+       "role": "PODS Chair"
+      },
+      {
+       "name": "Mike Carey",
+       "role": "Chair of Advisory Board"
+      }
+     ],
+     "sources": [
+      {
+       "label": "Chair's Message, Record Dec 1998",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/9812/chair.ps"
+      },
+      {
+       "label": "SIGMOD Record, December 1999",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/9912/page1.ps",
+       "when": 1999
+      },
+      {
+       "label": "SIGMOD Record, December 2000",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0012/SIGMODOfficers.pdf"
+      }
+     ],
+     "election": [
+      {
+       "label": "new officers and Michael Franklin as editor, Record 26(3) Sep 1997, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F262762"
+      }
+     ]
+    },
+    {
+     "from": 2001,
+     "to": 2005,
+     "chair": [
+      {
+       "name": "Tamer Özsu"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Marianne Winslett"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Joachim Hammer"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Ling Liu"
+      }
+     ],
+     "members": [
+      {
+       "name": "Richard Snodgrass",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Alberto Mendelzon",
+       "role": "Information Director",
+       "to": 2001
+      },
+      {
+       "name": "Mario A. Nascimento",
+       "role": "Information Director",
+       "from": 2002,
+       "inline": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "Record 30(3) Sep 2001, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F603867"
+      },
+      {
+       "label": "SIGMOD Record, December 2002",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0212/Page1.pdf"
+      },
+      {
+       "label": "SIGMOD Record, December 2004",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0412/0.Page1.pdf"
+      }
+     ],
+     "election": [
+      {
+       "label": "Call for Nominations, SIGMOD Officers, Sep 2000",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0009/nominations.pdf"
+      }
+     ]
+    },
+    {
+     "from": 2005,
+     "to": 2009,
+     "chair": [
+      {
+       "name": "Raghu Ramakrishnan"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Yannis Ioannidis"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Mary Fernández"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Mario A. Nascimento",
+       "to": 2007
+      },
+      {
+       "name": "Alexandros Labrinidis",
+       "from": 2007,
+       "inline": true
+      }
+     ],
+     "members": [
+      {
+       "name": "Tamer Özsu",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Phokion Kolaitis",
+       "role": "PODS Chair",
+       "from": 2007,
+       "inline": true
+      },
+      {
+       "name": "Jianwen Su",
+       "role": "Conference Coordinator",
+       "to": 2007
+      },
+      {
+       "name": "Lisa Singh",
+       "role": "Conference Coordinator",
+       "from": 2007,
+       "inline": true
+      },
+      {
+       "name": "Alexandros Labrinidis",
+       "role": "Information Director",
+       "to": 2007
+      },
+      {
+       "name": "Jeffrey Xu Yu",
+       "role": "Information Director",
+       "from": 2007,
+       "inline": true
+      },
+      {
+       "name": "Curtis Dyreson",
+       "role": "Anthology Editor",
+       "from": 2007,
+       "column": "other",
+       "inline": true
+      },
+      {
+       "name": "Joachim Hammer",
+       "role": "DiSC Editor",
+       "from": 2007,
+       "column": "other",
+       "inline": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "SIGMOD Record, December 2005",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0512/p1-organizers.pdf"
+      },
+      {
+       "label": "SIGMOD Record, December 2007",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0712/p01.committees.pdf"
+      },
+      {
+       "label": "Record 36(2) Jun 2007, front matter (ACM DL)",
+       "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F1328854"
+      }
+     ],
+     "election": [
+      {
+       "label": "newly elected officers, Editor's Notes, Sep 2005",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0509/p2-editornotes.pdf"
+      }
+     ]
+    },
+    {
+     "from": 2009,
+     "to": 2013,
+     "chair": [
+      {
+       "name": "Yannis Ioannidis"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Christian S. Jensen"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Alexandros Labrinidis"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Alexandros Labrinidis",
+       "to": 2011
+      },
+      {
+       "name": "Ioana Manolescu",
+       "from": 2010,
+       "inline": true
+      }
+     ],
+     "members": [
+      {
+       "name": "Raghu Ramakrishnan",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Jan Paredaens",
+       "role": "PODS Chair",
+       "to": 2010
+      },
+      {
+       "name": "Maurizio Lenzerini",
+       "role": "PODS Chair",
+       "from": 2010,
+       "inline": true
+      },
+      {
+       "name": "Lisa Singh",
+       "role": "Conference Coordinator",
+       "showYears": true
+      },
+      {
+       "name": "Sihem Amer-Yahia",
+       "role": "Conference Coordinator",
+       "from": 2010,
+       "inline": true
+      },
+      {
+       "name": "Jeffrey Xu Yu",
+       "role": "Information Director",
+       "to": 2011
+      },
+      {
+       "name": "Curtis Dyreson",
+       "role": "Information Director",
+       "from": 2011,
+       "inline": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "SIGMOD Record, December 2009",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0912/p01.committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, March 2010 (Manolescu editor; Lenzerini PODS chair; Amer-Yahia conference coordinator)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1003/p01.committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, December 2011 (Dyreson information director)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1112/pdfs/01.committees.pdf"
+      }
+     ],
+     "election": [
+      {
+       "label": "SIGMOD Officers Election Process and candidate statements, Mar 2009",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/0903/p06.elections.tamer.pdf"
+      }
+     ]
+    },
+    {
+     "from": 2013,
+     "to": 2017,
+     "chair": [
+      {
+       "name": "Donald Kossmann"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Anastasia Ailamaki"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Magdalena Balazinska"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Ioana Manolescu",
+       "to": 2014
+      },
+      {
+       "name": "Yanlei Diao",
+       "from": 2014,
+       "inline": true
+      }
+     ],
+     "members": [
+      {
+       "name": "Yannis Ioannidis",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Richard Hull",
+       "role": "PODS Chair",
+       "to": 2014
+      },
+      {
+       "name": "Tova Milo",
+       "role": "PODS Chair",
+       "from": 2014
+      },
+      {
+       "name": "Jan Van den Bussche",
+       "role": "PODS Chair",
+       "from": 2016
+      },
+      {
+       "name": "K. Selçuk Candan",
+       "role": "Conference Coordinator"
+      },
+      {
+       "name": "Curtis Dyreson",
+       "role": "Information Director"
+      },
+      {
+       "name": "Christian S. Jensen",
+       "role": "TODS EiC",
+       "from": 2014,
+       "inline": true,
+       "noYears": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "SIGMOD Record, September 2013 (first issue with the new officers)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1309/pdfs/01.committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, June 2014 (Diao editor; Milo and Jensen, TODS EiC, listed)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1406/pdfs/01.committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, June 2016 (Van den Bussche listed)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1606/pdfs/01_committees.pdf"
+      }
+     ],
+     "election": [
+      {
+       "label": "election of the new officers, Editor's Notes, Sep 2013",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1309/pdfs/02.editor-notes.pdf"
+      }
+     ],
+     "yearRows": true
+    },
+    {
+     "from": 2017,
+     "to": 2021,
+     "chair": [
+      {
+       "name": "Juliana Freire"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Ihab Francis Ilyas"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Fatma Ozcan"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Yanlei Diao",
+       "to": 2019
+      },
+      {
+       "name": "Rada Chirkova",
+       "from": 2019
+      }
+     ],
+     "members": [
+      {
+       "name": "Donald Kossmann",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Jan Van den Bussche",
+       "role": "PODS Chair",
+       "to": 2018
+      },
+      {
+       "name": "Dan Suciu",
+       "role": "PODS Chair",
+       "from": 2018
+      },
+      {
+       "name": "Leonid Libkin",
+       "role": "PODS Chair",
+       "from": 2020
+      },
+      {
+       "name": "K. Selçuk Candan",
+       "role": "Conference Coordinator"
+      },
+      {
+       "name": "Curtis Dyreson",
+       "role": "Information Director"
+      },
+      {
+       "name": "Christian S. Jensen",
+       "role": "TODS EiC",
+       "to": 2020,
+       "inline": true
+      },
+      {
+       "name": "Chris Jermaine",
+       "role": "TODS EiC",
+       "from": 2020,
+       "inline": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "SIGMOD Record, June 2017 (first issue with the new officers)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1706/pdfs/01_committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, June 2018 (Kossmann, Suciu)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1806/pdfs/01_committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, September 2019 (Chirkova editor)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/1909/pdfs/01_committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, September 2020 (Tan, Doan, Jermaine, Libkin listed)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/2009/pdfs/01_committees.pdf"
+      }
+     ],
+     "election": [],
+     "yearRows": true
+    },
+    {
+     "from": 2021,
+     "to": 2025,
+     "chair": [
+      {
+       "name": "Divyakant Agrawal"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Fatma Ozcan"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Rachel Pottinger"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Rada Chirkova"
+      }
+     ],
+     "members": [
+      {
+       "name": "Juliana Freire",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Leonid Libkin",
+       "role": "PODS Chair",
+       "to": 2022
+      },
+      {
+       "name": "Floris Geerts",
+       "role": "PODS Chair",
+       "from": 2022
+      },
+      {
+       "name": "K. Selçuk Candan",
+       "role": "Conference Coordinator",
+       "to": 2022
+      },
+      {
+       "name": "Chris Jermaine",
+       "role": "TODS EiC"
+      },
+      {
+       "name": "Chris Jermaine",
+       "role": "Conference Coordinator",
+       "from": 2022
+      },
+      {
+       "name": "Curtis Dyreson",
+       "role": "Information Director",
+       "to": 2022
+      },
+      {
+       "name": "Sourav S Bhowmick",
+       "role": "Information Director",
+       "from": 2022
+      },
+      {
+       "name": "Sihem Amer-Yahia",
+       "role": "DEI Coordinator",
+       "to": 2024,
+       "inline": true
+      },
+      {
+       "name": "Genoveva Vargas Solar",
+       "role": "DEI Coordinator",
+       "from": 2024,
+       "inline": true
+      }
+     ],
+     "sources": [
+      {
+       "label": "SIGMOD Record, September 2021 (first issue with the new officers)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/2109/pdfs/01_committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, September 2022 (Jermaine conference coordinator, Geerts, Bonifati, El Abbadi, Bhowmick)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/2209/pdfs/01_committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, June 2024 (Meliou, Sudarshan, Vargas Solar)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/2406/pdfs/01_committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, June 2025 (Tao TODS EiC; last issue of the term)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/2506/pdfs/01_committees.pdf"
+      }
+     ],
+     "election": [],
+     "yearRows": true
+    },
+    {
+     "from": 2025,
+     "to": 2029,
+     "inProgress": true,
+     "chair": [
+      {
+       "name": "Angela Bonifati"
+      }
+     ],
+     "viceChair": [
+      {
+       "name": "Alexandra Meliou"
+      }
+     ],
+     "treasurer": [
+      {
+       "name": "Manos Athanassoulis"
+      }
+     ],
+     "editor": [
+      {
+       "name": "Rada Chirkova"
+      }
+     ],
+     "members": [
+      {
+       "name": "Divyakant Agrawal",
+       "role": "Past Chair"
+      },
+      {
+       "name": "Floris Geerts",
+       "role": "PODS Chair",
+       "to": 2025
+      },
+      {
+       "name": "Chris Jermaine",
+       "role": "Conference Coordinator"
+      },
+      {
+       "name": "Byron Choi",
+       "role": "Information Director"
+      },
+      {
+       "name": "Yufei Tao",
+       "role": "TODS EiC"
+      },
+      {
+       "name": "Yufei Tao",
+       "role": "PODS Chair",
+       "from": 2026
+      },
+      {
+       "name": "Sourav S Bhowmick",
+       "role": "Ethics"
+      },
+      {
+       "name": "Genoveva Vargas Solar",
+       "role": "DEI Coordinator"
+      }
+     ],
+     "sources": [
+      {
+       "label": "SIGMOD Record, December 2025",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/2512/pdfs/01_committees.pdf"
+      },
+      {
+       "label": "SIGMOD Record, September 2026 (latest issue; term runs to June 2029)",
+       "url": "https://sigmodrecord.org/publications/sigmodRecord/2609/pdfs/01_committees.pdf"
+      }
+     ],
+     "election": [],
+     "yearRows": true
+    }
+   ]
+  }
+ ]
+}

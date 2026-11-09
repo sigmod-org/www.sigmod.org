@@ -1,0 +1,44 @@
+---
+title: "SIGMOD Executive Committee"
+permalink: "/sigmod-history/officers/"
+section: "sigmod"
+area: "history"
+wp_type: "page"
+wide: true
+updated: "2026-11-08"
+editPath: "src/_data/officers.json"
+---
+{#- Tables come from src/_data/officers.json (periods -> terms), shaped by officerTerms.js. PC chairs come from programChairs.json. -#}
+<p class="lead">Who served as SIGMOD officers and on the Executive Committee, term by term, as listed in the front matter of SIGMOD Record.</p>
+
+<p>The group began in 1969 as SIGFIDET, with Don Hatfield as chair, took the name SIGMOD in 1974 and held its first officer election in the fall of 1975. Officers served two-year terms until 1993 and four-year terms since, starting in July. Each term's first row shows who served from its start, and the shaded rows below it show later changes; from 2013 they follow each year's PODS chair and TODS editor-in-chief, and from 2020, when they joined the Executive Committee, the SIGMOD PC chairs. Before 2007 the Record did not print the Executive Committee, so earlier members come from rosters, chair's messages and minutes. The numbers under each term are the issues used, as volume(issue).</p>
+
+<p>Corrections and earlier documents are welcome: <a href="{{ site.repo }}/issues/new">report a problem</a> or <a href="{{ site.editBase }}{{ editPath }}">suggest an edit</a>.</p>
+
+{%- macro names(list, sep) -%}
+  {%- for n in list %}<span class="t-e"><span class="t-n">{{ n.name }}</span>{% if n.note %} <span class="t-note">({{ n.note }})</span>{% endif %}</span>{% if not loop.last %}{{ sep | safe }}{% endif %}{% endfor -%}
+{%- endmacro %}
+
+{%- for period in officerTerms %}
+<h2 id="{{ period.id }}">{{ period.title }}, {{ period.first }}–{% if loop.first %}today{% else %}{{ period.last }}{% endif %}</h2>
+<p>{{ period.note }}</p>
+<table class="t-officers t-cols-{{ period.columns.length }}">
+  <thead><tr><th>Term<small>({{ period.issueLabel }})</small></th>{% for c in period.columns %}<th>{{ c.title }}{% if c.sub %}<small>{{ c.sub }}</small>{% endif %}</th>{% endfor %}</tr></thead>
+  <tbody>
+  {%- for r in period.rows %}
+    <tr class="{{ 't-term' if r.kind == 'term' else 't-sub' }}">
+      <td class="t-year">
+        {%- if r.kind == 'year' %}<span class="t-arrow" aria-hidden="true">↳ </span>{% endif %}{{ r.label }}
+        {%- if r.inProgress %}<span class="t-badge">current term</span>{% endif %}
+        {%- if r.links.length %}<span class="t-issues">{% for l in r.links %}<a href="{{ l.url }}" title="{{ l.title }}">{{ l.text }}</a>{% endfor %}</span>{% endif -%}
+      </td>
+      {%- for c in period.columns %}
+      <td data-h="{{ c.title }}" class="{{ 't-off' if c.key == 'officers' }}{{ ' t-lines' if c.key in ['officers', 'editor', 'info', 'conf'] }}{{ ' t-others' if c.key == 'others' }}{{ ' t-empty' if not r[c.key].length }}">
+        {{- names(r[c.key], '<br>' if c.key in ['officers', 'editor', 'info', 'conf'] else ', ') -}}
+      </td>
+      {%- endfor %}
+    </tr>
+  {%- endfor %}
+  </tbody>
+</table>
+{%- endfor %}

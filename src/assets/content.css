@@ -21,3 +21,44 @@
   .prose table.t-years { display: block; }
   .prose table.t-logos td:last-child:not([colspan]) { display: none; }
 }
+
+/* SIGMOD Executive Committee history (/sigmod-history/officers/) */
+.page-grid.wide { grid-template-columns: minmax(0, 1fr); }
+.page-grid.wide .prose { max-width: none; }
+.page-grid.wide .prose > p { max-width: 820px; }
+.prose table.t-officers { display: table; font-size: 13.5px; line-height: 1.45; }
+.prose table.t-officers th { font-size: 13px; position: sticky; top: 72px; z-index: 1; }
+.prose table.t-officers th small { display: block; font-weight: 400; font-size: 12px; color: var(--muted); }
+.prose table.t-officers td { padding: 7px 10px; }
+.prose table.t-officers td.t-year { white-space: nowrap; font-weight: 600; font-variant-numeric: tabular-nums; color: var(--ink); }
+.prose table.t-officers tr.t-term td { border-top: 2px solid #9aa5b4; }
+.prose table.t-officers tr.t-sub td { background: #f6f7f9; font-size: 13px; }
+.prose table.t-officers tr.t-sub td.t-year { font-weight: 500; padding-left: 14px; }
+.prose .t-arrow { color: #9ca3af; }
+.prose table.t-officers + h2 { margin-top: 2.2em; }
+.prose .t-badge { display: block; width: max-content; margin-top: 4px; padding: 1px 6px; border-radius: 4px; font-size: 11px; font-weight: 600; color: var(--accent); background: var(--accent-soft); }
+.prose table.t-officers .t-n { white-space: nowrap; }
+.prose table.t-officers th:first-child, .prose table.t-officers td.t-year { min-width: 7.5em; }
+/* the long lists get a fixed share; names themselves never break (.t-n) */
+@media (min-width: 901px) {
+  .prose table.t-officers td.t-others { width: 34%; }
+  .prose table.t-officers.t-cols-3 td.t-others { width: 62%; }
+  .prose table.t-officers td.t-lines .t-note { white-space: nowrap; }
+}
+.prose table.t-officers .t-note { color: var(--muted); }
+.prose .t-issues { display: flex; flex-wrap: wrap; gap: 2px 8px; margin-top: 4px; font-weight: 400; font-size: 12px; max-width: 9em; }
+@media (max-width: 900px) {
+  .prose table.t-officers, .prose table.t-officers tbody, .prose table.t-officers tr, .prose table.t-officers td { display: block; }
+  .prose table.t-officers thead { display: none; }
+  .prose table.t-officers tr { padding: 10px 0; border-bottom: 1px solid var(--line); }
+  .prose table.t-officers tr.t-term { border-top: 2px solid #9aa5b4; }
+  .prose table.t-officers tr.t-term td, .prose table.t-officers tr.t-sub td { border-top: 0; background: none; }
+  .prose table.t-officers tr.t-sub { background: #f6f7f9; padding: 8px 10px; }
+  .prose table.t-officers td.t-empty { display: none; }
+  .prose .t-issues { max-width: none; }
+  .prose table.t-officers td { border: 0; padding: 2px 0; }
+  .prose table.t-officers td.t-off[data-h]::before { display: block; }
+  .prose table.t-officers td[data-h]::before { content: attr(data-h) ": "; font-weight: 600; color: var(--muted); font-size: 12px; }
+  .prose table.t-officers td.t-year { font-size: 16px; }
+}
+

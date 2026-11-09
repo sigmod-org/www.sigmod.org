@@ -126,6 +126,7 @@ const history = {
     { label: "History", url: "/sigmod-history/" },
     { label: "Mission", url: "/sigmod-history/sigmods-mission/" },
     { label: "Logo history", url: "/sigmod-history/sigmod-logo-history/" },
+    { label: "SIGMOD Executive Committee", url: "/sigmod-history/officers/" },
     { label: "Conference program chairs", url: "/sigmod-history/program-chair/" },
     { label: "SIGMOD Online", url: "/sigmod-history/sigmod-online/" },
     { label: "Archive", url: "/archive/" },

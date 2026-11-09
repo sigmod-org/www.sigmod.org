@@ -1,0 +1,15 @@
+---
+edited: true
+title: "SIGMOD Conference Program Chairs"
+permalink: "/sigmod-history/program-chair/"
+section: "sigmod"
+area: "about"
+wp_id: 1331
+wp_type: "page"
+wp_parent: 1324
+updated: "2025-07-22"
+editPath: "src/_data/programChairs.json"
+---
+
+{#- Rows come from src/_data/programChairs.json: add the new conference at the top of that file. -#}
+<table class="t-years"><tbody>{% for r in programChairs %}<tr><td><a href="{{ r.url }}">{% if r.yearUnderline %}<u>{{ r.year }}</u>{% else %}{{ r.year }}{% endif %}</a></td><td>{{ r.location }}</td><td>{% for c in r.chairs %}{% if not loop.first %}{{ r.separator or " and " }}{% endif %}<a href="{{ c.url }}"><u>{{ c.name }}</u></a>{% if c.note %} ({{ c.note }}){% endif %}{% endfor %}</td></tr>{% endfor %}</tbody></table>

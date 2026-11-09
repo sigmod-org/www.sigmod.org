@@ -6,15 +6,11 @@ area: "about"
 edited: true
 ---
 
-SIGMOD and PODS are run by volunteers. These are the people currently serving on SIGMOD's committees and boards. The officers are listed on [About SIGMOD](/about-sigmod/).
+SIGMOD and PODS are run by volunteers. These are the people currently serving on SIGMOD's committees and boards. The officers and the Executive Committee are listed on [About SIGMOD](/about-sigmod/).
 
 ### SIGMOD Advisory Board
 
 Divy Agrawal (Chair), Sihem Amer-Yahia, Alexandre Böhm, Amr El Abbadi, Avrilia Floratou, Christian Jensen, Tamer Özsu, Kian-Lee Tan
-
-### SIGMOD Executive Committee
-
-Angela Bonifati (Chair), Alexandra Meliou (Vice Chair), Manos Athanassoulis (Secretary Treasurer), Divyakant Agrawal (Previous SIGMOD Chair), Yufei Tao (ACM TODS Editor-in-Chief and Chair of PODS), Carsten Binnig & Sudeepa Roy (2026 SIGMOD PC co-chairs), Rada Chirkova (SIGMOD Record Editor-in-Chief), Genoveva Vargas Solar (SIGMOD Diversity and Inclusion Coordinator), Chris Jermaine (SIGMOD Conference Coordinator), Sourav S Bhowmick (SIGMOD Ethics), Byron Choi (Information Director)
 
 ### SIGMOD PC Chair Board
 
@@ -80,4 +76,5 @@ Carsten Binnig, Rada Chirkova, Alfons Kemper, Samuel Madden, Julia Stoyanovich, 
 -   [SIGMOD Awards Committee, since 1999](/sigmod-awards/committees/sigmod-awards-committee/)
 -   [Jim Gray Doctoral Dissertation Award Committee](/sigmod-awards/committees/jim-gray-doctoral-dissertation-awards-committee/)
 -   [Systems Award Committee](/sigmod-awards/committees/systems-awards-committee/)
+-   [SIGMOD Executive Committee, since 1969](/sigmod-history/officers/)
 -   [SIGMOD Conference program chairs](/sigmod-history/program-chair/)

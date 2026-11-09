@@ -23,9 +23,15 @@ It is easy to [join SIGMOD](/join/). You may become a SIGMOD member even if you 
 <figure><img src="/assets/officers/manos-athanassoulis.jpg" alt="Manos Athanassoulis" loading="lazy"><figcaption><span>Secretary/Treasurer</span><strong><a href="https://cs-people.bu.edu/mathan/">Manos Athanassoulis</a></strong><em>Boston University, USA</em></figcaption></figure>
 </div>
 
+### SIGMOD Executive Committee
+
+Angela Bonifati (Chair), Alexandra Meliou (Vice Chair), Manos Athanassoulis (Secretary Treasurer), Divyakant Agrawal (Previous SIGMOD Chair), Yufei Tao (ACM TODS Editor-in-Chief and Chair of PODS), Carsten Binnig & Sudeepa Roy (2026 SIGMOD PC co-chairs), Rada Chirkova (SIGMOD Record Editor-in-Chief), Genoveva Vargas Solar (SIGMOD Diversity and Inclusion Coordinator), Chris Jermaine (SIGMOD Conference Coordinator), Sourav S Bhowmick (SIGMOD Ethics), Byron Choi (Information Director)
+
+Past officers and Executive Committee members since 1969 are listed in the [SIGMOD Executive Committee history](/sigmod-history/officers/).
+
 ### Committees and volunteers
 
-SIGMOD is run by volunteers. The executive committee, advisory boards, editors and award committees are listed on the [Committees](/about-sigmod/committees/) page.
+SIGMOD is run by volunteers. The advisory boards, editors and award committees are listed on the [Committees](/about-sigmod/committees/) page.
 
 ### More about SIGMOD
 
