@@ -62,3 +62,8 @@
   .prose table.t-officers td.t-year { font-size: 16px; }
 }
 
+
+/* PODS Hall of Fame (data from scripts/pods-hall-of-fame.mjs) */
+.prose table.t-hof { display: table; font-variant-numeric: tabular-nums; }
+.prose table.t-hof .t-num { text-align: right; white-space: nowrap; }
+.prose table.t-hof .t-total { font-weight: 600; }

@@ -1,0 +1,879 @@
+{
+  "generated": "2026-11-11",
+  "source": "dblp (sparql.dblp.org)",
+  "minPapers": 10,
+  "papers": 1472,
+  "firstYear": 1982,
+  "lastYear": 2026,
+  "byYear": {
+    "1982": 37,
+    "1983": 38,
+    "1984": 36,
+    "1985": 30,
+    "1986": 29,
+    "1987": 37,
+    "1988": 36,
+    "1989": 38,
+    "1990": 36,
+    "1991": 30,
+    "1992": 33,
+    "1993": 27,
+    "1994": 32,
+    "1995": 29,
+    "1996": 25,
+    "1997": 27,
+    "1998": 32,
+    "1999": 35,
+    "2000": 29,
+    "2001": 29,
+    "2002": 27,
+    "2003": 29,
+    "2004": 33,
+    "2005": 35,
+    "2006": 39,
+    "2007": 31,
+    "2008": 31,
+    "2009": 29,
+    "2010": 30,
+    "2011": 28,
+    "2012": 29,
+    "2013": 27,
+    "2014": 25,
+    "2015": 28,
+    "2016": 36,
+    "2017": 34,
+    "2018": 34,
+    "2019": 33,
+    "2020": 31,
+    "2021": 31,
+    "2022": 37,
+    "2023": 33,
+    "2024": 43,
+    "2025": 49,
+    "2026": 45
+  },
+  "decades": [
+    {
+      "from": 1982,
+      "to": 1989,
+      "label": "’82–’89"
+    },
+    {
+      "from": 1990,
+      "to": 1999,
+      "label": "’90–’99"
+    },
+    {
+      "from": 2000,
+      "to": 2009,
+      "label": "’00–’09"
+    },
+    {
+      "from": 2010,
+      "to": 2019,
+      "label": "’10–’19"
+    },
+    {
+      "from": 2020,
+      "to": 2029,
+      "label": "’20–"
+    }
+  ],
+  "authors": [
+    {
+      "name": "Leonid Libkin",
+      "dblp": "https://dblp.org/pid/l/LeonidLibkin",
+      "total": 41,
+      "perDecade": [
+        0,
+        8,
+        14,
+        13,
+        6
+      ]
+    },
+    {
+      "name": "Dan Suciu",
+      "dblp": "https://dblp.org/pid/s/DanSuciu",
+      "total": 40,
+      "perDecade": [
+        0,
+        6,
+        9,
+        11,
+        14
+      ]
+    },
+    {
+      "name": "Georg Gottlob",
+      "dblp": "https://dblp.org/pid/g/GeorgGottlob",
+      "total": 34,
+      "perDecade": [
+        1,
+        4,
+        14,
+        12,
+        3
+      ]
+    },
+    {
+      "name": "Benny Kimelfeld",
+      "dblp": "https://dblp.org/pid/74/3195",
+      "total": 32,
+      "perDecade": [
+        0,
+        0,
+        4,
+        22,
+        6
+      ]
+    },
+    {
+      "name": "Phokion G. Kolaitis",
+      "dblp": "https://dblp.org/pid/k/PGKolaitis",
+      "total": 32,
+      "perDecade": [
+        1,
+        5,
+        11,
+        8,
+        7
+      ]
+    },
+    {
+      "name": "Victor Vianu",
+      "dblp": "https://dblp.org/pid/v/VictorVianu",
+      "total": 31,
+      "perDecade": [
+        7,
+        9,
+        10,
+        3,
+        2
+      ]
+    },
+    {
+      "name": "Yehoshua Sagiv",
+      "dblp": "https://dblp.org/pid/26/5086",
+      "total": 31,
+      "perDecade": [
+        12,
+        10,
+        8,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Moshe Y. Vardi",
+      "dblp": "https://dblp.org/pid/v/MosheYVardi",
+      "total": 28,
+      "perDecade": [
+        13,
+        8,
+        4,
+        3,
+        0
+      ]
+    },
+    {
+      "name": "Serge Abiteboul",
+      "dblp": "https://dblp.org/pid/a/SergeAbiteboul",
+      "total": 28,
+      "perDecade": [
+        8,
+        8,
+        9,
+        3,
+        0
+      ]
+    },
+    {
+      "name": "David P. Woodruff",
+      "dblp": "https://dblp.org/pid/w/DPWoodruff",
+      "total": 26,
+      "perDecade": [
+        0,
+        0,
+        2,
+        12,
+        12
+      ]
+    },
+    {
+      "name": "Yufei Tao",
+      "dblp": "https://dblp.org/pid/t/YufeiTao",
+      "total": 24,
+      "perDecade": [
+        0,
+        0,
+        1,
+        14,
+        9
+      ]
+    },
+    {
+      "name": "Jan Van den Bussche",
+      "dblp": "https://dblp.org/pid/b/JVdBussche",
+      "total": 22,
+      "perDecade": [
+        0,
+        10,
+        4,
+        3,
+        5
+      ]
+    },
+    {
+      "name": "Ronald Fagin",
+      "dblp": "https://dblp.org/pid/f/RonaldFagin",
+      "total": 22,
+      "perDecade": [
+        2,
+        2,
+        11,
+        7,
+        0
+      ]
+    },
+    {
+      "name": "Tova Milo",
+      "dblp": "https://dblp.org/pid/m/TovaMilo",
+      "total": 22,
+      "perDecade": [
+        0,
+        9,
+        7,
+        6,
+        0
+      ]
+    },
+    {
+      "name": "Frank Neven",
+      "dblp": "https://dblp.org/pid/n/FrankNeven",
+      "total": 21,
+      "perDecade": [
+        0,
+        3,
+        6,
+        8,
+        4
+      ]
+    },
+    {
+      "name": "Andreas Pieris",
+      "dblp": "https://dblp.org/pid/89/5672",
+      "total": 20,
+      "perDecade": [
+        0,
+        0,
+        0,
+        9,
+        11
+      ]
+    },
+    {
+      "name": "Mahmoud Abo Khamis",
+      "dblp": "https://dblp.org/pid/144/7839",
+      "total": 19,
+      "perDecade": [
+        0,
+        0,
+        0,
+        6,
+        13
+      ]
+    },
+    {
+      "name": "Paraschos Koutris",
+      "dblp": "https://dblp.org/pid/49/8316",
+      "total": 19,
+      "perDecade": [
+        0,
+        0,
+        0,
+        7,
+        12
+      ]
+    },
+    {
+      "name": "Christos H. Papadimitriou",
+      "dblp": "https://dblp.org/pid/p/CHPapadimitriou",
+      "total": 18,
+      "perDecade": [
+        9,
+        6,
+        2,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Luc Segoufin",
+      "dblp": "https://dblp.org/pid/s/LucSegoufin",
+      "total": 18,
+      "perDecade": [
+        0,
+        1,
+        9,
+        5,
+        3
+      ]
+    },
+    {
+      "name": "Michael Benedikt",
+      "dblp": "https://dblp.org/pid/b/MichaelBenedikt",
+      "total": 18,
+      "perDecade": [
+        0,
+        5,
+        5,
+        6,
+        2
+      ]
+    },
+    {
+      "name": "Reinhard Pichler",
+      "dblp": "https://dblp.org/pid/26/5252",
+      "total": 18,
+      "perDecade": [
+        0,
+        0,
+        3,
+        7,
+        8
+      ]
+    },
+    {
+      "name": "Dirk Van Gucht",
+      "dblp": "https://dblp.org/pid/g/DirkVanGucht",
+      "total": 17,
+      "perDecade": [
+        4,
+        9,
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Marcelo Arenas",
+      "dblp": "https://dblp.org/pid/76/6735",
+      "total": 17,
+      "perDecade": [
+        0,
+        1,
+        6,
+        6,
+        4
+      ]
+    },
+    {
+      "name": "Wenfei Fan",
+      "dblp": "https://dblp.org/pid/94/2372",
+      "total": 17,
+      "perDecade": [
+        0,
+        2,
+        8,
+        7,
+        0
+      ]
+    },
+    {
+      "name": "Xiao Hu",
+      "dblp": "https://dblp.org/pid/19/1374-5",
+      "total": 17,
+      "perDecade": [
+        0,
+        0,
+        0,
+        3,
+        14
+      ]
+    },
+    {
+      "name": "Jeffrey D. Ullman",
+      "dblp": "https://dblp.org/pid/u/JeffreyDUllman",
+      "total": 16,
+      "perDecade": [
+        11,
+        4,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Ke Yi",
+      "dblp": "https://dblp.org/pid/43/1219-1",
+      "total": 16,
+      "perDecade": [
+        0,
+        0,
+        3,
+        9,
+        4
+      ]
+    },
+    {
+      "name": "Pablo Barceló",
+      "dblp": "https://dblp.org/pid/29/5169",
+      "total": 16,
+      "perDecade": [
+        0,
+        0,
+        2,
+        10,
+        4
+      ]
+    },
+    {
+      "name": "Christoph Koch",
+      "dblp": "https://dblp.org/pid/k/ChristophKoch",
+      "total": 15,
+      "perDecade": [
+        0,
+        0,
+        7,
+        3,
+        5
+      ]
+    },
+    {
+      "name": "Graham Cormode",
+      "dblp": "https://dblp.org/pid/c/GrahamCormode",
+      "total": 15,
+      "perDecade": [
+        0,
+        0,
+        6,
+        3,
+        6
+      ]
+    },
+    {
+      "name": "Hung Q. Ngo",
+      "dblp": "https://dblp.org/pid/n/HungQNgo",
+      "total": 15,
+      "perDecade": [
+        0,
+        0,
+        0,
+        9,
+        6
+      ]
+    },
+    {
+      "name": "Raghu Ramakrishnan",
+      "dblp": "https://dblp.org/pid/r/RaghuRamakrishnan",
+      "total": 15,
+      "perDecade": [
+        7,
+        6,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Alberto O. Mendelzon",
+      "dblp": "https://dblp.org/pid/m/AOMendelzon",
+      "total": 14,
+      "perDecade": [
+        3,
+        7,
+        4,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Floris Geerts",
+      "dblp": "https://dblp.org/pid/g/FlorisGeerts",
+      "total": 14,
+      "perDecade": [
+        0,
+        0,
+        5,
+        6,
+        3
+      ]
+    },
+    {
+      "name": "Pankaj K. Agarwal",
+      "dblp": "https://dblp.org/pid/a/PankajKAgarwal",
+      "total": 14,
+      "perDecade": [
+        0,
+        1,
+        3,
+        6,
+        4
+      ]
+    },
+    {
+      "name": "Wim Martens",
+      "dblp": "https://dblp.org/pid/95/3517",
+      "total": 14,
+      "perDecade": [
+        0,
+        0,
+        1,
+        8,
+        5
+      ]
+    },
+    {
+      "name": "Avi Silberschatz",
+      "dblp": "https://dblp.org/pid/s/AbrahamSilberschatz",
+      "total": 13,
+      "perDecade": [
+        4,
+        8,
+        0,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Nicole Schweikardt",
+      "dblp": "https://dblp.org/pid/s/NicoleSchweikardt",
+      "total": 13,
+      "perDecade": [
+        0,
+        0,
+        4,
+        4,
+        5
+      ]
+    },
+    {
+      "name": "S. Muthukrishnan",
+      "dblp": "https://dblp.org/pid/m/SMuthukrishnan",
+      "total": 13,
+      "perDecade": [
+        0,
+        1,
+        8,
+        4,
+        0
+      ]
+    },
+    {
+      "name": "Alon Y. Halevy",
+      "dblp": "https://dblp.org/pid/h/AlonYHalevy",
+      "total": 12,
+      "perDecade": [
+        0,
+        8,
+        3,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Catriel Beeri",
+      "dblp": "https://dblp.org/pid/b/CBeeri",
+      "total": 12,
+      "perDecade": [
+        6,
+        6,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Dan Olteanu",
+      "dblp": "https://dblp.org/pid/o/DanOlteanu",
+      "total": 12,
+      "perDecade": [
+        0,
+        0,
+        0,
+        3,
+        9
+      ]
+    },
+    {
+      "name": "Paris C. Kanellakis",
+      "dblp": "https://dblp.org/pid/k/ParisCKanellakis",
+      "total": 12,
+      "perDecade": [
+        6,
+        6,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Richard Hull",
+      "dblp": "https://dblp.org/pid/h/RichardHull",
+      "total": 12,
+      "perDecade": [
+        7,
+        4,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Stavros Sintos",
+      "dblp": "https://dblp.org/pid/151/3111",
+      "total": 12,
+      "perDecade": [
+        0,
+        0,
+        0,
+        1,
+        11
+      ]
+    },
+    {
+      "name": "Wang Chiew Tan",
+      "dblp": "https://dblp.org/pid/t/WangChiewTan",
+      "total": 12,
+      "perDecade": [
+        0,
+        0,
+        8,
+        4,
+        0
+      ]
+    },
+    {
+      "name": "Cristian Riveros",
+      "dblp": "https://dblp.org/pid/72/4028",
+      "total": 11,
+      "perDecade": [
+        0,
+        0,
+        1,
+        4,
+        6
+      ]
+    },
+    {
+      "name": "Divesh Srivastava",
+      "dblp": "https://dblp.org/pid/s/DiveshSrivastava",
+      "total": 11,
+      "perDecade": [
+        0,
+        6,
+        4,
+        0,
+        1
+      ]
+    },
+    {
+      "name": "Jan Paredaens",
+      "dblp": "https://dblp.org/pid/p/JParedaens",
+      "total": 11,
+      "perDecade": [
+        2,
+        5,
+        2,
+        1,
+        1
+      ]
+    },
+    {
+      "name": "Jef Wijsen",
+      "dblp": "https://dblp.org/pid/w/JefWijsen",
+      "total": 11,
+      "perDecade": [
+        0,
+        0,
+        0,
+        5,
+        6
+      ]
+    },
+    {
+      "name": "Martin Grohe",
+      "dblp": "https://dblp.org/pid/g/MGrohe",
+      "total": 11,
+      "perDecade": [
+        0,
+        0,
+        4,
+        2,
+        5
+      ]
+    },
+    {
+      "name": "Rasmus Pagh",
+      "dblp": "https://dblp.org/pid/p/RasmusPagh",
+      "total": 11,
+      "perDecade": [
+        0,
+        0,
+        2,
+        6,
+        3
+      ]
+    },
+    {
+      "name": "Thomas Schwentick",
+      "dblp": "https://dblp.org/pid/s/TSchwentick",
+      "total": 11,
+      "perDecade": [
+        0,
+        1,
+        7,
+        3,
+        0
+      ]
+    },
+    {
+      "name": "Val Tannen",
+      "dblp": "https://dblp.org/pid/t/ValTannen",
+      "total": 11,
+      "perDecade": [
+        0,
+        2,
+        2,
+        4,
+        3
+      ]
+    },
+    {
+      "name": "Andrew McGregor",
+      "dblp": "https://dblp.org/pid/51/1169",
+      "total": 10,
+      "perDecade": [
+        0,
+        0,
+        3,
+        6,
+        1
+      ]
+    },
+    {
+      "name": "Diego Calvanese",
+      "dblp": "https://dblp.org/pid/c/DiegoCalvanese",
+      "total": 10,
+      "perDecade": [
+        0,
+        3,
+        4,
+        2,
+        1
+      ]
+    },
+    {
+      "name": "Jeffrey F. Naughton",
+      "dblp": "https://dblp.org/pid/n/JeffreyFNaughton",
+      "total": 10,
+      "perDecade": [
+        4,
+        4,
+        1,
+        1,
+        0
+      ]
+    },
+    {
+      "name": "Jianwen Su",
+      "dblp": "https://dblp.org/pid/s/JWSu",
+      "total": 10,
+      "perDecade": [
+        3,
+        5,
+        2,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Marco Calautti",
+      "dblp": "https://dblp.org/pid/134/9015",
+      "total": 10,
+      "perDecade": [
+        0,
+        0,
+        0,
+        3,
+        7
+      ]
+    },
+    {
+      "name": "Mihalis Yannakakis",
+      "dblp": "https://dblp.org/pid/y/MihalisYannakakis",
+      "total": 10,
+      "perDecade": [
+        5,
+        4,
+        1,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Nofar Carmeli",
+      "dblp": "https://dblp.org/pid/179/2145",
+      "total": 10,
+      "perDecade": [
+        0,
+        0,
+        0,
+        2,
+        8
+      ]
+    },
+    {
+      "name": "Oded Shmueli",
+      "dblp": "https://dblp.org/pid/s/OShmueli",
+      "total": 10,
+      "perDecade": [
+        8,
+        2,
+        0,
+        0,
+        0
+      ]
+    },
+    {
+      "name": "Qin Zhang",
+      "dblp": "https://dblp.org/pid/45/47-1",
+      "total": 10,
+      "perDecade": [
+        0,
+        0,
+        1,
+        7,
+        2
+      ]
+    }
+  ],
+  "excluded": [
+    "2016 ACM PODS Alberto O. Mendelzon Test-of-Time Award.",
+    "2017 ACM PODS Alberto O. Mendelzon Test-of-Time Award.",
+    "2018 ACM PODS Alberto O. Mendelzon Test-of-Time Award.",
+    "2019 ACM PODS Alberto O. Mendelzon Test-of-Time Award.",
+    "2020 ACM PODS Alberto O. Mendelzon Test-of-Time Award.",
+    "2021 ACM PODS Alberto O. Mendelzon Test-of-Time Award.",
+    "2022 ACM PODS Alberto O. Mendelzon Test-of-Time Award.",
+    "Corrigendum: Are Few Bins Enough: Testing Histogram Distributions.",
+    "Erratum for: Approximating and Testing k-Histogram Distributions in Sub-linear Time.",
+    "Forword.",
+    "In Memoriam: Paris C. Kanellakis.",
+    "PACMMOD V3, N5 (PODS), November 2025 Editorial.",
+    "PACMMOD Volume 2 Issue 2: Editorial.",
+    "PACMMOD, V2, N5 (PODS), November 2024 Editorial.",
+    "PACMMOD, V3, N2 (PODS), May 2025 Editorial.",
+    "PACMMOD, V4, N2 (PODS), May 2026 Editorial.",
+    "The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2015.",
+    "The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2023.",
+    "The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2024.",
+    "The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2025.",
+    "The ACM PODS Alberto O. Mendelzon Test-of-Time Award 2026.",
+    "The ACM PODS Alberto O. Mendelzon test-of-time award 2012.",
+    "The ACM PODS Alberto O. Mendelzon test-of-time award 2013.",
+    "The ACM PODS Alberto O. Mendelzon test-of-time-award 2009.",
+    "The ACM PODS Alberto O. Mendelzon test-of-time-award 2010."
+  ]
+}
