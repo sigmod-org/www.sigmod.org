@@ -9,9 +9,9 @@ wp_parent: 390
 updated: "2026-11-11"
 editPath: "scripts/pods-hall-of-fame.mjs"
 ---
-{#- The table comes from src/_data/podsHallOfFame.json, which scripts/pods-hall-of-fame.mjs rebuilds from dblp before every build. -#}
+{#- The table comes from src/_data/podsHallOfFame.json, which scripts/pods-hall-of-fame.mjs rebuilds from dblp every two months (.github/workflows/pods-hall-of-fame.yml). -#}
 {%- set hof = podsHallOfFame %}
-<p>This table lists the authors with {{ hof.minPapers }} or more papers in PODS (inspired by the ISCA Hall of Fame). It is recounted from <a href="https://dblp.org/db/conf/pods/">dblp</a> every time the site is published, most recently on {{ hof.generated | date }}, and covers {{ hof.papers }} papers from {{ hof.firstYear }} to {{ hof.lastYear }}.</p>
+<p>This table lists the authors with {{ hof.minPapers }} or more papers in PODS (inspired by the ISCA Hall of Fame). It is recounted from <a href="https://dblp.org/db/conf/pods/">dblp</a> every two months, most recently on {{ hof.generated | date }}, and covers {{ hof.papers }} papers from {{ hof.firstYear }} to {{ hof.lastYear }}.</p>
 
 <p>Papers are counted by conference year. Since 2024, PODS papers appear in the PODS issues of <em>Proceedings of the ACM on Management of Data</em> (PACMMOD), and keynotes and tutorials in the PODS Companion; both are counted, as the proceedings were before. Award notices, editorials, forewords, errata and obituaries are not. Authors are matched by their dblp profile, so a wrong count usually means a dblp profile needs fixing. If you suspect an error, please <a href="{{ site.repo }}/issues/new">let us know</a>.</p>
 

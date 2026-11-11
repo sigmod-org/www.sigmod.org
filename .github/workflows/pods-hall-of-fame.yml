@@ -1,0 +1,46 @@
+# Recounts the PODS Hall of Fame from dblp every two months, commits the new
+# src/_data/podsHallOfFame.json to main and publishes the site.
+# Run it by hand from the Actions tab (Run workflow), e.g. after a new PODS issue is in dblp.
+#
+# If dblp cannot be reached or the counts look wrong, the run fails, nothing is
+# committed and the site keeps its current table; GitHub e-mails the failure.
+name: Update PODS Hall of Fame
+
+on:
+  schedule:
+    - cron: "17 6 1 */2 *"   # 06:17 UTC on the 1st of January, March, May, July, September, November
+  workflow_dispatch:
+
+permissions:
+  contents: write   # commit the new data
+  actions: write    # start the Publish on GitHub Pages workflow
+
+concurrency:
+  group: pods-hall-of-fame
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Recount from dblp
+        run: node scripts/pods-hall-of-fame.mjs --strict
+      - name: Commit and publish
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if git diff --quiet -- src/_data/podsHallOfFame.json; then
+            echo "No change in the data."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add src/_data/podsHallOfFame.json
+          git commit -m "PODS Hall of Fame: recount from dblp"
+          git push
+          # A push made by this workflow does not start other workflows, so start the publish run here.
+          gh workflow run pages.yml --ref main

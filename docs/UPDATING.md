@@ -26,6 +26,7 @@ What gets updated, when, by whom, and how. Most updates touch one file.
 | Executive Committee history | Same as above | SIGMOD Chair or Secretary/Treasurer | [Executive Committee history](#executive-committee-history) |
 | Boards, editors, award committees | When members change | Chair of each board or committee | [People](#people) |
 | PODS organization and PC | When members change | PODS Chair | [People](#people) |
+| PODS Hall of Fame | Automatic, every two months, from dblp | PODS Chair | [PODS Hall of Fame](#pods-hall-of-fame) |
 | Membership numbers | Once a year, from ACM's statistics | Secretary/Treasurer | One sentence in `src/content/pages/membership/index.md` |
 | Menus | When a page is added or retired | Information Directors | `src/_data/nav.js` |
 | Partners, volunteer note | Rarely | SIGMOD Chair or Secretary/Treasurer | `src/_data/site.js` |
@@ -181,6 +182,24 @@ is added or retired.
 | PODS organization and PCs | `src/content/pages/pods-home/pods-organization/index.md` |
 
 When the Executive Committee changes, also update its history (next section).
+
+### PODS Hall of Fame
+
+`/pods-home/who-are-we/` is built from `src/_data/podsHallOfFame.json`. Do not
+edit that file: the **Update PODS Hall of Fame** workflow
+(`.github/workflows/pods-hall-of-fame.yml`) recounts it from dblp on the 1st of
+every other month, commits it and publishes the site. What counts as a PODS
+paper is described at the top of `scripts/pods-hall-of-fame.mjs`.
+
+- **Recount now** (e.g. after a new PODS issue appears in dblp): Actions tab →
+  Update PODS Hall of Fame → Run workflow.
+- **A count is wrong:** usually a dblp author profile is split or merged
+  wrongly; ask dblp to fix it, and the next recount picks it up.
+- **A run failed:** dblp was down or the counts looked wrong (a year without
+  papers, or far fewer papers than before). Nothing was committed; run it again
+  later, or check the log.
+- GitHub turns off scheduled workflows in a public repository after 60 days
+  without commits. If it does, the Actions tab shows a button to turn it back on.
 
 ### Executive Committee history
 

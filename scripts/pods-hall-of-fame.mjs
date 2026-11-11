@@ -1,6 +1,8 @@
 #!/usr/bin/env node
 // Builds the PODS Hall of Fame data (src/_data/podsHallOfFame.json) from dblp.
-// Runs before every `npm run build` (the "prebuild" script), so each deploy recounts.
+// Runs every two months from .github/workflows/pods-hall-of-fame.yml, which commits the result
+// and publishes the site; the site build itself only reads the committed JSON.
+// Run it by hand with `npm run hall-of-fame`.
 //
 // What counts as a PODS paper
 //   - every authored entry in the PODS proceedings, 1982-2023 (dblp TOCs db/conf/pods/podsNN)
@@ -19,8 +21,8 @@
 // People are counted by dblp person id, so name variants a person has in dblp count together.
 //
 // If dblp cannot be reached, or the new data look wrong (a year without papers, or far fewer
-// papers than the last run), the script keeps the existing JSON and exits 0, so a deploy never
-// fails or publishes a broken table because of dblp. Pass --strict to exit 1 instead.
+// papers than the last run), the script keeps the existing JSON and exits 0. With --strict (as the
+// scheduled workflow runs it) it exits 1 instead, so the run fails visibly and commits nothing.
 //
 // Usage: node scripts/pods-hall-of-fame.mjs [--strict] [--dry-run]
 
