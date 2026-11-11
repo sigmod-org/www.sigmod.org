@@ -7,7 +7,7 @@ area: "pods"
 wp_id: 397
 wp_type: "page"
 wp_parent: 390
-updated: "2026-08-16"
+updated: "2026-11-11"
 ---
 
 PODS is run by the Executive Committee, which consists of the current and past two General Chairs and the current and past two Program Committee Chairs. The Executive Committee appoints the Program Committee Chair (two years in advance) and the General Chair. It also chooses the invited keynote speaker for the following conference. The General Chair is appointed for two years.
@@ -22,40 +22,43 @@ The PODS Advisory Board comprises members of the database community who advise t
 
 **Program Committee Statistics**
 
--   A total of 292 people served on PODS PCs from 1982 to 2020.
--   On average, someone who served on a PODS PC served on 2.22 committees.
--   The smallest PODS PC had 8 members (1982) and the largest 25 members (2020).
--   Most people have served in one PC (153) or two PCs (50).
+-   A total of 339 people served on PODS PCs from 1982 to 2027.
+-   On average, someone who served on a PODS PC served on 2.36 committees.
+-   The smallest PODS PC had 8 members (1982–1984) and the largest 27 members (2026 and 2027).
+-   Most people have served in one PC (175) or two PCs (46).
 
-The people that have served most often in a PODS PC are:
+The people that have served most often in a PODS PC, as member or chair, are:
 
-<table><tbody><tr><td>9</td><td>times:&nbsp;</td><td>Dan Suciu, Jan Van den Bussche.</td></tr><tr><td>8</td><td>times:&nbsp;</td><td>Alin Deutsch, Moshe Y. Vardi.</td></tr><tr><td>7</td><td>times:&nbsp;</td><td>Serge Abiteboul, Richard Hull, Jianwen Su, Victor Vianu, Marcelo Arenas, Mihalis Yannakakis.</td></tr><tr><td>6</td><td>times:</td><td>Catriel Beeri, Diego Calvanese, Frank Neven, Graham Cormode, Leonid Libkin, Luc Segoufin, Martin Grohe, Jeffrey D. Ullman, Thomas Schwentick, Wenfei Fan.</td></tr><tr><td>5</td><td>times:</td><td>Alberto O. Mendelzon, Christos Faloutsos, Dirk Van Gucht, Foto N. Afrati, Heikki Mannila, Jeff Naughton, Limsoon Wong, Phokion G. Kolaitis, Ronald Fagin, Sudipto Guha, Thomas Eiter, Tova Milo, Yufei Tao, Z. Meral Özsoyoglu.</td></tr></tbody></table>
+<table><tbody><tr><td>11</td><td>times:</td><td>Dan Suciu.</td></tr><tr><td>10</td><td>times:</td><td>Jan Van den Bussche.</td></tr><tr><td>9</td><td>times:</td><td>Marcelo Arenas, Victor Vianu.</td></tr><tr><td>8</td><td>times:</td><td>Alin Deutsch, Yufei Tao, Moshe Y. Vardi.</td></tr><tr><td>7</td><td>times:</td><td>Serge Abiteboul, Graham Cormode, Richard Hull, Thomas Schwentick, Jianwen Su, Mihalis Yannakakis.</td></tr><tr><td>6</td><td>times:</td><td>Foto N. Afrati, Pablo Barceló, Catriel Beeri, Diego Calvanese, Wenfei Fan, Martin Grohe, Benny Kimelfeld, Phokion G. Kolaitis, Paraschos Koutris, Leonid Libkin, Wim Martens, Frank Neven, Dan Olteanu, Andreas Pieris, Luc Segoufin, Jeffrey D. Ullman, David Woodruff, Ke Yi.</td></tr><tr><td>5</td><td>times:</td><td>Michael Benedikt, Sara Cohen, Thomas Eiter, Ronald Fagin, Christos Faloutsos, Floris Geerts, Sudipto Guha, Heikki Mannila, Alberto O. Mendelzon, Tova Milo, Jeff Naughton, Hung Ngo, Z. Meral Özsoyoglu, Reinhard Pichler, Nicole Schweikardt, Cristina Sirangelo, Dirk Van Gucht, Stijn Vansummeren, Limsoon Wong.</td></tr></tbody></table>
 
 **Program Committees**
 
+**2027**  
+Dan Olteanu (*chair*), Mahmoud Abo-Khamis, Marcelo Arenas, Pablo Barceló, Omri Ben-Eliezer, Michael Benedikt, Nofar Carmeli, Hubie Chen, Shaleen Deep, Amélie Gheerbrant, Ahmet Kara, Paraschos Koutris, Neha Makhija, Stefan Mengel, Gonzalo Navarro, Magdalena Ortiz, Reinhard Pichler, Andreas Pieris, Cristian Riveros, Stavros Sintos, Cristina Sirangelo, Dan Suciu, Jan Van den Bussche, Remy Wang, Jef Wijsen, David Woodruff, Thomas Zeume
+
 **2026**  
-Ke Yi (*chair*), C. Aiswarya, Christoph Berkholz, Dan Olteanu, Ester Livshits, Graham Cormode, Huacheng Yu, Hung Ngo, Juan L. Reutter, Liat Peterfreund, Marc Roth, Marco Calautti, Marco Console, Matthias Lanzinger, Meghyn Bienvenu, Milos Nikolic, Paraschos Koutris, Rajesh Jayaram, Rasmus Pagh, Stavros Sintos, Vasileios Nakos, Vladimir Braverman, Wim Martens, Xiao Hu, Xiaoming Sun, Yufei Tao, Zengfeng Huang
+Ke Yi (*chair*), C. Aiswarya, Christoph Berkholz, Meghyn Bienvenu, Vladimir Braverman, Marco Calautti, Marco Console, Graham Cormode, Xiao Hu, Zengfeng Huang, Rajesh Jayaram, Paraschos Koutris, Matthias Lanzinger, Ester Livshits, Wim Martens, Vasileios Nakos, Hung Ngo, Milos Nikolic, Dan Olteanu, Rasmus Pagh, Liat Peterfreund, Juan L. Reutter, Marc Roth, Stavros Sintos, Xiaoming Sun, Yufei Tao, Huacheng Yu
 
 **2025**  
-Benny Kimelfeld (*chair*), Andreas Pieris, Balder Ten Cate, Bas Ketsman, Batya Kenig, Brecht Vandevoort, Carsten Lutz, Cristian Riveros, Cristina Sirangelo, Dan Suciu, David Woodruff, Giuseppe Persiano, Jef Wijsen, Mahmoud Abo-Khamis, Marcelo Arenas, Mikaël Monet, Nicole Schweikardt, Nikolaos Tziavelis, Omri Ben-Eliezer, Peter Lindner, Pierre Bourhis, Sara Cohen, Sebastian Skritek, Szymon Toruńczyk, Wolfgang Gatterbauer, Zhewei Wei
+Benny Kimelfeld (*chair*), Mahmoud Abo-Khamis, Marcelo Arenas, Omri Ben-Eliezer, Pierre Bourhis, Sara Cohen, Wolfgang Gatterbauer, Batya Kenig, Bas Ketsman, Peter Lindner, Carsten Lutz, Mikaël Monet, Giuseppe Persiano, Andreas Pieris, Cristian Riveros, Nicole Schweikardt, Cristina Sirangelo, Sebastian Skritek, Dan Suciu, Balder Ten Cate, Szymon Toruńczyk, Nikolaos Tziavelis, Brecht Vandevoort, Zhewei Wei, Jef Wijsen, David Woodruff
 
 **2024**  
-Wim Martens (*chair*), Christoph Berkholz, Marco Calautti, Nofar Carmeli, Victor Dalmau, Paolo Guagliardo, Xiao Hu, Rajesh Jayaram, Ester Livshits, Kuldeep S. Meel, Victor Marsault, Filip Murlak, Jelani Nelson, Liat Peterfreund, Juan Reutter, Sebastian Rudolph, Atri Rudra, Emanuel Sallinger, Francesco Silvestri, Yufei Tao, Uri Stemmer, Stijn Vansummeren, Victor Vianu, Ke Yi, Thomas Zeume
+Wim Martens (*chair*), Christoph Berkholz, Marco Calautti, Nofar Carmeli, Victor Dalmau, Paolo Guagliardo, Xiao Hu, Rajesh Jayaram, Ester Livshits, Victor Marsault, Kuldeep S. Meel, Filip Murlak, Jelani Nelson, Liat Peterfreund, Juan Reutter, Sebastian Rudolph, Atri Rudra, Emanuel Sallinger, Francesco Silvestri, Uri Stemmer, Yufei Tao, Stijn Vansummeren, Victor Vianu, Ke Yi, Thomas Zeume
 
 **2023**  
 Hung Ngo (*chair*), Meghyn Bienvenu, Nofar Carmeli, Hubie Chen, Marco Console, Xiao Hu, Bas Ketsman, Benny Kimelfeld, Phokion Kolaitis, Paris Koutris, Andrew McGregor, Stefan Mengel, Dan Olteanu, Reinhard Pichler, Andreas Pieris, Miao Qiao, Cristian Riveros, Miguel Romero Orth, Atri Rudra, Domagoj Vrgoc, Jef Wijsen, David Woodruff, Qin Zhang
 
 **2022**  
-Pablo Barcelo (*chair*), Hubert Chan, Marco Console, Wojciech Czerwiński, Cristina Feier, Floris Geerts, Ismail Ilkan Ceylan, Aidan Hogan, Xi He, Xiao Hu, Rajesh Jayaram, Batya Kenig, Roman Kontchakov, Paolo Guagliardo, Ester Livshits, Stefan Mengel, Mikael Monet, Miguel Romero, Atri Rudra, Babak Salimi, Thomas Schwentick, Yufei Tao, Ali Vakilian, Victor Vianu, Thomas Zeume
+Pablo Barcelo (*chair*), Ismail Ilkan Ceylan, Hubert Chan, Marco Console, Wojciech Czerwiński, Cristina Feier, Floris Geerts, Paolo Guagliardo, Xi He, Aidan Hogan, Xiao Hu, Rajesh Jayaram, Batya Kenig, Roman Kontchakov, Ester Livshits, Stefan Mengel, Mikael Monet, Miguel Romero, Atri Rudra, Babak Salimi, Thomas Schwentick, Yufei Tao, Ali Vakilian, Victor Vianu, Thomas Zeume
 
 **2021**  
 Reinhard Pichler (*chair*), Mahmoud Abo Khamis, Marcelo Arenas, Sepehr Assadi, Marco Calautti, Hubie Chen, Edith Cohen, Claire David, Alin Deutsch, Diego Figueira, Martin Grohe, Yazmin Angélica Ibáñez-García, Batya Kenig, Daniel Kifer, Jerzy Marcinkowski, Frank Neven, Matthias Niewerth, Rasmus Pagh, Liat Peterfreund, Juan Reutter, Thomas Schwentick, Pierre Senellart, Srikanta Tirthapura, Martín Ugarte
 
 **2020**  
-Yufei Tao (*chair*), Foto N. Afrati, Pablo Barcelo, Pierre Bourhis, Vladimir Braverman, Jan Van den Bussche, Graham Cormode, Ronald Fagin, Diego Figueira, Floris Geerts, Bas Ketsman, Benny Kimelfeld, Paris Koutris, Kasper Green Larsen, Wim Martens, Filip Murlak, Hung Q. Ngo, Magdalena Ortiz, Andreas Pieris, Cristian Riveros, Sudeepa Roy, Nicole Schweikardt, Dan Suciu, Ke Yi, Qin Zhang
+Yufei Tao (*chair*), Foto N. Afrati, Pablo Barcelo, Pierre Bourhis, Vladimir Braverman, Graham Cormode, Ronald Fagin, Diego Figueira, Floris Geerts, Bas Ketsman, Benny Kimelfeld, Paris Koutris, Kasper Green Larsen, Wim Martens, Filip Murlak, Hung Q. Ngo, Magdalena Ortiz, Andreas Pieris, Cristian Riveros, Sudeepa Roy, Nicole Schweikardt, Dan Suciu, Jan Van den Bussche, Ke Yi, Qin Zhang
 
 **2019**  
-Cristoph Koch (*chair*), Mahmoud Abo Khamis, Pablo Barcelo, Michael Bender, Angela Bonifati, Pierre Bourhis, Diego Calvanese, Rada Chirkova, Alin Deutsch, Alexandre V. Evfimievski, Minos Garofalakis, Daniel Kifer, Ashwin Machanavajjhala, Michael Kapralov, Frank Neven, Hung Q. Ngo, Dan Olteanu, Emanuel Sallinger, Francesco Scarcello, Pierre Senellart, Jianwen Su, Yufei Tao, Jan Van den Bussche, Dirk Van Gucht
+Cristoph Koch (*chair*), Mahmoud Abo Khamis, Pablo Barcelo, Michael Bender, Angela Bonifati, Pierre Bourhis, Diego Calvanese, Rada Chirkova, Alin Deutsch, Alexandre V. Evfimievski, Minos Garofalakis, Michael Kapralov, Daniel Kifer, Ashwin Machanavajjhala, Frank Neven, Hung Q. Ngo, Dan Olteanu, Emanuel Sallinger, Francesco Scarcello, Pierre Senellart, Jianwen Su, Yufei Tao, Jan Van den Bussche, Dirk Van Gucht
 
 **2018**  
 Marcelo Arenas (*chair*), Edith Cohen, Sara Cohen, Graham Cormode, Arnaud Durand, Ronald Fagin, Francois Goasdoue, Sudipto Guha, Daniel Kifer, Paris Koutris, Domenico Lembo, Nicola Leone, Carsten Lutz, Wim Martens, Marco Montali, Hung Q. Ngo, Magdalena Ortiz, Rasmus Pagh, Andreas Pieris, Sudeepa Roy, Francesco Scarcello, Srikanta Tirthapura, Domagoj Vrgoc, Ke Yi
@@ -73,7 +76,7 @@ Diego Calvanese (*chair*), Peyman Afshani, Edith Cohen, Cynthia Dwork, Minos Gar
 Martin Grohe (*chair*), Serge Abiteboul, Pablo Barcelo, Andrea Cali, Sara Cohen, Dario Colazzo, Clair David, Daniel Deutch, Thomas Eiter, Alexendre Evfimievski, Roberto Grossi, Sudipto Guha, André Hernich, David Karger, Kristian Kersting, Jure Leskovec, Sebastian Maneth, Gabriele Puppis, Dan Suciu, Tony Tan, Wang-Chiew Tan, Yufei Tao, Jan Van den Bussche, Ke Yi
 
 **2013**  
-Wenfei Fan (*chair*), Marcelo Arenas, Leo Bertossi, Diego Calvanese, Alin Deutsch, Daniel Deutch, Floris Geerts, Benny Kimelfeld, Maurizio Lenzerini, Wim Martens, Andrew McGregor, Frank McSherry, Frank Neven, Jorge Perez, Reinhard Pichler, Francesco Scarcello, Nicole Schweikardt, Thomas Schwentick, Peter Widmayer, Ryan Williams, David Woodruff
+Wenfei Fan (*chair*), Marcelo Arenas, Leo Bertossi, Diego Calvanese, Daniel Deutch, Alin Deutsch, Floris Geerts, Benny Kimelfeld, Maurizio Lenzerini, Wim Martens, Andrew McGregor, Frank McSherry, Frank Neven, Jorge Perez, Reinhard Pichler, Francesco Scarcello, Nicole Schweikardt, Thomas Schwentick, Peter Widmayer, Ryan Williams, David Woodruff
 
 **2012**  
 Michael Benedikt (*chair*), Mikhail Atallah, Toon Calders, Diego Calvanese, James Cheney, Graham Cormode, Alin Deutsch, Gianluigi Greco, Todd J. Green, Martin Grohe, Marc Gyssens, T.S. Jayram, Daniel Kifer, Phokion G. Kolaitis, Rasmus Pagh, Luc Segoufin, Pierre Senellart, Sophie Tison, Victor Vianu, David Woodruff
@@ -88,82 +91,82 @@ Dirk Van Gucht (*chair*), Pankaj K. Agarwal, Marcelo Arenas, Mikhail Atallah, He
 Jianwen Su (*chair*), Gustavo Alonso, Pablo Barcelo, Toon Calders, Andrea Cali, Anirban Dasgupta, Giuseppe De Giacomo, Wenfei Fan, Floris Geerts, Michael Kifer, Wim Martens, Frank McSherry, Nina Mishra, Sunil Prabhakar, Nicole Schweikardt, Luc Segoufin, V. S. Subrahmanian, Subhash Suri, Wang-Chiew Tan, Balder ten Cate, Dirk Van Gucht, Victor Vianu
 
 **2008**  
-Maurizio Lenzerini (*chair*), Serge Abiteboul, Foto Afrati, Divyakant Agrawal, Marcelo Arenas, Jan Chomicki, Graham Cormode, Alin Deutsch, Minos Garofalakis, Giorgio Ghelli, Martin Grohe, Sudipto Guha, Carsten Lutz, Maarten Marx, Anca Muscholl, Rajeev Rastogi, Riccardo Rosati, Thomas Schwentick, Jianwen Su, Dan Suciu, Val Tannen, T.S. Jayram, Yannis Theodoridis
+Maurizio Lenzerini (*chair*), Serge Abiteboul, Foto Afrati, Divyakant Agrawal, Marcelo Arenas, Jan Chomicki, Graham Cormode, Alin Deutsch, Minos Garofalakis, Giorgio Ghelli, Martin Grohe, Sudipto Guha, T.S. Jayram, Carsten Lutz, Maarten Marx, Anca Muscholl, Rajeev Rastogi, Riccardo Rosati, Thomas Schwentick, Jianwen Su, Dan Suciu, Val Tannen, Yannis Theodoridis
 
 **2007**  
-Leonid Libkin (*chair*), Martin Abadi, Ricardo Baeza-Yates, Jose Balcazar, Yuri Breitbart, Rada Chirkova, Sara Cohen, Mariano Consens, Wenfei Fan, Martin Grohe, Sudipto Guha, Christoph Koch, Maurizio Lenzerini, Alan Nash, Jan Paredaens, Lucian Popa, Francesco Scarcello, Luc Segoufin, Peter Widmayer, Peter Wood, Limsoon Wong, Mihalis Yannakakis
+Leonid Libkin (*chair*), Martin Abadi, Ricardo Baeza-Yates, Jose Balcazar, Yuri Breitbart, Rada Chirkova, Sara Cohen, Mariano Consens, Wenfei Fan, Martin Grohe, Sudipto Guha, Christoph Koch, Maurizio Lenzerini, Alan Nash, Jan Paredaens, Lucian Popa, Francesco Scarcello, Luc Segoufin, Peter Widmayer, Limsoon Wong, Peter Wood, Mihalis Yannakakis
 
 **2006**  
 Jan Van den Bussche (*chair*), Pankaj K. Agarwal, Marcelo Arenas, Mike Atallah, Leo Bertossi, Gautam Das, Alin Deutsch, Alan Fekete, Samir Khuller, Michael Kifer, Nicola Leone, Mark Levene, Maarten Marx, Gerome Miklau, Chung Keung Poon, Yehoshua Sagiv, Michael Schwartzbach, Nicole Schweikardt, Wang-Chiew Tan, David Toman, Dirk Van Gucht, Limsoon Wong, Carlo Zaniolo
 
 **2005**  
-Foto N. Afrati (*chair*), Chen Li, Christoph Koch, Diego Calvanese, Dimitrios Gunopulos, Divesh Srivastava, Frank Neven, Heikki Mannila, Jianwen Su, Jan Chomicki, Jeffrey D. Ullman, Luc Segoufin, Marie-Christine Rousset, Michel de Rougemont, Mihalis Yannakakis, Minos Garofalakis, Piotr Indyk, Prabhakar Raghavan, Raghu Ramakrishnan, Timos Sellis, Val Tannen, Yannis Papakonstantinou
+Foto N. Afrati (*chair*), Diego Calvanese, Jan Chomicki, Michel de Rougemont, Minos Garofalakis, Dimitrios Gunopulos, Piotr Indyk, Christoph Koch, Chen Li, Heikki Mannila, Frank Neven, Yannis Papakonstantinou, Prabhakar Raghavan, Raghu Ramakrishnan, Marie-Christine Rousset, Luc Segoufin, Timos Sellis, Divesh Srivastava, Jianwen Su, Val Tannen, Jeffrey D. Ullman, Mihalis Yannakakis
 
 **2004**  
-Dan Suciu (*chair*), Christos Faloutsos, Divyakant Agrawal, Frank Neven, Gottfried Vossen, Jennifer Widom, Johannes Gehrke, Jeff Naughton, Ken Ross, Luc Segoufin, Lucian Popa, Martin Grohe, Michael Benedikt, Moshe Y. Vardi, S. Muthukrishnan, Sanjeev Khanna, Thomas Eiter, Wenfei Fan, Yannis E. Ioannidis, Yossi Matias, Z. Meral Özsoyoglu
+Dan Suciu (*chair*), Divyakant Agrawal, Michael Benedikt, Thomas Eiter, Christos Faloutsos, Wenfei Fan, Johannes Gehrke, Martin Grohe, Yannis E. Ioannidis, Sanjeev Khanna, Yossi Matias, S. Muthukrishnan, Jeff Naughton, Frank Neven, Z. Meral Özsoyoglu, Lucian Popa, Ken Ross, Luc Segoufin, Moshe Y. Vardi, Gottfried Vossen, Jennifer Widom
 
 **2003**  
-Tova Milo (*chair*), Dan Suciu, Diego Calvanese, Foto N. Afrati, Gerhard Weikum, Jan Van den Bussche, Mihalis Yannakakis, Marie-Christine Rousset, Michael Benedikt, Nick Koudas, Rajeev Motwani, Richard Hull, Surajit Chaudhuri, Timos K. Sellis, Rajeev Rastogi, Victor Vianu
+Tova Milo (*chair*), Foto N. Afrati, Michael Benedikt, Diego Calvanese, Surajit Chaudhuri, Richard Hull, Nick Koudas, Rajeev Motwani, Rajeev Rastogi, Marie-Christine Rousset, Timos K. Sellis, Dan Suciu, Jan Van den Bussche, Victor Vianu, Gerhard Weikum, Mihalis Yannakakis
 
 **2002**  
-Phokion G. Kolaitis (*chair*), Catriel Beeri, Dimitrios Gunopoulos, Dan Suciu, Giuseppe De Giacomo, Jeffrey D. Ullman, Jeff Naughton, Ken Ross, Leonid Libkin, Nicole Bidoit, Ronald Fagin, Stéphane Grumbach, Surajit Chaudhuri, Thomas Eiter, Thomas Schwentick, Walid G. Aref
+Phokion G. Kolaitis (*chair*), Walid G. Aref, Catriel Beeri, Nicole Bidoit, Surajit Chaudhuri, Giuseppe De Giacomo, Thomas Eiter, Ronald Fagin, Stéphane Grumbach, Dimitrios Gunopoulos, Leonid Libkin, Jeff Naughton, Ken Ross, Thomas Schwentick, Dan Suciu, Jeffrey D. Ullman
 
 **2001**  
-Peter Buneman (*chair*), Amr El Abbadi, Foto N. Afrati, Frank Neven, Guillermo Alonso, Gösta Grahne, Heikki Mannila, Jianwen Su, Jennifer Widom, Luc Segoufin, Luca Cardelli, Manoj Franklin, Neil Immerman, Paolo Atzeni, Phokion G. Kolaitis, Rajeev Motwani, Richard Hull
+Peter Buneman (*chair*), Foto N. Afrati, Guillermo Alonso, Paolo Atzeni, Luca Cardelli, Amr El Abbadi, Manoj Franklin, Gösta Grahne, Richard Hull, Neil Immerman, Phokion G. Kolaitis, Heikki Mannila, Rajeev Motwani, Frank Neven, Luc Segoufin, Jianwen Su, Jennifer Widom
 
 **2000**  
-Georg Gottlob (*chair*), Domenico Saccà, Georg Lausen, Hans-Jörg Schek, Jan Van den Bussche, Jeffrey D. Ullman, Leonid Libkin, Maurizio Lenzerini, Moshe Y. Vardi, Richard Hull, Serge Abiteboul, Stuart Davidson, Thomas Eiter, Tova Milo, Yuri Breitbart, Z. Meral Özsoyoglu
+Georg Gottlob (*chair*), Serge Abiteboul, Yuri Breitbart, Stuart Davidson, Thomas Eiter, Richard Hull, Georg Lausen, Maurizio Lenzerini, Leonid Libkin, Tova Milo, Z. Meral Özsoyoglu, Domenico Saccà, Hans-Jörg Schek, Jeffrey D. Ullman, Jan Van den Bussche, Moshe Y. Vardi
 
 **1999**  
-Christos H. Papadimitriou (*chair*), Alon Y. Levy, Alberto O. Mendelzon, Catriel Beeri, Gösta Grahne, Heikki Mannila, Jeffrey D. Ullman, Joseph Hellerstein, Limsoon Wong, Mihalis Yannakakis, Prabhakar Raghavan, Serge Abiteboul, Sophie Cluet, Udi Manber, Yannis E. Ioannidis
+Christos H. Papadimitriou (*chair*), Serge Abiteboul, Catriel Beeri, Sophie Cluet, Gösta Grahne, Joseph Hellerstein, Yannis E. Ioannidis, Alon Y. Levy, Udi Manber, Heikki Mannila, Alberto O. Mendelzon, Prabhakar Raghavan, Jeffrey D. Ullman, Limsoon Wong, Mihalis Yannakakis
 
 **1998**  
-Jan Paredaens (*chair*), Christos Faloutsos, Dan Suciu, Georg Gottlob, Gerhard Weikum, Heikki Mannila, Ken Ross, Laks V. S. Lakshmanan, Leonid Libkin, Moshe Y. Vardi, Rajeev Motwani
+Jan Paredaens (*chair*), Christos Faloutsos, Georg Gottlob, Laks V. S. Lakshmanan, Leonid Libkin, Heikki Mannila, Rajeev Motwani, Ken Ross, Dan Suciu, Moshe Y. Vardi, Gerhard Weikum
 
 **1997**  
-Z. Meral Özsoyoglu (*chair*), David B. Lomet, Jan Van den Bussche, Jeffrey Scott Vitter, Leonid Libkin, Peter Z. Revesz, Phokion G. Kolaitis, Raymond Ng, Tova Milo, V. S. Subrahmanian, Victor Vianu
+Z. Meral Özsoyoglu (*chair*), Phokion G. Kolaitis, Leonid Libkin, David B. Lomet, Tova Milo, Raymond Ng, Peter Z. Revesz, V. S. Subrahmanian, Jan Van den Bussche, Victor Vianu, Jeffrey Scott Vitter
 
 **1996**  
-Richard Hull (*chair*), Allen Van Gelder, Christos Faloutsos, Divyakant Agrawal, Gabriel M. Kuper, Guozhu Dong, Heikki Mannila, Rakesh Agrawal, Tova Milo, Yannis E. Ioannidis, Yehoshua Sagiv
+Richard Hull (*chair*), Divyakant Agrawal, Rakesh Agrawal, Guozhu Dong, Christos Faloutsos, Yannis E. Ioannidis, Gabriel M. Kuper, Heikki Mannila, Tova Milo, Yehoshua Sagiv, Allen Van Gelder
 
 **1995**  
-Serge Abiteboul (*chair*), Alberto O. Mendelzon, Amr El Abbadi, Catriel Beeri, Christos Faloutsos, Jan Chomicki, Jennifer Widom, Jeff Naughton, Neil Immerman, Paolo Atzeni, Val Tannen
+Serge Abiteboul (*chair*), Paolo Atzeni, Catriel Beeri, Jan Chomicki, Amr El Abbadi, Christos Faloutsos, Neil Immerman, Alberto O. Mendelzon, Jeff Naughton, Val Tannen, Jennifer Widom
 
 **1994**  
-Victor Vianu (*chair*), Dennis Shasha, Dirk Van Gucht, Georg Gottlob, Jianwen Su, Moshe Y. Vardi, Nicole Bidoit, Peter Buneman, Raghu Ramakrishnan, Richard Hull, Vassos Hadzilacos
+Victor Vianu (*chair*), Nicole Bidoit, Peter Buneman, Georg Gottlob, Vassos Hadzilacos, Richard Hull, Raghu Ramakrishnan, Dennis Shasha, Jianwen Su, Dirk Van Gucht, Moshe Y. Vardi
 
 **1993**  
-Catriel Beeri (*chair*), Allen Van Gelder, Edward P. F. Chan, Gerhard Weikum, Jan Paredaens, Miron Livny, Ouri Wolfson, Stavros S. Cosmadakis, Stéphane Grumbach, Walter A. Burkhard, Z. Meral Özsoyoglu
+Catriel Beeri (*chair*), Walter A. Burkhard, Edward P. F. Chan, Stavros S. Cosmadakis, Stéphane Grumbach, Miron Livny, Z. Meral Özsoyoglu, Jan Paredaens, Allen Van Gelder, Gerhard Weikum, Ouri Wolfson
 
 **1992**  
-Paris C. Kanellakis (*chair*), Foto N. Afrati, Gabriel M. Kuper, Hanan Samet, Jeff Naughton, Nicole Bidoit, Rakesh Agrawal, Seymour Ginsburg, Tomasz Imielinski, Vassos Hadzilacos, William E. Weihl
+Paris C. Kanellakis (*chair*), Foto N. Afrati, Rakesh Agrawal, Nicole Bidoit, Seymour Ginsburg, Vassos Hadzilacos, Tomasz Imielinski, Gabriel M. Kuper, Jeff Naughton, Hanan Samet, William E. Weihl
 
 **1991**  
-Alberto O. Mendelzon (*chair*), Amr El Abbadi, Christos Faloutsos, David Maier, Henry F. Korth, Jean-Louis Lassez, Jeffrey D. Ullman, Phokion G. Kolaitis, Ramya Ramakrishnan, Serge Abiteboul
+Alberto O. Mendelzon (*chair*), Serge Abiteboul, Amr El Abbadi, Christos Faloutsos, Phokion G. Kolaitis, Henry F. Korth, Jean-Louis Lassez, David Maier, Ramya Ramakrishnan, Jeffrey D. Ullman
 
 **1990**  
-Yehoshua Sagiv (*chair*), Allen Van Gelder, C. Mohan, Doron Rotem, Michael Kifer, Paris C. Kanellakis, Richard Hull, Shamim A. Naqvi, Vassos Hadzilacos, Yannis E. Ioannidis
+Yehoshua Sagiv (*chair*), Vassos Hadzilacos, Richard Hull, Yannis E. Ioannidis, Paris C. Kanellakis, Michael Kifer, C. Mohan, Shamim A. Naqvi, Doron Rotem, Allen Van Gelder
 
 **1989**  
-Ashok K. Chandra (*chair*), Carlo Zaniolo, Catriel Beeri, Daniel J. Rosenkrantz, Hector Garcia-Molina, Michael Kifer, Oded Shmueli, Teodor C. Przymusinski, Victor Vianu, William E. Weihl
+Ashok K. Chandra (*chair*), Catriel Beeri, Hector Garcia-Molina, Michael Kifer, Teodor C. Przymusinski, Daniel J. Rosenkrantz, Oded Shmueli, Victor Vianu, William E. Weihl, Carlo Zaniolo
 
 **1988**  
-M. Yannakakis (*chair*), Alberto O. Mendelzon, Dale Skeen, David Maier, Krzysztof R. Apt, Paris C. Kanellakis, Philip A. Bernstein, Serge Abiteboul, Victor Vianu
+M. Yannakakis (*chair*), Serge Abiteboul, Krzysztof R. Apt, Philip A. Bernstein, Paris C. Kanellakis, David Maier, Alberto O. Mendelzon, Dale Skeen, Victor Vianu
 
 **1987**  
-Moshe Y. Vardi (*chair*), Henry F. Korth, Kari-Jouko Räihä, Mihalis Yannakakis, Paris C. Kanellakis, Per-Åke Larson, Tomasz Imielinski, Umeshwar Dayal, Yehoshua Sagiv
+Moshe Y. Vardi (*chair*), Umeshwar Dayal, Tomasz Imielinski, Paris C. Kanellakis, Henry F. Korth, Per-Åke Larson, Kari-Jouko Räihä, Yehoshua Sagiv, Mihalis Yannakakis
 
 **1986**  
-Abraham Silberschatz (*chair*), Alberto O. Mendelzon, Christos H. Papadimitriou, Edward Sciore, François Bancilhon, Hector Garcia-Molina, Jim Gray, Moshe Y. Vardi, Z. Meral Özsoyoglu
+Abraham Silberschatz (*chair*), François Bancilhon, Hector Garcia-Molina, Jim Gray, Alberto O. Mendelzon, Z. Meral Özsoyoglu, Christos H. Papadimitriou, Edward Sciore, Moshe Y. Vardi
 
 **1985**  
-Jeffrey D. Ullman (*chair*), Abraham Silberschatz, Frank Manola, H. Wong, Jim Gray, Moshe Y. Vardi, Peter J. Weinberger, Richard Hull, Steven Parker
+Jeffrey D. Ullman (*chair*), Jim Gray, Richard Hull, Frank Manola, Steven Parker, Abraham Silberschatz, Moshe Y. Vardi, Peter J. Weinberger, H. Wong
 
 **1984**  
-Ronald Fagin (*chair*), Christos H. Papadimitriou, David Maier, Jim Gray, Kenneth C. Sevcik, Moshe Y. Vardi, Nathan Goodman, Raymond Reiter
+Ronald Fagin (*chair*), Nathan Goodman, Jim Gray, David Maier, Christos H. Papadimitriou, Raymond Reiter, Kenneth C. Sevcik, Moshe Y. Vardi
 
 **1983**  
-Philip A. Bernstein (*chair*), Ashok K. Chandra, Catriel Beeri, Daniel J. Rosenkrantz, J. M. Smith, Jack Minker, Kenneth C. Sevcik, Mihalis Yannakakis
+Philip A. Bernstein (*chair*), Catriel Beeri, Ashok K. Chandra, Jack Minker, Daniel J. Rosenkrantz, Kenneth C. Sevcik, J. M. Smith, Mihalis Yannakakis
 
 **1982**  
-Alfred V. Aho (*chair*), C. Yu, D. J. McCleod, Daniel J. Rosenkrantz, David P. Dobkin, Peter Selinger, Philip A. Bernstein, Ronald Fagin
+Alfred V. Aho (*chair*), Philip A. Bernstein, David P. Dobkin, Ronald Fagin, D. J. McCleod, Daniel J. Rosenkrantz, Peter Selinger, C. Yu
