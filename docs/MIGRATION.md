@@ -139,8 +139,8 @@ Treat `src/content/` as the source of truth. The import records stay in
 
 Roughly in order of value.
 
-1. **Content cleanup.** Work through [CLEANUP.md](CLEANUP.md): merge the three
-   Publications pages and the Jim Gray dissertation pages, redirect the empty
+1. **Content cleanup.** Work through [CLEANUP.md](CLEANUP.md): merge the Jim Gray
+   dissertation pages, redirect the empty
    parent pages, fill in or redirect the "Information missing!" page.
 2. **Broken external links.** Decide case by case (see `docs/old-site-links.html`):
    replace old conference websites with their mirror.sigmod.org copies or

@@ -43,14 +43,6 @@
       ]
     },
     {
-      "verdict": "Merge candidate",
-      "title": "Two 'Publications' pages",
-      "why": "Same title. /publications/ is an old link list (dead portal.acm.org links, PubZone, Digital Review); /publications/publications/ is the current hub the menu used.",
-      "suggestion": "Keep /publications/publications/, move any still-useful links from /publications/ into it, and redirect /publications/ there.",
-      "pages": ["/publications/publications/", "/publications/"],
-      "pairs": []
-    },
-    {
       "verdict": "Expected overlap",
       "title": "Yearly award announcements repeat the award pages",
       "why": "The yearly news post quotes the citation that is also on the award page. This is by design.",

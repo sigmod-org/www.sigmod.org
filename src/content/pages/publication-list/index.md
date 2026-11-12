@@ -5,14 +5,9 @@ section: "sigmod"
 area: "publications"
 wp_id: 1421
 wp_type: "page"
-updated: "2025-01-14"
+updated: "2026-11-12"
 edited: true
+redirect_to: "/publications/"
 ---
 
--   [Proceedings of the ACM on Management of Data](https://dl.acm.org/journal/pacmmod)
--   [SIGMOD Record](https://sigmodrecord.org/ "SIGMOD Record")
--   [SIGMOD Blog](https://blog.sigmod.org/ "SIGMOD Blog")
--   [ACM TODS](https://dl.acm.org/journal/tods)
--   [ACM Digital Library](https://dl.acm.org/)
-
-Some previous resources that have ended its support or are no longer updated can be found in [the archive page](/archive/).
+Moved to [Publications](/publications/).

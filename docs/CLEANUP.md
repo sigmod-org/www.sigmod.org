@@ -7,7 +7,7 @@ outdated. Update the **Status** column as decisions are made.
 Anthology, DiSC and Distinguished Profiles pages moved to the
 [SIGMOD Archive](https://archive.sigmod.org/) (§2, §5); the yearly calls for nominations were replaced
 by the Ongoing Call-for-Awards page (§2); the Membership page was reviewed (§5).
-Still open, in suggested order: the three Publications pages and the
+Still open, in suggested order: the
 dissertation pages (§2), the empty parent pages (§3), and the award data files
 (§4, §6). Larger plans are in [MIGRATION.md](MIGRATION.md#next-steps).
 
@@ -74,8 +74,8 @@ into the kept page by hand, then redirect the other one.
 | Pages | What's going on | Proposal | Status |
 |---|---|---|---|
 | `/publications/anthology/` · `/publications/anthologyhome/` | 89% the same text. `anthologyhome` was edited later (2019). | The Anthology moved to the SIGMOD Archive with the `anthologyhome` tables (the better version); both URLs redirect to https://archive.sigmod.org/publications/anthology/. | done |
-| `/publications/` · `/publications/publications/` · `/publication-list/` | Three "Publications" pages. `/publications/` has dead links (`portal.acm.org`, pubzone.org, the Michigan digital review). `/publication-list/` is the current short list. `/publications/publications/` is what the menu links to. | Keep `/publications/publications/` as the hub and merge the `/publication-list/` items into it. Redirect the other two. | proposed |
-| `/publications/` · `/archive/` | Both list the old archives (DiSC, Anthology, Profiles). | `/archive/` (History › Archive) now links to the SIGMOD Archive. Keep it; drop the archive list from `/publications/` when the Publications pages are merged. | proposed |
+| `/publications/` · `/publications/publications/` · `/publication-list/` | Three "Publications" pages. `/publications/` has dead links (`portal.acm.org`, pubzone.org, the Michigan digital review). `/publication-list/` is the current short list. `/publications/publications/` is what the menu links to. | Merged into `/publications/` (November 2026): PACMMOD note, conference and journal links on dl.acm.org, and a pointer to the SIGMOD Archive. `/publications/publications/` and `/publication-list/` redirect there; the menu and the home page link to `/publications/`. | done |
+| `/publications/` · `/archive/` | Both list the old archives (DiSC, Anthology, Profiles). | `/archive/` (History › Archive) lists the SIGMOD Archive collections. The merged `/publications/` keeps one sentence pointing there instead of a list. | done |
 | `/sigmod-awards/` · `/sigmod-awards/sigmod-awards-acm-sigmod-official-website/` | The second page is a 20 KB old all-awards overview, copied from the pre-2015 site. Its relative links are broken. | Removed entirely (no redirect). Listed in `migration/removed.json` so the importer does not bring it back. | done |
 | `/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/` · `/sigmod-awards/doctoral-dissertation-award/` · `/sigmod-awards/2017-doctoral-dissertation-award/` · `/sigmod-awards/the-sigmod-jim-gray-doctoral-dissertation-award/` | 4 pages: the award page, the current call, and process descriptions from 2015 and 2017 (59–75% the same). | One award page with sections for "How to nominate" and "Process". Redirect the 2015 and 2017 process pages. Keep the call as a section or a stub. | proposed |
 | `/sigmod-awards/sigmod-undergraduate-award/` | 82% of its text is also in the old overview page above. Last edited 2017. | Merged with the Student Research Competition into `/sigmod-history/past-awards/student-research-and-undergraduate/` under History › Past awards; both old URLs redirect there. | done |
@@ -155,4 +155,4 @@ Open items as of November 2026:
 | 7 links to upload images missing since the old site (Jim Gray dissertation honorable mentions 2013–2015, Jennifer Widom's 2015 portrait) | award citation pages, Widom news item | Find a copy (Wayback, the people themselves) or drop the images | decide |
 | Old conference websites that no longer exist (2000, 2002–2005, 2007, 2009, 2011, 2021) | `/conferences/`, Best Paper page | Link the mirror.sigmod.org copy or a Wayback copy instead | proposed |
 | Moved personal and tutorial pages (Miller, Freire, Milo, Arenas, Tick, Hull, Egenhofer, Martens) | dissertation award, PODS pages | Update to current addresses or drop | proposed |
-| Dead services (pubzone.org, the Michigan digital review) | `/publications/` | Drop with the Publications merge | proposed |
+| Dead services (pubzone.org, the Michigan digital review) | `/publications/` | Dropped from `/publications/`. The Digital Review was copied from the Wayback Machine into the SIGMOD Archive (`/publications/digital-review/`) and is listed on `/archive/`. | done |

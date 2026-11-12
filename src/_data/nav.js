@@ -111,7 +111,7 @@ const pods = grouped({
 });
 
 const publications = {
-  label: "Publications", area: "publications", url: "/publications/publications/",
+  label: "Publications", area: "publications", url: "/publications/",
   children: [
     ext("PACMMOD", "https://dl.acm.org/journal/pacmmod"),
     ext("SIGMOD Record", "https://sigmodrecord.org/"),
