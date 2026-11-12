@@ -134,7 +134,7 @@ aside .h-section + .links { margin-bottom: 32px; }
   .side { position: static; }
 }
 @media (max-width: 680px) {
-  .wrap { padding: 0 16px; }
+  .wrap { padding-left: 16px; padding-right: 16px; }
   #nav { padding: 8px 16px 20px; }
   .hero-in { padding: 40px 16px; }
   .features { grid-template-columns: 1fr; }
