@@ -1,4 +1,5 @@
 import { HtmlBasePlugin } from "@11ty/eleventy";
+import { buildNominationAssets } from "./award-nominations/dev/build-site.mjs";
 
 // PATH_PREFIX serves the site from a subfolder, e.g. /www.sigmod.org/ on GitHub Pages.
 const pathPrefix = process.env.PATH_PREFIX || "/";
@@ -6,6 +7,11 @@ const pathPrefix = process.env.PATH_PREFIX || "/";
 export default function (eleventyConfig) {
   if (pathPrefix !== "/") eleventyConfig.addPlugin(HtmlBasePlugin);
   eleventyConfig.addGlobalData("layout", "page.njk");
+
+  // Award nominations: the form code (src/assets/nominate.js, .css) is generated
+  // from the Apps Script app in award-nominations/ before every build.
+  eleventyConfig.on("eleventy.before", () => { buildNominationAssets(); });
+  eleventyConfig.addWatchTarget("award-nominations/apps-script/");
   eleventyConfig.addGlobalData("currentYear", new Date().getFullYear());
 
   eleventyConfig.addPassthroughCopy({ "src/assets": "assets" });

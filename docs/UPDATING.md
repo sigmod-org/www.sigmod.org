@@ -171,6 +171,25 @@ when the Awards Chair or the nomination e-mail addresses change, when the
 cut-off, carry-over period or nomination requirements change, or when an award
 is added or retired.
 
+The [online nomination form](/sigmod-awards/nominate/) enforces the same rules
+itself, so make the matching change in
+[`award-nominations/apps-script/Config.gs`](../award-nominations/apps-script/Config.gs)
+in the same commit, then deploy the Apps Script app
+([how](../award-nominations/README.md#deploying-changes)):
+
+| Change on the call page | In `Config.gs` |
+|---|---|
+| Cut-off date | `deadline` |
+| What to submit, word limits, number of letters | that award's `fields` and `endorsers` |
+| How long nominations stay active | that award's `activeCycles` |
+| Award added or retired | `AWARDS` and `AWARD_ORDER` |
+| Who can't be nominated (officers, committee) | `eligibilityRule` |
+
+A **new Awards Chair** needs no code change: update the notice recipients in the
+nominations spreadsheet
+([how](../award-nominations/README.md#changing-who-gets-the-notices)) and the
+e-mail fallback named on the call page.
+
 ## People
 
 | What | Where |

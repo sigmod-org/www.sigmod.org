@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <base target="_top">
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>SIGMOD Award Nominations</title>
+  <?!= include('Styles'); ?>
+  <style>
+    /* Page chrome when the forms are served by Apps Script itself (no sigmod.org page around them). */
+    body { margin: 0; background: #fff; font-family: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif; }
+    .wrap { max-width: 860px; margin: 0 auto; padding: 0 16px; }
+    .hdr { border-bottom: 1px solid #e5e7eb; }
+    .hdr-in { display: flex; justify-content: space-between; align-items: center; height: 60px; gap: 16px; }
+    .brand { color: #111827; font-weight: 700; text-decoration: none; }
+    .brand span { font-weight: 400; color: #6b7280; margin-left: 6px; }
+    .hdr-link { font-size: 14px; color: #1f4fa3; white-space: nowrap; }
+    main { padding-top: 32px; padding-bottom: 80px; }
+    @media (max-width: 640px) { .brand span { display: none; } }
+    @media (prefers-color-scheme: dark) {
+      body { background: #0f1420; }
+      .hdr { border-color: #374151; } .brand { color: #f3f4f6; } .hdr-link { color: #8fb0f0; }
+      .nom { --ink: #f3f4f6; --body: #d1d5db; --muted: #9ca3af; --line: #374151; --tint: #172033;
+        --accent: #8fb0f0; --accent-soft: #1c2a45; --bg: #0f1420; --field: #151b2a; --on-accent: #0f1420;
+        --ok: #86d19c; --ok-soft: #13291b; --warn: #f2a77a; --warn-soft: #2e1d12; --err: #f59a9a; --err-soft: #2e1515; }
+    }
+  </style>
+</head>
+<body>
+  <header class="hdr">
+    <div class="wrap hdr-in">
+      <a class="brand" id="home-link" href="#">ACM SIGMOD <span>Award Nominations</span></a>
+      <a class="hdr-link" id="call-link" href="#">Call for nominations</a>
+    </div>
+  </header>
+  <main class="wrap nom" id="app" aria-live="polite"></main>
+  <script><?!= sharedSource(); ?></script>
+  <script>var BOOT = <?!= bootstrap ?>;</script>
+  <?!= include('Client'); ?>
+</body>
+</html>
