@@ -1,5 +1,5 @@
 {
- "checked": "2026-11-07",
+ "checked": "2026-11-12",
  "links": [
   {
    "url": "http://amturing.acm.org/award_winners/bachman_9385610.cfm",
@@ -19,8 +19,8 @@
   },
   {
    "url": "http://amturing.acm.org/award_winners/gray_3649936.cfm",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/sigmod-history/"
    ]
@@ -35,16 +35,16 @@
   },
   {
    "url": "http://awards.acm.org/athena/",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/jennifer-widom-named-the-acm-w-2015-6-athena-lecturer/"
    ]
   },
   {
    "url": "http://awards.acm.org/award_winners/lakshmanan_3719473.cfm",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/acm-names-2016-distinguished-members/"
    ]
@@ -67,8 +67,8 @@
   },
   {
    "url": "http://awards.acm.org/award_winners/widom_2272011.cfm",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/jennifer-widom-named-the-acm-w-2015-6-athena-lecturer/"
    ]
@@ -1482,14 +1482,6 @@
    ]
   },
   {
-   "url": "http://jreutter.sitios.ing.uc.cl/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/videoseries/"
-   ]
-  },
-  {
    "url": "http://lrb.cs.uni-dortmund.de/~tick/Talks/pods04.pdf",
    "class": "broken",
    "why": "site no longer exists",
@@ -1511,14 +1503,6 @@
    "why": "200",
    "pages": [
     "/pods-home/pods-tutorials/"
-   ]
-  },
-  {
-   "url": "http://people.csail.mit.edu/kraska/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/videoseries/"
    ]
   },
   {
@@ -1756,8 +1740,8 @@
   },
   {
    "url": "http://src.acm.org/",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/announcing-the-sigmod-2017-student-research-competition/"
    ]
@@ -1935,6 +1919,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -2011,6 +1996,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -2024,8 +2010,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -2089,8 +2074,8 @@
   },
   {
    "url": "http://www.acm.org/media-center/2016/december/fellows-2016",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/acm-names-2016-fellows/"
    ]
@@ -2114,24 +2099,24 @@
   },
   {
    "url": "http://www.acm.org/publications/policies/eic-evaluation",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/call-for-nominations-editor-in-chief-of-the-acm-journal-on-data-and-information-quality/"
    ]
   },
   {
    "url": "http://www.acm.org/publications/policies/evaluation/",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/call-for-nominations-editor-in-chief-acm-transactions-on-database-systems/"
    ]
   },
   {
    "url": "http://www.acm.org/publications/policies/position_descriptions",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/call-for-nominations-editor-in-chief-acm-transactions-on-database-systems/",
     "/call-for-nominations-editor-in-chief-of-the-acm-journal-on-data-and-information-quality/"
@@ -2322,14 +2307,6 @@
    ]
   },
   {
-   "url": "http://www.pinartozun.com/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/videoseries/"
-   ]
-  },
-  {
    "url": "http://www.plone.org/",
    "class": "ok",
    "why": "200",
@@ -2516,16 +2493,16 @@
   },
   {
    "url": "https://2021.sigmod.org/",
-   "class": "broken",
-   "why": "site no longer exists",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/conferences/"
    ]
   },
   {
    "url": "https://2021.sigmod.org/sigmod_best_papers.shtml",
-   "class": "broken",
-   "why": "site no longer exists",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/sigmod-awards/sigmod-best-paper-award/"
    ]
@@ -2680,6 +2657,53 @@
    "why": "404 Not Found",
    "pages": [
     "/2016-heidelberg-laureate-forum/"
+   ]
+  },
+  {
+   "url": "https://archive.sigmod.org/",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/404.html"
+   ]
+  },
+  {
+   "url": "https://archive.sigmod.org/publications/anthology/",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/archive/",
+    "/publications/",
+    "/sigmod-history/"
+   ]
+  },
+  {
+   "url": "https://archive.sigmod.org/publications/discs/",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/archive/",
+    "/publications/"
+   ]
+  },
+  {
+   "url": "https://archive.sigmod.org/publications/interview/",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/archive/",
+    "/membership/",
+    "/publications/",
+    "/sigmod-history/"
+   ]
+  },
+  {
+   "url": "https://archive.sigmod.org/videoseries/",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/archive/",
+    "/membership/"
    ]
   },
   {
@@ -2863,6 +2887,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -2939,6 +2964,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -2952,8 +2978,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -3069,11 +3094,27 @@
    ]
   },
   {
+   "url": "https://dbdni.github.io/pages/dbcares.html",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-policies/dbcares-policy/"
+   ]
+  },
+  {
    "url": "https://dblp.org/",
    "class": "unverified",
    "why": "the site blocks automated checks",
    "pages": [
     "/membership/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/db/conf/pods/",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
    ]
   },
   {
@@ -3910,11 +3951,195 @@
    ]
   },
   {
+   "url": "https://dblp.org/pid/134/9015.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/144/7839.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/151/3111.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/179/2145.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/19/1374-5.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/26/5086.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/26/5252.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/29/5169.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/43/1219-1.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/45/47-1.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/49/8316.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/51/1169.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/72/4028.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/74/3195.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/76/6735.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/89/5672.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/94/2372.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/95/3517.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
    "url": "https://dblp.org/pid/a/AnastassiaAilamaki.html",
    "class": "unverified",
    "why": "the site blocks automated checks",
    "pages": [
     "/sigmod-history/program-chair/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/a/PankajKAgarwal.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/a/SergeAbiteboul.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/b/CBeeri.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/b/JVdBussche.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/b/MichaelBenedikt.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
    ]
   },
   {
@@ -3926,6 +4151,22 @@
    ]
   },
   {
+   "url": "https://dblp.org/pid/c/DiegoCalvanese.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/c/GrahamCormode.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
    "url": "https://dblp.org/pid/d/AnHaiDoan.html",
    "class": "unverified",
    "why": "the site blocks automated checks",
@@ -3934,11 +4175,316 @@
    ]
   },
   {
+   "url": "https://dblp.org/pid/f/RonaldFagin.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/g/DirkVanGucht.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/g/FlorisGeerts.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/g/GeorgGottlob.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/g/MGrohe.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/h/AlonYHalevy.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/h/RichardHull.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/k/ChristophKoch.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/k/PGKolaitis.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/k/ParisCKanellakis.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/l/LeonidLibkin.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/m/AOMendelzon.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/m/SMuthukrishnan.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/m/TovaMilo.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/n/FrankNeven.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/n/HungQNgo.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/n/JeffreyFNaughton.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/o/DanOlteanu.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/p/CHPapadimitriou.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/p/JParedaens.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/p/RasmusPagh.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/r/RaghuRamakrishnan.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/AbrahamSilberschatz.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/DanSuciu.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/DiveshSrivastava.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/JWSu.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/LucSegoufin.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/NicoleSchweikardt.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/OShmueli.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/s/TSchwentick.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/t/ValTannen.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
    "url": "https://dblp.org/pid/t/WangChiewTan.html",
    "class": "unverified",
    "why": "the site blocks automated checks",
    "pages": [
+    "/pods-home/who-are-we/",
     "/sigmod-history/program-chair/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/t/YufeiTao.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/u/JeffreyDUllman.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/v/MosheYVardi.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/v/VictorVianu.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/w/DPWoodruff.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/w/JefWijsen.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
+   ]
+  },
+  {
+   "url": "https://dblp.org/pid/y/MihalisYannakakis.html",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/pods-home/who-are-we/"
    ]
   },
   {
@@ -3955,6 +4501,206 @@
    "why": "403: the site blocks automated checks",
    "pages": [
     "/sigmod-history/program-chair/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showBmPdf?doi=10.1145%2F983082",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F122058",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F1328854",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F141818",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F156883",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F15833",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F163090",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F234889",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F262762",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F603867",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F61733",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F71031",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F983046",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F983061",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984341",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984378",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984395",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984409",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984465",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984471",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984514",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984523",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984532",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F984540",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://dl.acm.org/action/showFmPdf?doi=10.1145%2F988598",
+   "class": "unverified",
+   "why": "the site blocks automated checks",
+   "pages": [
+    "/sigmod-history/officers/"
    ]
   },
   {
@@ -15250,6 +15996,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -15326,6 +16073,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -15339,8 +16087,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -16377,6 +17124,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -16453,6 +17201,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -16466,8 +17215,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -16476,6 +17224,14 @@
    "why": "the site blocks automated checks",
    "pages": [
     "/pods/opentoc/pods2020.html"
+   ]
+  },
+  {
+   "url": "https://dni.sigmod.org/",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/membership/"
    ]
   },
   {
@@ -16847,6 +17603,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -16923,6 +17680,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -16936,8 +17694,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -17121,6 +17878,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -17197,6 +17955,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -17210,8 +17969,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -17631,6 +18389,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -17707,6 +18466,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -17720,8 +18480,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -17746,43 +18505,6 @@
    "why": "200",
    "pages": [
     "/acm-open-sigmod/"
-   ]
-  },
-  {
-   "url": "https://archive.sigmod.org/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/404.html"
-   ]
-  },
-  {
-   "url": "https://archive.sigmod.org/publications/anthology/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/archive/",
-    "/publications/",
-    "/sigmod-history/"
-   ]
-  },
-  {
-   "url": "https://archive.sigmod.org/publications/discs/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/archive/",
-    "/publications/"
-   ]
-  },
-  {
-   "url": "https://archive.sigmod.org/publications/interview/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/archive/",
-    "/publications/",
-    "/sigmod-history/"
    ]
   },
   {
@@ -18030,6 +18752,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -18106,6 +18829,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -18119,8 +18843,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -18137,6 +18860,22 @@
    "why": "200",
    "pages": [
     "/pods-home/technical-section/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0009/nominations.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0012/SIGMODOfficers.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
    ]
   },
   {
@@ -18188,6 +18927,14 @@
    ]
   },
   {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0212/Page1.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
    "url": "https://sigmodrecord.org/publications/sigmodRecord/0212/libkin-grohe.pdf",
    "class": "ok",
    "why": "200",
@@ -18204,11 +18951,43 @@
    ]
   },
   {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0412/0.Page1.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0509/p2-editornotes.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0512/p1-organizers.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
    "url": "https://sigmodrecord.org/publications/sigmodRecord/0709/p15.libkin-martens.pdf",
    "class": "ok",
    "why": "200",
    "pages": [
     "/pods-home/technical-section/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0712/p01.committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
    ]
   },
   {
@@ -18228,6 +19007,14 @@
    ]
   },
   {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0903/p06.elections.tamer.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
    "url": "https://sigmodrecord.org/publications/sigmodRecord/0903/p49.principles.barcelo.pdf",
    "class": "ok",
    "why": "200",
@@ -18236,11 +19023,163 @@
    ]
   },
   {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/0912/p01.committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1003/p01.committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
    "url": "https://sigmodrecord.org/publications/sigmodRecord/1109/pdfs/09.openforum.ameloot.pdf",
    "class": "ok",
    "why": "200",
    "pages": [
     "/pods-home/pods-30th-anniversary/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1112/pdfs/01.committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1309/pdfs/01.committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1309/pdfs/02.editor-notes.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1406/pdfs/01.committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1606/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1706/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1806/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/1909/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/2009/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/2109/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/2209/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/2406/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/2506/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/2512/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/2609/pdfs/01_committees.pdf",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/9812/chair.ps",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
+   ]
+  },
+  {
+   "url": "https://sigmodrecord.org/publications/sigmodRecord/9912/page1.ps",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/sigmod-history/officers/"
    ]
   },
   {
@@ -18528,6 +19467,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -18604,6 +19544,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -18617,8 +19558,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -18810,6 +19750,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -18886,6 +19827,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -18899,30 +19841,29 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
    "url": "https://www.acm.org/about-acm/contact-us",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/join/"
    ]
   },
   {
    "url": "https://www.acm.org/articles/bulletins/2013/january/join-mentornet",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/membership/for-students/"
    ]
   },
   {
    "url": "https://www.acm.org/membership/join",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/join/"
    ]
@@ -18937,8 +19878,8 @@
   },
   {
    "url": "https://www.acm.org/publications/policies/frequently-asked-questions",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/new-acm-policy-on-authorship/"
    ]
@@ -18953,34 +19894,43 @@
   },
   {
    "url": "https://www.acm.org/publications/policies/policy-on-discretionary-open-access-apc-waivers",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
-    "/acm-open-sigmod/"
+    "/acm-open-sigmod/",
+    "/membership/"
    ]
   },
   {
    "url": "https://www.acm.org/publications/policies/policy-on-geographic-apc-waivers-and-discounts",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/acm-open-sigmod/"
    ]
   },
   {
    "url": "https://www.acm.org/response-to-letter",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/executive-committee-message-on-diversity-and-inclusion/"
    ]
   },
   {
    "url": "https://www.acm.org/special-interest-groups/sig-governance",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/acm-open-sigmod/"
+   ]
+  },
+  {
+   "url": "https://www.acm.org/special-interest-groups/sigs/sigmod",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/membership/"
    ]
   },
   {
@@ -18993,8 +19943,8 @@
   },
   {
    "url": "https://www.acm.org/special-interest-groups/volunteer-resources/conference-planning/table-of-contents",
-   "class": "ok",
-   "why": "200",
+   "class": "unverified",
+   "why": "403: the site blocks automated checks",
    "pages": [
     "/about-sigmod/sponsorship/conferences-symposia-and-workshops-held-in-cooperation-with-sigmod/",
     "/about-sigmod/sponsorship/sponsorship-of-meetings/"
@@ -19002,8 +19952,8 @@
   },
   {
    "url": "https://www.acm.org/special-interest-groups/volunteer-resources/conference-planning/table-of-contents2-1-2job",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "broken",
+   "why": "404 Not Found",
    "pages": [
     "/conferences/"
    ]
@@ -19014,14 +19964,6 @@
    "why": "200",
    "pages": [
     "/membership/"
-   ]
-  },
-  {
-   "url": "https://www.cs.tau.ac.il/~danielde/",
-   "class": "ok",
-   "why": "200",
-   "pages": [
-    "/videoseries/"
    ]
   },
   {
@@ -19213,6 +20155,7 @@
     "/sigmod-awards/committees/sigmod-awards-committee/",
     "/sigmod-awards/committees/systems-awards-committee/",
     "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
     "/sigmod-awards/ongoing-awards-call/",
     "/sigmod-awards/people/",
     "/sigmod-awards/people/2015-sigmod-systems-award/",
@@ -19289,6 +20232,7 @@
     "/sigmod-elections-are-underway/",
     "/sigmod-executive-committee-position-on-racism/",
     "/sigmod-history/",
+    "/sigmod-history/officers/",
     "/sigmod-history/past-awards/student-research-and-undergraduate/",
     "/sigmod-history/program-chair/",
     "/sigmod-history/sigmod-logo-history/",
@@ -19302,8 +20246,7 @@
     "/sigmods-position-on-racism/",
     "/sihem-amer-yahia-2024-sigmod-contributions-award/",
     "/socc-2017-call-for-papers/",
-    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/",
-    "/videoseries/"
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   },
   {
@@ -19331,9 +20274,276 @@
    ]
   },
   {
+   "url": "https://www.linkedin.com/company/acm-sigmod",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/",
+    "/2015-acm-fellows/",
+    "/2016-heidelberg-laureate-forum/",
+    "/2017-acm-sigmod-awards-call-for-nominations/",
+    "/2017-program-for-research-in-acm-history/",
+    "/2020-pods-alberto-mendelzon-test-of-time-award/",
+    "/2020-sigmod-best-paper-award/",
+    "/2021-sigmod-awards-announcement/",
+    "/2021-sigmod-systems-award/",
+    "/2021-sigmod-test-of-time-award/",
+    "/2022-sigmod-awards/",
+    "/2022-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/2022-sigmod-systems-award/",
+    "/2023-sigmod-awards/",
+    "/2023-sigmod-systems-award/",
+    "/2024-sigmod-awards/",
+    "/2024-sigmod-systems-award/",
+    "/2025-sigmod-awards/",
+    "/2025-sigmod-systems-award/",
+    "/2026-sigmod-awards/",
+    "/2061-2/",
+    "/404.html",
+    "/about-sigmod/",
+    "/about-sigmod/committees/",
+    "/about-sigmod/sponsorship/",
+    "/about-sigmod/sponsorship/conferences-symposia-and-workshops-held-in-cooperation-with-sigmod/",
+    "/about-sigmod/sponsorship/sponsorship-of-meetings/",
+    "/acm-fellows-2025/",
+    "/acm-names-2016-distinguished-members/",
+    "/acm-names-2016-fellows/",
+    "/acm-open-2026/",
+    "/acm-open-sigmod/",
+    "/acm-webinar-on-open-data-science/",
+    "/alon-halevy-2021-sigmod-edgar-f-codd-innovations-award/",
+    "/announcing-the-sigmod-2017-student-research-competition/",
+    "/archive/",
+    "/call-for-nominations-2016-acm-sigmod-innovations-and-contributions-awards/",
+    "/call-for-nominations-2016-sigmod-systems-award/",
+    "/call-for-nominations-2018-acm-sigmod-innovations-contributions-test-of-time-awards/",
+    "/call-for-nominations-2019-acm-sigmod-innovations-and-contributions-award/",
+    "/call-for-nominations-2020-acm-sigmod-awards/",
+    "/call-for-nominations-2021-acm-sigmod-awards/",
+    "/call-for-nominations-2022-acm-sigmod-awards/",
+    "/call-for-nominations-editor-in-chief-acm-transactions-on-database-systems/",
+    "/call-for-nominations-editor-in-chief-of-the-acm-journal-on-data-and-information-quality/",
+    "/call-for-nominations-editor-in-chief -of-acm-transactions-on-knowledge-discovery-from-data/",
+    "/call-for-nominations-sigmod-officer-elections/",
+    "/carlo-zaniolo-2025-sigmod-edgar-f-codd-innovations-award/",
+    "/christian-s-jensen-2022-sigmod-contributions-award/",
+    "/christopher-re-named-a-2015-macarthur-fellow/",
+    "/conferences/",
+    "/conferences/co-sponsored-conferences/",
+    "/conferences/sigmod-1974/",
+    "/conferences/sigmod-1975/",
+    "/conferences/sigmod-1976/",
+    "/conferences/sigmod-1977/",
+    "/conferences/sigmod-1978/",
+    "/conferences/sigmod-1979/",
+    "/conferences/sigmod-1981/",
+    "/conferences/sigmod-1982/",
+    "/conferences/sigmod-1983/",
+    "/conferences/sigmod-1984/",
+    "/conferences/sigmod-1985/",
+    "/conferences/sigmod-1986/",
+    "/conferences/sigmod-1987/",
+    "/conferences/sigmod-1988/",
+    "/conferences/sigmod-1989/",
+    "/conferences/sigmod-1990/",
+    "/conferences/sigmod-1991/",
+    "/conferences/sigmod-1992/",
+    "/conferences/sigmod-1993/",
+    "/conferences/sigmod-1994/",
+    "/conferences/sigmod-1995/",
+    "/conferences/sigmod-1996/",
+    "/conferences/sigmod-1997/",
+    "/conferences/sigmod-1998/",
+    "/conferences/sigmod-1999/",
+    "/conferences/sigmod-2001/",
+    "/dan-suciu-2022-sigmod-edgar-f-codd-innovations-award/",
+    "/divesh-srivastava-2021-contributions-award/",
+    "/divyakant-agrawal-2026-sigmod-contributions-award/",
+    "/executive-committee-message-on-diversity-and-inclusion/",
+    "/h-v-jagadish-2026-sigmod-edgar-f-codd-innovations-award/",
+    "/hector-garcia-molina-2025-sigmod-distinguished-mentorship-award/",
+    "/hector-j-munoz-avila-sylvia-spengler-2025-sigmod-contributions-award/",
+    "/jennifer-widom-named-the-acm-w-2015-6-athena-lecturer/",
+    "/join/",
+    "/joseph-m-hellerstein-2023-sigmod-edgar-f-codd-innovations-award/",
+    "/k-selcuk-candan-2023-sigmod-contributions-award/",
+    "/membership/",
+    "/membership/for-students/",
+    "/membership/sigmod-chapters/",
+    "/message-from-the-acm-sigmod-chair/",
+    "/new-acm-policy-on-authorship/",
+    "/new-acm-sigmod-officers-2017/",
+    "/new-acm-sigmod-officers-divyakant-agrawal-fatma-ozcan-and-rachel-pottinger/",
+    "/new-acm-sigmod-officers/",
+    "/news/",
+    "/note-about-ranking-indexing-of-pacmmod/",
+    "/pods-2020-best-paper-award/",
+    "/pods-home/",
+    "/pods-home/acm-pods-alberto-o-mendelzon-test-of-time-award/",
+    "/pods-home/gems-of-pods/",
+    "/pods-home/opentocs/",
+    "/pods-home/pods-30th-anniversary-statistics/",
+    "/pods-home/pods-30th-anniversary/",
+    "/pods-home/pods-best-paper-awards/",
+    "/pods-home/pods-corrigenda/",
+    "/pods-home/pods-keynote-speakers/",
+    "/pods-home/pods-organization/",
+    "/pods-home/pods-tutorials/",
+    "/pods-home/technical-section/",
+    "/pods-home/who-are-we/",
+    "/publication-list/",
+    "/publications/",
+    "/publications/publications/",
+    "/samuel-madden-2024-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-2017-change-of-venue/",
+    "/sigmod-2022-test-of-time-award/",
+    "/sigmod-2023-test-of-time-award/",
+    "/sigmod-2024-test-of-time-award/",
+    "/sigmod-2025-test-of-time-award/",
+    "/sigmod-2026-test-of-time-award/",
+    "/sigmod-awards/",
+    "/sigmod-awards/2017-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/",
+    "/sigmod-awards/citations/2003-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2004-sigmod-test-of-time-award-2/",
+    "/sigmod-awards/citations/2004-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2006-sigmod-test-of-time-award-2/",
+    "/sigmod-awards/citations/2006-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2007-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2008-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2009-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2009-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2010-sigmod-best-paper-award/",
+    "/sigmod-awards/citations/2010-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2010-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2011-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2012-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2012-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2013-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2013-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2014-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2014-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2015-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2015-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2016-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2016-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2017-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2017-sigmod-most-reproducible-paper-award-winners/",
+    "/sigmod-awards/citations/2017-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2018-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2018-sigmod-systems-award/",
+    "/sigmod-awards/citations/2018-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2019-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2019-sigmod-systems-award/",
+    "/sigmod-awards/citations/2019-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2020-sigmod-contributions-award/",
+    "/sigmod-awards/citations/2020-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2020-sigmod-systems-award/",
+    "/sigmod-awards/citations/2020-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2021-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/committees/",
+    "/sigmod-awards/committees/jim-gray-doctoral-dissertation-awards-committee/",
+    "/sigmod-awards/committees/sigmod-awards-committee/",
+    "/sigmod-awards/committees/systems-awards-committee/",
+    "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
+    "/sigmod-awards/ongoing-awards-call/",
+    "/sigmod-awards/people/",
+    "/sigmod-awards/people/2015-sigmod-systems-award/",
+    "/sigmod-awards/people/ahmed-elmagarmid-2019-sigmod-contributions-award/",
+    "/sigmod-awards/people/anastasia-ailamaki-2019-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/avi-silberschatz/",
+    "/sigmod-awards/people/beng-chin-ooi-2020-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/beng-chin-ooi/",
+    "/sigmod-awards/people/bruce-lindsay/",
+    "/sigmod-awards/people/c-mohan/",
+    "/sigmod-awards/people/curtis-dyreson/",
+    "/sigmod-awards/people/daniel-rosenkrantz/",
+    "/sigmod-awards/people/david-dewitt/",
+    "/sigmod-awards/people/david-lomet/",
+    "/sigmod-awards/people/david-maier/",
+    "/sigmod-awards/people/don-chamberlin/",
+    "/sigmod-awards/people/gerhard-weikum-2016-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/gerhard-weikum/",
+    "/sigmod-awards/people/gio-wiederhold/",
+    "/sigmod-awards/people/goetz-graefe-2017-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/h-v-jagadish/",
+    "/sigmod-awards/people/hans-jorg-schek-acm-sigmod-official-website/",
+    "/sigmod-awards/people/hector-garcia-molina/",
+    "/sigmod-awards/people/hongjun-lu/",
+    "/sigmod-awards/people/jeffrey-d-ullman-2006/",
+    "/sigmod-awards/people/jeffrey-ullman/",
+    "/sigmod-awards/people/jennifer-widom/",
+    "/sigmod-awards/people/jim-gray/",
+    "/sigmod-awards/people/klaus-r-dittrich/",
+    "/sigmod-awards/people/kyu-young-whang/",
+    "/sigmod-awards/people/laura-haas-contributions/",
+    "/sigmod-awards/people/laura-haas/",
+    "/sigmod-awards/people/maria-zemankova/",
+    "/sigmod-awards/people/marianne-winslett/",
+    "/sigmod-awards/people/martin-kersten-2016-sigmod-systems-award/",
+    "/sigmod-awards/people/martin-kersten/",
+    "/sigmod-awards/people/masaru-kitsuregawa/",
+    "/sigmod-awards/people/michael-carey-contributions/",
+    "/sigmod-awards/people/michael-carey/",
+    "/sigmod-awards/people/michael-ley/",
+    "/sigmod-awards/people/michael-stonebraker/",
+    "/sigmod-awards/people/moshe-y-vardi/",
+    "/sigmod-awards/people/patricia-selinger/",
+    "/sigmod-awards/people/philip-bernstein/",
+    "/sigmod-awards/people/raghu-ramakrishnan-2018-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/raghu-ramakrishnan/",
+    "/sigmod-awards/people/rakesh-agrawal/",
+    "/sigmod-awards/people/richard-hipp-2017-sigmod-systems-award/",
+    "/sigmod-awards/people/richard-snodgrass/",
+    "/sigmod-awards/people/ronald-fagin/",
+    "/sigmod-awards/people/rudolf-bayer/",
+    "/sigmod-awards/people/samuel-madden-2016-sigmod-contributions-award/",
+    "/sigmod-awards/people/serge-abiteboul/",
+    "/sigmod-awards/people/stefano-ceri/",
+    "/sigmod-awards/people/surajit-chaudhuri-innovations/",
+    "/sigmod-awards/people/surajit-chaudhuri/",
+    "/sigmod-awards/people/tamer-ozsu/",
+    "/sigmod-awards/people/umeshwar-dayal/",
+    "/sigmod-awards/people/won-kim/",
+    "/sigmod-awards/people/yahiko-kambayashi/",
+    "/sigmod-awards/people/yannis-e-ioannidis-2017-sigmod-contributions-award/",
+    "/sigmod-awards/people/z-meral-ozsoyoglu-2018-sigmod-contributions-award/",
+    "/sigmod-awards/sigmod-best-artifact-award/",
+    "/sigmod-awards/sigmod-best-demonstration-award/",
+    "/sigmod-awards/sigmod-best-paper-award/",
+    "/sigmod-awards/sigmod-contributions-award/",
+    "/sigmod-awards/sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/sigmod-research-highlights/",
+    "/sigmod-awards/sigmod-systems-award/",
+    "/sigmod-awards/sigmod-test-of-time-award/",
+    "/sigmod-awards/the-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-distinguished-aes-and-pcs/",
+    "/sigmod-elections-are-underway/",
+    "/sigmod-executive-committee-position-on-racism/",
+    "/sigmod-history/",
+    "/sigmod-history/officers/",
+    "/sigmod-history/past-awards/student-research-and-undergraduate/",
+    "/sigmod-history/program-chair/",
+    "/sigmod-history/sigmod-logo-history/",
+    "/sigmod-history/sigmod-online/",
+    "/sigmod-history/sigmods-mission/",
+    "/sigmod-pods-calls-for-proposals-2023-2024/",
+    "/sigmod-policies/",
+    "/sigmod-policies/dbcares-policy/",
+    "/sigmod-special-service-award/",
+    "/sigmodpods-2017-conference-to-be-moved-to-a-different-location/",
+    "/sigmods-position-on-racism/",
+    "/sihem-amer-yahia-2024-sigmod-contributions-award/",
+    "/socc-2017-call-for-papers/",
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
+   ]
+  },
+  {
    "url": "https://www.research4life.org/",
-   "class": "unverified",
-   "why": "403: the site blocks automated checks",
+   "class": "ok",
+   "why": "200",
    "pages": [
     "/acm-open-sigmod/"
    ]
@@ -19408,6 +20618,273 @@
    "why": "200",
    "pages": [
     "/sigmod-awards/citations/2015-sigmod-test-of-time-award/"
+   ]
+  },
+  {
+   "url": "https://x.com/sigmod",
+   "class": "ok",
+   "why": "200",
+   "pages": [
+    "/",
+    "/2015-acm-fellows/",
+    "/2016-heidelberg-laureate-forum/",
+    "/2017-acm-sigmod-awards-call-for-nominations/",
+    "/2017-program-for-research-in-acm-history/",
+    "/2020-pods-alberto-mendelzon-test-of-time-award/",
+    "/2020-sigmod-best-paper-award/",
+    "/2021-sigmod-awards-announcement/",
+    "/2021-sigmod-systems-award/",
+    "/2021-sigmod-test-of-time-award/",
+    "/2022-sigmod-awards/",
+    "/2022-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/2022-sigmod-systems-award/",
+    "/2023-sigmod-awards/",
+    "/2023-sigmod-systems-award/",
+    "/2024-sigmod-awards/",
+    "/2024-sigmod-systems-award/",
+    "/2025-sigmod-awards/",
+    "/2025-sigmod-systems-award/",
+    "/2026-sigmod-awards/",
+    "/2061-2/",
+    "/404.html",
+    "/about-sigmod/",
+    "/about-sigmod/committees/",
+    "/about-sigmod/sponsorship/",
+    "/about-sigmod/sponsorship/conferences-symposia-and-workshops-held-in-cooperation-with-sigmod/",
+    "/about-sigmod/sponsorship/sponsorship-of-meetings/",
+    "/acm-fellows-2025/",
+    "/acm-names-2016-distinguished-members/",
+    "/acm-names-2016-fellows/",
+    "/acm-open-2026/",
+    "/acm-open-sigmod/",
+    "/acm-webinar-on-open-data-science/",
+    "/alon-halevy-2021-sigmod-edgar-f-codd-innovations-award/",
+    "/announcing-the-sigmod-2017-student-research-competition/",
+    "/archive/",
+    "/call-for-nominations-2016-acm-sigmod-innovations-and-contributions-awards/",
+    "/call-for-nominations-2016-sigmod-systems-award/",
+    "/call-for-nominations-2018-acm-sigmod-innovations-contributions-test-of-time-awards/",
+    "/call-for-nominations-2019-acm-sigmod-innovations-and-contributions-award/",
+    "/call-for-nominations-2020-acm-sigmod-awards/",
+    "/call-for-nominations-2021-acm-sigmod-awards/",
+    "/call-for-nominations-2022-acm-sigmod-awards/",
+    "/call-for-nominations-editor-in-chief-acm-transactions-on-database-systems/",
+    "/call-for-nominations-editor-in-chief-of-the-acm-journal-on-data-and-information-quality/",
+    "/call-for-nominations-editor-in-chief -of-acm-transactions-on-knowledge-discovery-from-data/",
+    "/call-for-nominations-sigmod-officer-elections/",
+    "/carlo-zaniolo-2025-sigmod-edgar-f-codd-innovations-award/",
+    "/christian-s-jensen-2022-sigmod-contributions-award/",
+    "/christopher-re-named-a-2015-macarthur-fellow/",
+    "/conferences/",
+    "/conferences/co-sponsored-conferences/",
+    "/conferences/sigmod-1974/",
+    "/conferences/sigmod-1975/",
+    "/conferences/sigmod-1976/",
+    "/conferences/sigmod-1977/",
+    "/conferences/sigmod-1978/",
+    "/conferences/sigmod-1979/",
+    "/conferences/sigmod-1981/",
+    "/conferences/sigmod-1982/",
+    "/conferences/sigmod-1983/",
+    "/conferences/sigmod-1984/",
+    "/conferences/sigmod-1985/",
+    "/conferences/sigmod-1986/",
+    "/conferences/sigmod-1987/",
+    "/conferences/sigmod-1988/",
+    "/conferences/sigmod-1989/",
+    "/conferences/sigmod-1990/",
+    "/conferences/sigmod-1991/",
+    "/conferences/sigmod-1992/",
+    "/conferences/sigmod-1993/",
+    "/conferences/sigmod-1994/",
+    "/conferences/sigmod-1995/",
+    "/conferences/sigmod-1996/",
+    "/conferences/sigmod-1997/",
+    "/conferences/sigmod-1998/",
+    "/conferences/sigmod-1999/",
+    "/conferences/sigmod-2001/",
+    "/dan-suciu-2022-sigmod-edgar-f-codd-innovations-award/",
+    "/divesh-srivastava-2021-contributions-award/",
+    "/divyakant-agrawal-2026-sigmod-contributions-award/",
+    "/executive-committee-message-on-diversity-and-inclusion/",
+    "/h-v-jagadish-2026-sigmod-edgar-f-codd-innovations-award/",
+    "/hector-garcia-molina-2025-sigmod-distinguished-mentorship-award/",
+    "/hector-j-munoz-avila-sylvia-spengler-2025-sigmod-contributions-award/",
+    "/jennifer-widom-named-the-acm-w-2015-6-athena-lecturer/",
+    "/join/",
+    "/joseph-m-hellerstein-2023-sigmod-edgar-f-codd-innovations-award/",
+    "/k-selcuk-candan-2023-sigmod-contributions-award/",
+    "/membership/",
+    "/membership/for-students/",
+    "/membership/sigmod-chapters/",
+    "/message-from-the-acm-sigmod-chair/",
+    "/new-acm-policy-on-authorship/",
+    "/new-acm-sigmod-officers-2017/",
+    "/new-acm-sigmod-officers-divyakant-agrawal-fatma-ozcan-and-rachel-pottinger/",
+    "/new-acm-sigmod-officers/",
+    "/news/",
+    "/note-about-ranking-indexing-of-pacmmod/",
+    "/pods-2020-best-paper-award/",
+    "/pods-home/",
+    "/pods-home/acm-pods-alberto-o-mendelzon-test-of-time-award/",
+    "/pods-home/gems-of-pods/",
+    "/pods-home/opentocs/",
+    "/pods-home/pods-30th-anniversary-statistics/",
+    "/pods-home/pods-30th-anniversary/",
+    "/pods-home/pods-best-paper-awards/",
+    "/pods-home/pods-corrigenda/",
+    "/pods-home/pods-keynote-speakers/",
+    "/pods-home/pods-organization/",
+    "/pods-home/pods-tutorials/",
+    "/pods-home/technical-section/",
+    "/pods-home/who-are-we/",
+    "/publication-list/",
+    "/publications/",
+    "/publications/publications/",
+    "/samuel-madden-2024-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-2017-change-of-venue/",
+    "/sigmod-2022-test-of-time-award/",
+    "/sigmod-2023-test-of-time-award/",
+    "/sigmod-2024-test-of-time-award/",
+    "/sigmod-2025-test-of-time-award/",
+    "/sigmod-2026-test-of-time-award/",
+    "/sigmod-awards/",
+    "/sigmod-awards/2017-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/",
+    "/sigmod-awards/citations/2003-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2004-sigmod-test-of-time-award-2/",
+    "/sigmod-awards/citations/2004-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2006-sigmod-test-of-time-award-2/",
+    "/sigmod-awards/citations/2006-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2007-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2008-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2009-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2009-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2010-sigmod-best-paper-award/",
+    "/sigmod-awards/citations/2010-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2010-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2011-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2012-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2012-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2013-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2013-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2014-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2014-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2015-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2015-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2016-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2016-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2017-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2017-sigmod-most-reproducible-paper-award-winners/",
+    "/sigmod-awards/citations/2017-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2018-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2018-sigmod-systems-award/",
+    "/sigmod-awards/citations/2018-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2019-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2019-sigmod-systems-award/",
+    "/sigmod-awards/citations/2019-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2020-sigmod-contributions-award/",
+    "/sigmod-awards/citations/2020-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/citations/2020-sigmod-systems-award/",
+    "/sigmod-awards/citations/2020-sigmod-test-of-time-award/",
+    "/sigmod-awards/citations/2021-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/committees/",
+    "/sigmod-awards/committees/jim-gray-doctoral-dissertation-awards-committee/",
+    "/sigmod-awards/committees/sigmod-awards-committee/",
+    "/sigmod-awards/committees/systems-awards-committee/",
+    "/sigmod-awards/doctoral-dissertation-award/",
+    "/sigmod-awards/nominate/",
+    "/sigmod-awards/ongoing-awards-call/",
+    "/sigmod-awards/people/",
+    "/sigmod-awards/people/2015-sigmod-systems-award/",
+    "/sigmod-awards/people/ahmed-elmagarmid-2019-sigmod-contributions-award/",
+    "/sigmod-awards/people/anastasia-ailamaki-2019-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/avi-silberschatz/",
+    "/sigmod-awards/people/beng-chin-ooi-2020-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/beng-chin-ooi/",
+    "/sigmod-awards/people/bruce-lindsay/",
+    "/sigmod-awards/people/c-mohan/",
+    "/sigmod-awards/people/curtis-dyreson/",
+    "/sigmod-awards/people/daniel-rosenkrantz/",
+    "/sigmod-awards/people/david-dewitt/",
+    "/sigmod-awards/people/david-lomet/",
+    "/sigmod-awards/people/david-maier/",
+    "/sigmod-awards/people/don-chamberlin/",
+    "/sigmod-awards/people/gerhard-weikum-2016-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/gerhard-weikum/",
+    "/sigmod-awards/people/gio-wiederhold/",
+    "/sigmod-awards/people/goetz-graefe-2017-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/h-v-jagadish/",
+    "/sigmod-awards/people/hans-jorg-schek-acm-sigmod-official-website/",
+    "/sigmod-awards/people/hector-garcia-molina/",
+    "/sigmod-awards/people/hongjun-lu/",
+    "/sigmod-awards/people/jeffrey-d-ullman-2006/",
+    "/sigmod-awards/people/jeffrey-ullman/",
+    "/sigmod-awards/people/jennifer-widom/",
+    "/sigmod-awards/people/jim-gray/",
+    "/sigmod-awards/people/klaus-r-dittrich/",
+    "/sigmod-awards/people/kyu-young-whang/",
+    "/sigmod-awards/people/laura-haas-contributions/",
+    "/sigmod-awards/people/laura-haas/",
+    "/sigmod-awards/people/maria-zemankova/",
+    "/sigmod-awards/people/marianne-winslett/",
+    "/sigmod-awards/people/martin-kersten-2016-sigmod-systems-award/",
+    "/sigmod-awards/people/martin-kersten/",
+    "/sigmod-awards/people/masaru-kitsuregawa/",
+    "/sigmod-awards/people/michael-carey-contributions/",
+    "/sigmod-awards/people/michael-carey/",
+    "/sigmod-awards/people/michael-ley/",
+    "/sigmod-awards/people/michael-stonebraker/",
+    "/sigmod-awards/people/moshe-y-vardi/",
+    "/sigmod-awards/people/patricia-selinger/",
+    "/sigmod-awards/people/philip-bernstein/",
+    "/sigmod-awards/people/raghu-ramakrishnan-2018-sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/people/raghu-ramakrishnan/",
+    "/sigmod-awards/people/rakesh-agrawal/",
+    "/sigmod-awards/people/richard-hipp-2017-sigmod-systems-award/",
+    "/sigmod-awards/people/richard-snodgrass/",
+    "/sigmod-awards/people/ronald-fagin/",
+    "/sigmod-awards/people/rudolf-bayer/",
+    "/sigmod-awards/people/samuel-madden-2016-sigmod-contributions-award/",
+    "/sigmod-awards/people/serge-abiteboul/",
+    "/sigmod-awards/people/stefano-ceri/",
+    "/sigmod-awards/people/surajit-chaudhuri-innovations/",
+    "/sigmod-awards/people/surajit-chaudhuri/",
+    "/sigmod-awards/people/tamer-ozsu/",
+    "/sigmod-awards/people/umeshwar-dayal/",
+    "/sigmod-awards/people/won-kim/",
+    "/sigmod-awards/people/yahiko-kambayashi/",
+    "/sigmod-awards/people/yannis-e-ioannidis-2017-sigmod-contributions-award/",
+    "/sigmod-awards/people/z-meral-ozsoyoglu-2018-sigmod-contributions-award/",
+    "/sigmod-awards/sigmod-best-artifact-award/",
+    "/sigmod-awards/sigmod-best-demonstration-award/",
+    "/sigmod-awards/sigmod-best-paper-award/",
+    "/sigmod-awards/sigmod-contributions-award/",
+    "/sigmod-awards/sigmod-edgar-f-codd-innovations-award/",
+    "/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-awards/sigmod-research-highlights/",
+    "/sigmod-awards/sigmod-systems-award/",
+    "/sigmod-awards/sigmod-test-of-time-award/",
+    "/sigmod-awards/the-sigmod-jim-gray-doctoral-dissertation-award/",
+    "/sigmod-distinguished-aes-and-pcs/",
+    "/sigmod-elections-are-underway/",
+    "/sigmod-executive-committee-position-on-racism/",
+    "/sigmod-history/",
+    "/sigmod-history/officers/",
+    "/sigmod-history/past-awards/student-research-and-undergraduate/",
+    "/sigmod-history/program-chair/",
+    "/sigmod-history/sigmod-logo-history/",
+    "/sigmod-history/sigmod-online/",
+    "/sigmod-history/sigmods-mission/",
+    "/sigmod-pods-calls-for-proposals-2023-2024/",
+    "/sigmod-policies/",
+    "/sigmod-policies/dbcares-policy/",
+    "/sigmod-special-service-award/",
+    "/sigmodpods-2017-conference-to-be-moved-to-a-different-location/",
+    "/sigmods-position-on-racism/",
+    "/sihem-amer-yahia-2024-sigmod-contributions-award/",
+    "/socc-2017-call-for-papers/",
+    "/the-sigmod-blog-features-a-tribute-to-jose-alfredo-blakeley/"
    ]
   }
  ]

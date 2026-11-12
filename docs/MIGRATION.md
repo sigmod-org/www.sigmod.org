@@ -23,7 +23,7 @@ npm run build        # static site in _site/
 | Site | Repository | What it holds | How it is published |
 |---|---|---|---|
 | https://www.sigmod.org/ (`sigmod.org` redirects here) | [sigmod-org/www.sigmod.org](https://github.com/sigmod-org/www.sigmod.org) | The SIGMOD and PODS site (this repository) | GitHub Actions workflow, custom domain, HTTPS |
-| https://archive.sigmod.org/ | [sigmod-org/archive](https://github.com/sigmod-org/archive) | The SIGMOD Archive: DiSC (1999–2011), the SIGMOD Anthology, the DBLP DVD pages, Distinguished Profiles in Databases | GitHub Actions workflow, served under `/archive/` until it has its own domain |
+| https://archive.sigmod.org/ | [sigmod-org/archive](https://github.com/sigmod-org/archive) | The SIGMOD Archive: DiSC (1999–2011), the SIGMOD Anthology, the DBLP DVD pages, Distinguished Profiles in Databases | GitHub Actions workflow (`deploy-archive-sigmod.yml`) builds it and copies it with rsync over SSH to ACM's server on every push. The interview video and audio are on that server in `/media/distinguished_profiles/` (not in git). The old GitHub Pages copy is no longer updated. |
 | https://mirror.sigmod.org/ | [sigmod-org/mirror.sigmod.org](https://github.com/sigmod-org/mirror.sigmod.org) | Copies of past SIGMOD/PODS conference websites | GitHub Pages from the `main` branch, custom domain |
 | https://blog.sigmod.org/ | separate | The SIGMOD Blog | separate |
 | — | [sigmod-org/sigmod-logo](https://github.com/sigmod-org/sigmod-logo) | Logo candidates | — |
@@ -79,7 +79,7 @@ canonical link, which works on GitHub Pages).
 | `/publications/discs/…`, `/publications/anthology/…`, `/publications/dblp/…`, `/publications/interview(s)/…` | In the SIGMOD Archive at the same path. The DiSC, Anthology and Profiles pages here redirect there; any other address under these paths is forwarded by the 404 page (`src/404.njk`). |
 | `/publications/pastconf/sigmodYYYY/…` | Forwarded by the 404 page to the same file on mirror.sigmod.org |
 | `/2012/`, `/2013/` | Gone; the conferences are at https://2012.sigmod.org/ and https://2013.sigmod.org/ |
-| `/publications/interviews/{flv,mp3}/…` (195 links, about 8.4 GB) | **Not online.** The links are kept on the archive's Profiles pages. See [Next steps](#next-steps). |
+| `/publications/interviews/{flv,mp3}/…` (195 links, about 8.4 GB) | **Not forwarded.** The videos (now MP4) and audio are at `https://archive.sigmod.org/media/distinguished_profiles/{mp4s,mp3s}/`, and the archive's Profiles pages play them from there. |
 
 Files in `src/static/` are copied to the site byte for byte and never rendered
 as templates.
@@ -87,7 +87,7 @@ as templates.
 ## Link health
 
 Current state (after the November 2026 moves): no broken links within
-www.sigmod.org; 7 links to old upload images that were already missing; 39
+www.sigmod.org; 7 links to old upload images that were already missing; 38
 external links broken or not answering, mostly old conference websites,
 moved personal pages and the old ACM-hosted WordPress images. About 1,800
 external links (dblp.org, the ACM DL, DOIs) cannot be checked by a script
@@ -116,11 +116,11 @@ Links already rewritten during the migration are listed in
   `PATH_PREFIX=/`) and deploys `_site/` to GitHub Pages.
 - GitHub caps the deploy step at 10 minutes. If GitHub's file sync is slow and
   the step times out, re-run the failed job (`gh run rerun <id> --failed`); the
-  build does not need to run again. Avoid pushing to www and the archive at the
-  same time.
-- A published Pages site may be at most 1 GB. www.sigmod.org is about 60 MB,
-  the archive about 720 MB, the mirror about 600 MB. Large media must stay out
-  of git.
+  build does not need to run again.
+- A published Pages site may be at most 1 GB. www.sigmod.org is about 60 MB and
+  the mirror about 230 MB. Large media must stay out of git.
+- The SIGMOD Archive (about 650 MB) is not on GitHub Pages: it is on ACM's server
+  at archive.sigmod.org, deployed by its repository's workflow (see its README).
 - GitHub Pages cannot send server-side 301 redirects; the redirect stubs use a
   meta refresh with a canonical link. If true 301s matter, put Cloudflare in
   front.
@@ -139,35 +139,27 @@ Treat `src/content/` as the source of truth. The import records stay in
 
 Roughly in order of value.
 
-1. **Profiles media.** The 66 Distinguished Profiles videos and audio files
-   (about 8.4 GB, `.flv` and `.mp3`) are not online. Convert the videos to MP4
-   and host them outside git (ACM Digital Library, YouTube, or a storage
-   bucket), then update the links on the archive's Profiles pages; or drop the
-   links and keep the transcripts.
-2. **Content cleanup.** Work through [CLEANUP.md](CLEANUP.md): merge the three
+1. **Content cleanup.** Work through [CLEANUP.md](CLEANUP.md): merge the three
    Publications pages and the Jim Gray dissertation pages, redirect the empty
    parent pages, fill in or redirect the "Information missing!" page.
-3. **Broken external links.** Decide case by case (see `docs/old-site-links.html`):
+2. **Broken external links.** Decide case by case (see `docs/old-site-links.html`):
    replace old conference websites with their mirror.sigmod.org copies or
    Wayback copies, update moved personal pages, drop dead ones (pubzone.org).
-4. **Awards as data.** Add `src/_data/awards/<award>.yml` with rows of
+3. **Awards as data.** Add `src/_data/awards/<award>.yml` with rows of
    `{year, recipients, title, citation_url, image}` and generate the award
    tables, the yearly news summary and the home-page highlights from it, so a
    new award year is one edit. New recipient pages would go under
    `/sigmod-awards/<award>/<year>/`; existing URLs stay.
-5. **People as data.** A `src/_data/people.yml` for officers, the executive
+4. **People as data.** A `src/_data/people.yml` for officers, the executive
    committee and award committees, read by `/about-sigmod/`, the Committees
    page and the PODS organization page, so elections are one edit.
-6. **Conferences page from data.** Render `/conferences/` from
+5. **Conferences page from data.** Render `/conferences/` from
    `src/_data/conferences.json` (the home page already reads it) and fold the
    26 year pages (1974–2001) into it as anchors.
-7. **A link check in CI.** Run `scan-site-links.mjs` on every push and fail
+6. **A link check in CI.** Run `scan-site-links.mjs` on every push and fail
    the build on broken internal links; run the external check monthly.
-8. **The SIGMOD Archive's own domain.** Once DNS is set, serve the archive at
-   `archive.sigmod.org` (steps in its README) and update the forwarding in
-   `src/404.njk`.
-9. **Search.** A static search index (for example Pagefind) over the main site.
-10. **Retire www-old.sigmod.org** once the remaining comparisons are done.
+7. **Search.** A static search index (for example Pagefind) over the main site.
+8. **Retire www-old.sigmod.org** once the remaining comparisons are done.
 
 Community items tracked in the [README](../README.md): a competition for a new
 SIGMOD logo, and a fresh look at the mission statement.
