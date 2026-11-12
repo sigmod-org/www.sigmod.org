@@ -1,0 +1,23 @@
+---
+layout: base.njk
+title: "Nominate for a SIGMOD Award"
+permalink: "/sigmod-awards/nominate/"
+section: "sigmod"
+area: "awards"
+---
+{#- The forms are drawn by /assets/nominate.js, generated from the awards-nominations
+    project (dev/build-site.mjs). It talks to the Apps Script backend in the
+    sigmodec@gmail.com account. Links in nomination e-mails point to this page. -#}
+<link rel="stylesheet" href="/assets/nominate.css">
+<div class="page-head">
+  <div class="wrap">
+    <p class="crumbs"><a href="/">Home</a><span>/</span><a href="/sigmod-awards/">Awards</a></p>
+    <h1 data-nom-title>{{ title }}</h1>
+  </div>
+</div>
+<div class="wrap" style="max-width:900px;padding-top:32px;padding-bottom:80px">
+  <div id="app" class="nom" aria-live="polite">
+    <noscript><p>This form needs JavaScript. You can also send nominations by e-mail as described in the <a href="/sigmod-awards/ongoing-awards-call/">call for nominations</a>.</p></noscript>
+  </div>
+</div>
+<script src="/assets/nominate.js"></script>

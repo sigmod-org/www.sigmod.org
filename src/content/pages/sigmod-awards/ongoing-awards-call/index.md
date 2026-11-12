@@ -5,7 +5,7 @@ permalink: "/sigmod-awards/ongoing-awards-call/"
 section: "sigmod"
 area: "awards"
 wp_type: "page"
-updated: "2026-11-07"
+updated: "2026-11-12"
 ---
 
 SIGMOD accepts nominations for its awards all year round, with an annual cut-off date. Nominations received by **February 1** are considered for the awards presented at that year’s SIGMOD/PODS conference; later nominations are considered the following year.
@@ -16,7 +16,11 @@ SIGMOD accepts nominations for its awards all year round, with an annual cut-off
 
 ## How to submit
 
-Send nominations by e-mail to the SIGMOD Awards Chair, Sharad Mehrotra (*sharad AT ics.uci.edu*), and to Manos Athanassoulis (*mathan AT bu.edu*). For any questions about a nomination, contact the SIGMOD Awards Chair.
+Submit nominations online: choose the award, fill in the nomination, and list your endorsers. Each endorser receives an e-mail with a private link to read the nomination and upload a letter, and you get a private link to follow progress and update the nomination.
+
+<p style="text-align:center"><a class="btn-join" href="/sigmod-awards/nominate/">Submit a nomination</a></p>
+
+If you cannot use the online form, send the nomination by e-mail to the SIGMOD Awards Chair, Sharad Mehrotra (*sharad AT ics.uci.edu*), and to Manos Athanassoulis (*mathan AT bu.edu*). For any questions about a nomination, contact the SIGMOD Awards Chair.
 
 ## Awards open for nomination
 
@@ -28,6 +32,6 @@ Send nominations by e-mail to the SIGMOD Awards Chair, Sharad Mehrotra (*sharad 
 | [Systems Award](/sigmod-awards/sigmod-systems-award/) | The system, a proposed citation (up to 25 words), a description of the innovation and contribution (100–250 words) that justifies its significance and the choice of nominees, and up to three supporting letters. |
 | [Test of Time Award](/sigmod-awards/sigmod-test-of-time-award/) | A justification of up to 750 words (plain text preferred) for a paper from the SIGMOD proceedings 10–12 years earlier. Supporting letters are not accepted. |
 
-Self-nominations are not accepted. Supporting letters should convey additional facts, not simply endorse the nomination. The current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer) and the members of the SIGMOD Awards Committee cannot be nominated while serving. The Awards Committee may also identify candidates itself and is not required to choose among submitted nominations. Each award’s page has its full criteria and past recipients.
+Self-nominations are not accepted. Supporting letters should convey additional facts, not simply endorse the nomination. The current elected officers of SIGMOD (Chair, Vice Chair, and Secretary/Treasurer) and the members of the SIGMOD Awards Committee cannot be nominated while serving. The Awards Committee may also identify candidates itself and is not required to choose among submitted nominations. Each award’s page has its full criteria and past recipients.
 
 The [Jim Gray Doctoral Dissertation Award](/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/) and the conference-level awards (Best Paper, Best Demonstration, and Best Artifact) have their own processes; see their pages.
