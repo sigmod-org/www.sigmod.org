@@ -7,5 +7,5 @@ edited: true
 wp_id: 2242
 wp_type: "page"
 updated: "2026-11-08"
-redirect_to: "https://sigmod-org.github.io/archive/videoseries/"
+redirect_to: "https://archive.sigmod.org/videoseries/"
 ---

@@ -9137,19 +9137,19 @@
   "https://sigir.org/": [
    "/acm-open-sigmod/"
   ],
-  "https://sigmod-org.github.io/archive/": [
+  "https://archive.sigmod.org/": [
    "/404.html"
   ],
-  "https://sigmod-org.github.io/archive/publications/anthology/": [
+  "https://archive.sigmod.org/publications/anthology/": [
    "/archive/",
    "/publications/",
    "/sigmod-history/"
   ],
-  "https://sigmod-org.github.io/archive/publications/discs/": [
+  "https://archive.sigmod.org/publications/discs/": [
    "/archive/",
    "/publications/"
   ],
-  "https://sigmod-org.github.io/archive/publications/interview/": [
+  "https://archive.sigmod.org/publications/interview/": [
    "/archive/",
    "/publications/",
    "/sigmod-history/"

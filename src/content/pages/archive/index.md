@@ -12,7 +12,7 @@ edited: true
 Historically, SIGMOD published *DiSC*, a yearly collection of database-related papers,  
 the *Anthology*, and a look back to past publications (and publications not in DiSC).
 
--   [SIGMOD Digital Symposium Collection (DiSC)](https://sigmod-org.github.io/archive/publications/discs/) (ended in 2011)
--   [Anthology](https://sigmod-org.github.io/archive/publications/anthology/) (ended in 2007)
--   [Distinguished Profiles](https://sigmod-org.github.io/archive/publications/interview/) (ended 2010)
--   [SIGMOD/PODS Video Series](https://sigmod-org.github.io/archive/videoseries/) (2018)
+-   [SIGMOD Digital Symposium Collection (DiSC)](https://archive.sigmod.org/publications/discs/) (ended in 2011)
+-   [Anthology](https://archive.sigmod.org/publications/anthology/) (ended in 2007)
+-   [Distinguished Profiles](https://archive.sigmod.org/publications/interview/) (ended 2010)
+-   [SIGMOD/PODS Video Series](https://archive.sigmod.org/videoseries/) (2018)

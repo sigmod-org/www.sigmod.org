@@ -40,9 +40,9 @@ Benefits on our page that ACM's list does not have:
   - A social networking presence to disseminate community news (ACM lists it
     under community benefits only).
 - **Video series:** add its address,
-  https://sigmod-org.github.io/archive/videoseries/.
+  https://archive.sigmod.org/videoseries/.
 - **Distinguished profiles:** the video interviews are now at
-  https://sigmod-org.github.io/archive/publications/interview/.
+  https://archive.sigmod.org/publications/interview/.
 
 ## To check before sending
 

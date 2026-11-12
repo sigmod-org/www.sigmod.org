@@ -25,7 +25,7 @@ Online members receive:
 -   A bundle of SIGMOD-related publications made available through the ACM Digital Library
 -   Access to content from SIG sponsored and co-sponsored events in the ACM Digital Library
 -   [A blog on “hot topics” in databases](https://blog.sigmod.org/)
--   The [SIGMOD video series](https://sigmod-org.github.io/archive/videoseries/), which includes lectures by senior members of our community on topics related to data management research
+-   The [SIGMOD video series](https://archive.sigmod.org/videoseries/), which includes lectures by senior members of our community on topics related to data management research
 -   A social networking presence to disseminate community news
 
 Print members receive:
@@ -46,7 +46,7 @@ SIGMOD also provides these benefits to the whole community:
     -   Information about SIGMOD
     -   A blog on “hot topics” in databases
     -   Database resources (e.g., public domain software, list of graduating PhD students)
-    -   Historical materials collected by or commissioned by SIGMOD, including [video interviews with distinguished members of the community](https://sigmod-org.github.io/archive/publications/interview/)
+    -   Historical materials collected by or commissioned by SIGMOD, including [video interviews with distinguished members of the community](https://archive.sigmod.org/publications/interview/)
 -   A financial hardship waiver of the article processing charge (APC) for PACMMOD authors who cannot afford it, based on SIGMOD membership along with other [ACM-level criteria](https://www.acm.org/publications/policies/policy-on-discretionary-open-access-apc-waivers)
 -   A social networking presence to disseminate community news
 -   The [DBCares committee](/sigmod-policies/dbcares-policy/), which aims to create an inclusive and diverse database community with zero tolerance for abuse, discrimination, or harassment

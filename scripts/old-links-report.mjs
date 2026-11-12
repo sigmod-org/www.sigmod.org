@@ -377,8 +377,8 @@ out.push(`
 ${fixedSection()}
 ## Remaining work: decisions needed
 
-1. **Distinguished Profiles media** (195 links, about 8.4 GB): the Profiles pages moved to the [SIGMOD Archive](https://sigmod-org.github.io/archive/publications/interview/), and their video and audio links went with them. Decide where to host the files (the .flv videos need converting to MP4), or drop the links.
-2. **Anthology, DiSC and DBLP DVD pages**: done. Copies are in the [SIGMOD Archive](https://sigmod-org.github.io/archive/) at the same paths, and the 404 page forwards their old addresses there. (The past conference sites are at [mirror.sigmod.org](https://mirror.sigmod.org/).)
+1. **Distinguished Profiles media** (195 links, about 8.4 GB): the Profiles pages moved to the [SIGMOD Archive](https://archive.sigmod.org/publications/interview/), and their video and audio links went with them. Decide where to host the files (the .flv videos need converting to MP4), or drop the links.
+2. **Anthology, DiSC and DBLP DVD pages**: done. Copies are in the [SIGMOD Archive](https://archive.sigmod.org/) at the same paths, and the 404 page forwards their old addresses there. (The past conference sites are at [mirror.sigmod.org](https://mirror.sigmod.org/).)
 3. **Retired pages**: the old awards overview page (113 dead links) was removed (see migration/removed.json), and the logo renderings page (44 dead links) now redirects to the logo usage guidelines on /sigmod-history/sigmod-logo-history/.
 4. **Small leftovers** (${count("dblp") + count("mangled") + count("uploads") + count("record") + count("other")} links): DBLP DVD mirror pages with no dblp.org copy, PODS tutorial files that are gone from their hosts and from web.archive.org, uploads that are not in the repo, one SIGMOD Record text file, and the lost SIGMOD/PODS workshops page. Each is listed below; most can simply be dropped.
 
@@ -404,7 +404,7 @@ ${copied} files were copied from sigmod.org into \`src/static/\` at their old pa
 |---|--:|---|
 ${Object.entries(by).map(([g, rs]) => `| ${title[g] || g} | ${rs.length} | ${DONE[g] || ""} |`).join("\n")}
 
-**Check by hand:** dblp.org answers scripts with a bot check, so the ${(by.dblp || []).length} DBLP links could not be verified automatically. Open a few from the [Anthology page](https://sigmod-org.github.io/archive/publications/anthology/) in the SIGMOD Archive.
+**Check by hand:** dblp.org answers scripts with a bot check, so the ${(by.dblp || []).length} DBLP links could not be verified automatically. Open a few from the [Anthology page](https://archive.sigmod.org/publications/anthology/) in the SIGMOD Archive.
 `;
 }
 function walkIf(d) { return fs.existsSync(d) ? walk(d) : []; }

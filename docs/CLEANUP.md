@@ -5,7 +5,7 @@ outdated. Update the **Status** column as decisions are made.
 
 **Where things stand (November 2026):** the exact duplicates (§1) are handled; the
 Anthology, DiSC and Distinguished Profiles pages moved to the
-[SIGMOD Archive](https://sigmod-org.github.io/archive/) (§2, §5); the yearly calls for nominations were replaced
+[SIGMOD Archive](https://archive.sigmod.org/) (§2, §5); the yearly calls for nominations were replaced
 by the Ongoing Call-for-Awards page (§2); the Membership page was reviewed (§5).
 Still open, in suggested order: the three Publications pages and the
 dissertation pages (§2), the empty parent pages (§3), and the award data files
@@ -73,7 +73,7 @@ into the kept page by hand, then redirect the other one.
 
 | Pages | What's going on | Proposal | Status |
 |---|---|---|---|
-| `/publications/anthology/` · `/publications/anthologyhome/` | 89% the same text. `anthologyhome` was edited later (2019). | The Anthology moved to the SIGMOD Archive with the `anthologyhome` tables (the better version); both URLs redirect to https://sigmod-org.github.io/archive/publications/anthology/. | done |
+| `/publications/anthology/` · `/publications/anthologyhome/` | 89% the same text. `anthologyhome` was edited later (2019). | The Anthology moved to the SIGMOD Archive with the `anthologyhome` tables (the better version); both URLs redirect to https://archive.sigmod.org/publications/anthology/. | done |
 | `/publications/` · `/publications/publications/` · `/publication-list/` | Three "Publications" pages. `/publications/` has dead links (`portal.acm.org`, pubzone.org, the Michigan digital review). `/publication-list/` is the current short list. `/publications/publications/` is what the menu links to. | Keep `/publications/publications/` as the hub and merge the `/publication-list/` items into it. Redirect the other two. | proposed |
 | `/publications/` · `/archive/` | Both list the old archives (DiSC, Anthology, Profiles). | `/archive/` (History › Archive) now links to the SIGMOD Archive. Keep it; drop the archive list from `/publications/` when the Publications pages are merged. | proposed |
 | `/sigmod-awards/` · `/sigmod-awards/sigmod-awards-acm-sigmod-official-website/` | The second page is a 20 KB old all-awards overview, copied from the pre-2015 site. Its relative links are broken. | Removed entirely (no redirect). Listed in `migration/removed.json` so the importer does not bring it back. | done |
@@ -125,10 +125,10 @@ Proposal (**decide**):
 
 | Pages | Notes | Proposal | Status |
 |---|---|---|---|
-| `/publications/interview/*` (66 pages) + `/publications/interview/` | Each page has one link to a Flash video (`.flv`); the video and audio files (8.4 GB) are not online. | Moved to the [SIGMOD Archive](https://sigmod-org.github.io/archive/publications/interview/) at the same paths; old URLs redirect or are forwarded. Still to decide: host the media as MP4 (ACM DL, YouTube, bucket) or drop the links. A single gallery page is optional. | done (media: decide) |
+| `/publications/interview/*` (66 pages) + `/publications/interview/` | Each page has one link to a Flash video (`.flv`); the video and audio files (8.4 GB) are not online. | Moved to the [SIGMOD Archive](https://archive.sigmod.org/publications/interview/) at the same paths; old URLs redirect or are forwarded. Still to decide: host the media as MP4 (ACM DL, YouTube, bucket) or drop the links. A single gallery page is optional. | done (media: decide) |
 | `/conferences/sigmod-1974/` … `/sigmod-2001/` (26) | Per-year proceedings pages. | Keep for now, linked from `/conferences/`. Later, fold them into the Conferences page as anchors (MIGRATION.md, next steps). | keep |
 | `/software/`, `/software/commerical/`, `/software/nonprofit/`, `/software/index-of-publically-available-database-software/` | Software lists from 2015, no longer maintained. | Removed entirely (listed in `migration/removed.json`). `/freepublic-domain-software/` and the freedb letter PDF were removed too. | done |
-| `/publications/sigmod-digital-symposium-collection/` | DiSC, ended 2011. | Moved to the [SIGMOD Archive](https://sigmod-org.github.io/archive/publications/discs/); this URL redirects there. | done |
+| `/publications/sigmod-digital-symposium-collection/` | DiSC, ended 2011. | Moved to the [SIGMOD Archive](https://archive.sigmod.org/publications/discs/); this URL redirects there. | done |
 | `/sigmod-history/sigmod-online/` | History of the website. | Keep under History. | keep |
 | `/pods-home/pods-30th-anniversary-statistics/` | Last edited 2015. | Merge into `/pods-home/pods-30th-anniversary/`, then redirect. Ask the PODS EC. | decide |
 | `/membership/` | Last edited 2018. | Reviewed November 2026: 2025 membership numbers, ACM's SIGMOD statistics link, current proceedings and PACMMOD links, student travel grants, all awards; outdated items removed. Re-check the numbers yearly. | done |

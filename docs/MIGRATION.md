@@ -23,7 +23,7 @@ npm run build        # static site in _site/
 | Site | Repository | What it holds | How it is published |
 |---|---|---|---|
 | https://www.sigmod.org/ (`sigmod.org` redirects here) | [sigmod-org/www.sigmod.org](https://github.com/sigmod-org/www.sigmod.org) | The SIGMOD and PODS site (this repository) | GitHub Actions workflow, custom domain, HTTPS |
-| https://sigmod-org.github.io/archive/ | [sigmod-org/archive](https://github.com/sigmod-org/archive) | The SIGMOD Archive: DiSC (1999–2011), the SIGMOD Anthology, the DBLP DVD pages, Distinguished Profiles in Databases | GitHub Actions workflow, served under `/archive/` until it has its own domain |
+| https://archive.sigmod.org/ | [sigmod-org/archive](https://github.com/sigmod-org/archive) | The SIGMOD Archive: DiSC (1999–2011), the SIGMOD Anthology, the DBLP DVD pages, Distinguished Profiles in Databases | GitHub Actions workflow, served under `/archive/` until it has its own domain |
 | https://mirror.sigmod.org/ | [sigmod-org/mirror.sigmod.org](https://github.com/sigmod-org/mirror.sigmod.org) | Copies of past SIGMOD/PODS conference websites | GitHub Pages from the `main` branch, custom domain |
 | https://blog.sigmod.org/ | separate | The SIGMOD Blog | separate |
 | — | [sigmod-org/sigmod-logo](https://github.com/sigmod-org/sigmod-logo) | Logo candidates | — |
