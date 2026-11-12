@@ -14,7 +14,7 @@ The ACM SIGMOD publication mechanism has had a major update recently. In contras
 
 In addition, the SIGMOD community will find the following links useful.
 
--   [ACM TODS](http://tods.acm.org/)
+-   [ACM TODS](https://dl.acm.org/journal/tods)
 -   [SIGMOD Record](https://sigmodrecord.org/ "SIGMOD Record")
 -   [SIGMOD Blog](https://blog.sigmod.org/)
 

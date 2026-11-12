@@ -12,7 +12,7 @@ edited: true
 -   [Proceedings of the ACM on Management of Data](https://dl.acm.org/journal/pacmmod)
 -   [SIGMOD Record](https://sigmodrecord.org/ "SIGMOD Record")
 -   [SIGMOD Blog](https://blog.sigmod.org/ "SIGMOD Blog")
--   [ACM TODS](http://tods.acm.org/)
--   [ACM Digital Library](http://portal.acm.org/dl.cfm)
+-   [ACM TODS](https://dl.acm.org/journal/tods)
+-   [ACM Digital Library](https://dl.acm.org/)
 
 Some previous resources that have ended its support or are no longer updated can be found in [the archive page](/archive/).
