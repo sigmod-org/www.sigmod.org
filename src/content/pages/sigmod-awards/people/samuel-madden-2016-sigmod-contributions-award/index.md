@@ -14,7 +14,7 @@ updated: "2026-11-12"
 <figure><img src="/wp-content/uploads/2016/05/samnew-e1464059038580-150x150.jpg" alt="Samuel Madden"><figcaption>Samuel Madden</figcaption></figure>
 </div>
 
-> **Professor Samuel Madden** is awarded the 2016 SIGMOD Contributions award for his work on conceptualizing, instigating and shepherding the ACM SIGMOD Programming Contest through its first years..
+> **Professor Samuel Madden** is awarded the 2016 SIGMOD Contributions award for his work on conceptualizing, instigating and shepherding the ACM SIGMOD Programming Contest through its first years.
 
 **Details:** Samuel Madden is a Professor of Electrical Engineering and Computer Science in MIT’s Computer Science and Artificial Intelligence Laboratory. His research interests include databases, distributed computing, and networking. Research projects include the C-Store column-oriented database system, the CarTel mobile sensor network system, and the Relational Cloud “database-as-a-service”. Madden is a leader in the emerging field of “Big Data”, heading the Intel Science and Technology Center (ISTC) for Big Data, a multi-university collaboration on developing new tools for processing massive quantities of data. He also leads BigData@CSAIL, an industry-backed initiative to unite researchers at MIT and leaders from industry to investigate the issues related to systems and algorithms for data that is high rate, massive, or very complex.
 
