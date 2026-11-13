@@ -15,12 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Peter Buneman, Adriane Chapman, James Cheney</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2016-peter-buneman.jpg" alt="Peter Buneman" loading="lazy"><figcaption>Peter Buneman</figcaption></figure>
-<figure><img src="/assets/people/tot/2016-adriane-chapman.jpg" alt="Adriane Chapman" loading="lazy"><figcaption>Adriane Chapman</figcaption></figure>
-<figure><img src="/assets/people/tot/2016-james-cheney.jpg" alt="James Cheney" loading="lazy"><figcaption>James Cheney</figcaption></figure>
-</div>
-
 **Original Abstract:** Curated databases in bioinformatics and other disciplines are the result of a great deal of manual annotation, correction and transfer of data from other sources. Provenance information concerning the creation, attribution, or version history of such data is crucial for assessing its integrity and scientific value. General purpose database systems provide little support for tracking provenance, especially when data moves among databases. This paper investigates general-purpose techniques for recording provenance for data that is copied among databases. We describe an approach in which we track the user’s actions while browsing source databases and copying data into a curated database, in order to record the user’s actions in a convenient, queryable form. We present an implementation of this technique and use it to evaluate the feasibility of database support for provenance management. Our experiments show that although the overhead of a naive approach is fairly high, it can be decreased to an acceptable level using simple optimizations.
 
 ## About the authors

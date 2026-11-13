@@ -14,14 +14,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Ioannis Alagiannis, Renata Borovica-Gajic, Miguel Branco, Stratos Idreos, Anastasia Ailamaki</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2022-ioannis-alagiannis.jpg" alt="Ioannis Alagiannis" loading="lazy"><figcaption>Ioannis Alagiannis</figcaption></figure>
-<figure><img src="/assets/people/tot/2022-renata-borovica-gajic.jpg" alt="Renata Borovica-Gajic" loading="lazy"><figcaption>Renata Borovica-Gajic</figcaption></figure>
-<figure><img src="/assets/people/tot/2022-miguel-branco.jpg" alt="Miguel Branco" loading="lazy"><figcaption>Miguel Branco</figcaption></figure>
-<figure><img src="/assets/people/stratos-idreos.jpg" alt="Stratos Idreos" loading="lazy"><figcaption>Stratos Idreos</figcaption></figure>
-<figure><img src="/assets/people/tot/2022-anastasia-ailamaki.jpg" alt="Anastasia Ailamaki" loading="lazy"><figcaption>Anastasia Ailamaki</figcaption></figure>
-</div>
-
 > *NoDB introduces a radical departure from the standard paradigm of ingest-then-process data analytics: a new paradigm that does not require data loading while still maintaining the whole feature set of a modern database system. This is accomplished by making raw data files a first-class citizen, fully integrated with the query engine. NoDB introduces the concept of positional maps to efficiently execute queries on raw, never-before-seen data collections along with ingested and processed datasets. The result is a structure later known as “virtual data lake”: a cache which records frequently-used data and operations and accelerates execution through learning from previous queries. NoDB’s data virtualization and just-in-time query processing algorithms are implemented at the heart of several data lake platforms.*
 
 ## About the authors

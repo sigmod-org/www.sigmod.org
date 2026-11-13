@@ -14,12 +14,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Lei Chen, M. Tamer Özsu, Vincent Oria</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2015-lei-chen.jpg" alt="Lei Chen" loading="lazy"><figcaption>Lei Chen</figcaption></figure>
-<figure><img src="/assets/people/tot/2015-m-tamer-zsu.jpg" alt="M. Tamer Özsu" loading="lazy"><figcaption>M. Tamer Özsu</figcaption></figure>
-<figure><img src="/assets/people/tot/2015-vincent-oria.jpg" alt="Vincent Oria" loading="lazy"><figcaption>Vincent Oria</figcaption></figure>
-</div>
-
 **Original Abstract:** An important consideration in similarity-based retrieval of moving object trajectories is the definition of a distance function. The existing distance functions are usually sensitive to noise, shifts and scaling of data that commonly occur due to sensor failures, errors in detection techniques, disturbance signals, and different sampling rates. Cleaning data to eliminate these is not always possible. In this paper, we introduce a novel distance function, Edit Distance on Real sequence (EDR) which is robust against these data imperfections. Analysis and comparison of EDR with other popular distance functions, such as Euclidean distance, Dynamic Time Warping (DTW), Edit distance with Real Penalty (ERP), and Longest Common Subsequences (LCSS), indicate that EDR is more robust than Euclidean distance, DTW and ERP, and it is on average 50% more accurate than LCSS. We also develop three pruning techniques to improve the retrieval efficiency of EDR and show that these techniques can be combined effectively in a search, increasing the pruning power significantly. The experimental results confirm the superior efficiency of the combined methods.
 
 ## About the authors

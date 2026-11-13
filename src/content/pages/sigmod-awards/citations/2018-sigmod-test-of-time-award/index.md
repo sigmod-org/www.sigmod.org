@@ -15,12 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Michael Cahill, Uwe Röhm, Alan Fekete</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2018-michael-cahill.jpg" alt="Michael Cahill" loading="lazy"><figcaption>Michael Cahill</figcaption></figure>
-<figure><img src="/assets/people/tot/2018-uwe-r-hm.jpg" alt="Uwe Röhm" loading="lazy"><figcaption>Uwe Röhm</figcaption></figure>
-<figure><img src="/assets/people/tot/2018-alan-fekete.jpg" alt="Alan Fekete" loading="lazy"><figcaption>Alan Fekete</figcaption></figure>
-</div>
-
 **Abstract:** Many popular database management systems implement a multiversion concurrency control algorithm called snapshot isolation rather than providing full serializability based on locking. There are well-known anomalies permitted by snapshot isolation that can lead to violations of data consistency by interleaving transactions that would maintain consistency if run serially. Until now, the only way to prevent these anomalies was to modify the applications by introducing explicit locking or artificial update conflicts, following careful analysis of conflicts between all pairs of transactions.This article describes a modification to the concurrency control algorithm of a database management system that automatically detects and prevents snapshot isolation anomalies at runtime for arbitrary applications, thus providing serializable isolation. The new algorithm preserves the properties that make snapshot isolation attractive, including that readers do not block writers and vice versa. An implementation of the algorithm in a relational DBMS is described, along with a benchmark and performance study, showing that the throughput approaches that of snapshot isolation in most cases.
 
 ## About the authors

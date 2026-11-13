@@ -15,10 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Frank McSherry</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2019-frank-mcsherry.jpg" alt="Frank McSherry" loading="lazy"><figcaption>Frank McSherry</figcaption></figure>
-</div>
-
 **Abstract:** We report on the design and implementation of the Privacy Integrated Queries (PINQ) platform for privacy-preserving data analysis. PINQ provides analysts with a programming interface to unscrubbed data through a SQL-like language. At the same time, the design of PINQ’s analysis language and its careful implementation provide formal guarantees of differential privacy for any and all uses of the platform. PINQ’s unconditional structural guarantees require no trust placed in the expertise or diligence of the analysts, substantially broadening the scope for design and deployment of privacy-preserving data analysis, especially by non-experts.
 
 ## About the authors

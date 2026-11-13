@@ -15,13 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Hakan Hacigumus, Bala Iyer, Chen Li, Sharad Mehrotra</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2012-hakan-hacigumus.jpg" alt="Hakan Hacigumus" loading="lazy"><figcaption>Hakan Hacigumus</figcaption></figure>
-<figure><img src="/assets/people/tot/2012-balakrishna-bala-iyer.jpg" alt="Balakrishna (Bala) Iyer" loading="lazy"><figcaption>Balakrishna (Bala) Iyer</figcaption></figure>
-<figure><img src="/assets/people/tot/2012-chen-li.jpg" alt="Chen Li" loading="lazy"><figcaption>Chen Li</figcaption></figure>
-<figure><img src="/assets/people/tot/2012-sharad-mehrotra.jpg" alt="Sharad Mehrotra" loading="lazy"><figcaption>Sharad Mehrotra</figcaption></figure>
-</div>
-
 > *This paper from the SIGMOD 2002 Conference remarkably anticipated the world of “Database as Service” which did come about and continues to grow in importance. To get a sense of how visionary the work was, consider that this paper was published in June 2002 (and thus accepted in Jan 2002), even a couple of months before Amazon EC2 and S3 services were launched (of course, Amazon RDS and SQL Azure came much later). The core of the paper focuses on the challenges of how to leverage cloud services while keeping some of the information (at the discretion of the enterprise/user) hidden from the service provider. Beyond the specific algorithmic details, the key contribution is the framework: (i) introduction of a mapping function, and (ii) query splitting logic to ensure how the work can be distributed across cloud and client when some information is encrypted. Is this framework used by enterprises today? As best as we can tell, the answer is perhaps no. But, is the framework interesting and has real possibilities of adoption and further impact and more follow-on by research community? Absolutely. In summary, this paper is one of the early papers to foresee the world of Database as Service (before any one of us were working on that problem). The specific technical focus was dealt with reasonable depth. The impact of the technical focus has not yet been seen by the industry but this paper has the possibility of inspiring much more follow-on work/thinking (beyond 140+ citations it already has in ACM Digital Library).*
 
 ## About the authors

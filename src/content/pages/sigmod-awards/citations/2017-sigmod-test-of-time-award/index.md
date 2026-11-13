@@ -15,13 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Magdalena Balazinska, Hari Balakrishnan, Samuel Madden, Michael Stonebraker</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2017-magdalena-balazinska.jpg" alt="Magdalena Balazinska" loading="lazy"><figcaption>Magdalena Balazinska</figcaption></figure>
-<figure><img src="/assets/people/tot/2017-hari-balakrishnan.jpg" alt="Hari Balakrishnan" loading="lazy"><figcaption>Hari Balakrishnan</figcaption></figure>
-<figure><img src="/assets/people/tot/2017-samuel-madden.jpg" alt="Samuel Madden" loading="lazy"><figcaption>Samuel Madden</figcaption></figure>
-<figure><img src="/assets/people/tot/2017-michael-stonebraker.jpg" alt="Michael Stonebraker" loading="lazy"><figcaption>Michael Stonebraker</figcaption></figure>
-</div>
-
 **Original Abstract:** We present a replication-based approach to fault-tolerant distributed stream processing in the face of node failures, network failures, and network partitions. Our approach aims to reduce the degree of inconsistency in the system while guaranteeing that available inputs capable of being processed are processed within a specified time threshold. This threshold allows a user to trade availability for consistency: a larger time threshold decreases availability but limits inconsistency, while a smaller threshold increases availability but produces more inconsistent results based on partial data. In addition, when failures heal, our scheme corrects previously produced results, ensuring eventual consistency.Our scheme uses a data-serializing operator to ensure that all replicas process data in the same order, and thus remain consistent in the absence of failures. To regain consistency after a failure heals, we experimentally compare approaches based on checkpoint/redo and undo/redo techniques and illustrate the performance trade-offs between these schemes.
 
 ## About the authors

@@ -15,13 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Rakesh Agrawal, Jerry Kiernan, Ramakrishnan Srikant, and Yirong Xu</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2014-rakesh-agrawal.jpg" alt="Rakesh Agrawal" loading="lazy"><figcaption>Rakesh Agrawal</figcaption></figure>
-<figure><img src="/assets/people/tot/2014-jerry-kiernan.jpg" alt="Jerry Kiernan" loading="lazy"><figcaption>Jerry Kiernan</figcaption></figure>
-<figure><img src="/assets/people/tot/2014-ramakrishnan-srikant.jpg" alt="Ramakrishnan Srikant" loading="lazy"><figcaption>Ramakrishnan Srikant</figcaption></figure>
-<figure><img src="/assets/people/tot/2014-yirong-xu.jpg" alt="Yirong Xu" loading="lazy"><figcaption>Yirong Xu</figcaption></figure>
-</div>
-
 **Original Abstract:** Encryption is a well established technology for protecting sensitive data. However, once encrypted, data can no longer be easily queried aside from exact matches. We present an order-preserving encryption scheme for numeric data that allows any comparison operation to be directly applied on encrypted data. Query results produced are sound (no false hits) and complete (no false drops). Our scheme handles updates gracefully and new values can be added without requiring changes in the encryption of other values. It allows standard database indexes to be built over encrypted tables and can easily be integrated with existing database systems. The proposed scheme has been designed to be deployed in application environments in which the intruder can get access to the encrypted database, but does not have prior domain information such as the distribution of values and cannot encrypt or decrypt arbitrary values of his choice. The encryption is robust against estimation of the true value in such environments.
 
 ## About the authors

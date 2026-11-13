@@ -15,13 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Samuel Madden, Michael J. Franklin, Joseph M. Hellerstein, Wei Hong</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2013-samuel-madden.jpg" alt="Samuel Madden" loading="lazy"><figcaption>Samuel Madden</figcaption></figure>
-<figure><img src="/assets/people/tot/2013-michael-j-franklin.jpg" alt="Michael J. Franklin" loading="lazy"><figcaption>Michael J. Franklin</figcaption></figure>
-<figure><img src="/assets/people/tot/2013-joseph-m-hellerstein.jpg" alt="Joseph M. Hellerstein" loading="lazy"><figcaption>Joseph M. Hellerstein</figcaption></figure>
-<figure><img src="/assets/people/tot/2013-wei-hong.jpg" alt="Wei Hong" loading="lazy"><figcaption>Wei Hong</figcaption></figure>
-</div>
-
 > *This paper from the SIGMOD 2003 Conference presents a novel technique for acquisitional query processing (ACQP) in wireless sensor networks (WSNs), and its design and implementation in the TinyDB system. TinyDB runs on top of TinyOS, which has been developed by the University of California, Berkeley and now is one of the most popular embedded operating systems for WSNs. ACQP was a pioneering framework, which first addressed the issue of “When should samples for a particular query be taken?” and it has other significant features for data collection in WSNs such as low power consumption and low computational overhead, as evidenced by the huge number of citations and downloads. This paper has been highly influential in subsequent research on data collection and query processing frameworks in WSNs. Moreover, through its wide availability as TinyOS components (which are easily installed onto motes), it has been embedded in various commercial products and real sensor systems. In summary, this paper has had strong impact on both academic research and industry.*
 
 **Original abstract:** We discuss the design of an acquisitional query processor for data collection in sensor networks. Acquisitional issues are those that pertain to where, when, and how often data is physically acquired (sampled) and delivered to query processing operators. By focusing on the locations and costs of acquiring data, we are able to significantly reduce power consumption over traditional passive systems that assume the a priori existence of data. We discuss simple extensions to SQL for controlling data acquisition, and show how acquisitional issues influence query optimization, dissemination, and execution. We evaluate these issues in the context of TinyDB, a distributed query processor for smart sensor devices, and show how acquisitional techniques can provide significant reductions in power consumption on our sensor devices.

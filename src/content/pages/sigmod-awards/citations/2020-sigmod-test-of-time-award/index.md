@@ -15,16 +15,6 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Grzegorz Malewicz, Matthew H. Austern, Aart J.C. Bik, James C. Dehnert, Ilan Horn, Naty Leiser, and Grzegorz Czajkowski</p>
 
-<div class="award-team authors">
-<figure><img src="/assets/people/tot/2020-greg-malewicz.jpg" alt="Greg Malewicz" loading="lazy"><figcaption>Greg Malewicz</figcaption></figure>
-<figure><img src="/assets/people/tot/2020-matthew-austern.jpg" alt="Matthew Austern" loading="lazy"><figcaption>Matthew Austern</figcaption></figure>
-<figure><img src="/assets/people/tot/2020-aart-j-c-bik.jpg" alt="Aart J.C. Bik" loading="lazy"><figcaption>Aart J.C. Bik</figcaption></figure>
-<figure><img src="/assets/people/tot/2020-jim-dehnert.jpg" alt="Jim Dehnert" loading="lazy"><figcaption>Jim Dehnert</figcaption></figure>
-<figure><img src="/assets/people/tot/2020-ilan-horn.jpg" alt="Ilan Horn" loading="lazy"><figcaption>Ilan Horn</figcaption></figure>
-<figure><img src="/assets/people/tot/2020-naty-leiser.jpg" alt="Naty Leiser" loading="lazy"><figcaption>Naty Leiser</figcaption></figure>
-<figure><img src="/assets/people/tot/2020-grzegorz-czajkowski.jpg" alt="Grzegorz Czajkowski" loading="lazy"><figcaption>Grzegorz Czajkowski</figcaption></figure>
-</div>
-
 > *Pregel is one of the first systems for large-scale graph analytics. It introduced vertex-centric bulk-synchronous processing as programming and computation models for graph analytics. It has generated significant follow-on research that both optimized its computation model and developed alternatives. The paper now has more than 3700 citations on Google Scholar and has become standard reading in graph analytics.*
 
 ## About the authors
