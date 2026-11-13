@@ -1,4 +1,6 @@
-{#- The ACM SIGMOD logo (1998). New logo candidates are in the separate sigmod-org/sigmod-logo repository. Styles: /assets/footer.css -#}
+{#- The ACM SIGMOD logo (1998). New logo candidates are in the separate sigmod-org/sigmod-logo repository. Styles: /assets/footer.css
+    On screens too narrow for the full logo next to the header buttons (under 375px), the small square SIG/MOD
+    mark is shown instead (/favicon.svg, built by favicon/make-favicon.py from the logo's discs). -#}
 {% macro brand() -%}
-<img class="brand-logo" src="/assets/logo/sigmod-current.png" alt="ACM SIGMOD" width="200" height="64">
+<picture class="brand"><source media="(max-width: 374px)" srcset="/favicon.svg" width="36" height="36"><img class="brand-logo" src="/assets/logo/sigmod-current.png" alt="ACM SIGMOD" width="200" height="64"></picture>
 {%- endmacro %}

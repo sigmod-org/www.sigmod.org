@@ -31,6 +31,7 @@
 @media (max-width: 520px) { .xfoot-in { grid-template-columns: 1fr; padding: 0 16px; } .xfoot-bottom { padding-left: 16px; padding-right: 16px; } }
 
 /* ACM SIGMOD logo (shared/brand.njk) */
+.brand { display: block; flex: none; }  /* never squeezed: the small mark takes over on narrow screens */
 .brand-logo { display: block; height: 44px; width: auto; }
 @media (max-width: 520px) {
   .btn-join { padding: 8px 12px; font-size: 13px; }
