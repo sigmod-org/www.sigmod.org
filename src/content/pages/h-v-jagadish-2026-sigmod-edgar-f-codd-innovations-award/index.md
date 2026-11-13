@@ -6,15 +6,13 @@ section: "sigmod"
 area: "awards"
 wp_id: 5343
 wp_type: "page"
-updated: "2026-04-01"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2026/04/Jagadish-1.jpeg)
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2026/04/Jagadish-150x150.jpeg" alt="H.V. Jagadish"><figcaption>H.V. Jagadish</figcaption></figure>
+</div>
 
-H.V. Jagadish
-
-2026 SIGMOD Edgar F. Codd Innovations Award
-
-The SIGMOD 2026 Edgar F Codd Innovations Award goes to H.V. Jagadish for establishing usability as a first-class design principle in data management, and for pioneering the research agenda that redefined how humans interact with data systems.
+> The SIGMOD 2026 Edgar F Codd Innovations Award goes to H.V. Jagadish for establishing usability as a first-class design principle in data management, and for pioneering the research agenda that redefined how humans interact with data systems.
 
 H.V. Jagadish’s webpage at the University of Michigan is available at [https://web.eecs.umich.edu/~jag](https://web.eecs.umich.edu/~jag).

@@ -10,17 +10,11 @@ wp_parent: 296
 updated: "2026-04-01"
 ---
 
-**Background**:
+**Background:** The SIGMOD Contributions Award is for outstanding service to the database field through new community initiatives, professional service, standards activities, and research funding. The award is given annually (if there is at least one qualified candidate) and consists of a plaque plus an honorarium of $5,000. The [SIGMOD Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) determines the recipient of the award.
 
-The SIGMOD Contributions Award is for outstanding service to the database field through new community initiatives, professional service, standards activities, and research funding. The award is given annually (if there is at least one qualified candidate) and consists of a plaque plus an honorarium of $5,000. The [SIGMOD Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) determines the recipient of the award.
+**Eligibility:** Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for *contributions* not already honored by a major ACM Award (e.g., the Turing Award, SIGMOD Edgar F. Codd Innovations Award, or SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct contribution.
 
-**Eligibility**:
-
-Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for *contributions* not already honored by a major ACM Award (e.g., the Turing Award, SIGMOD Edgar F. Codd Innovations Award, or SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct contribution.
-
-**Nomination**:
-
-Anyone in the field can nominate one or more persons (self-nominations are excluded). Nominations should include a CV of the nominee, a proposed citation (up to 25 words), a succinct (100-250 words) description of the contribution, and a detailed statement to justify the nomination. Along with the nomination, up to three additional supporting letters should be submitted. Such letters should not be simple endorsements of the nomination, but convey additional factual information. The Awards Committee will evaluate all nominations and decide on zero or more winners. The Awards Committee itself is free to identify candidates for the award and is not required to pick among submitted nominations. The committee will automatically re-consider previously submitted nominations from the past two years. However, nominators are welcome to revise the supporting documents for such candidates if they so wish.
+**Nomination:** Anyone in the field can nominate one or more persons (self-nominations are excluded). Nominations should include a CV of the nominee, a proposed citation (up to 25 words), a succinct (100-250 words) description of the contribution, and a detailed statement to justify the nomination. Along with the nomination, up to three additional supporting letters should be submitted. Such letters should not be simple endorsements of the nomination, but convey additional factual information. The Awards Committee will evaluate all nominations and decide on zero or more winners. The Awards Committee itself is free to identify candidates for the award and is not required to pick among submitted nominations. The committee will automatically re-consider previously submitted nominations from the past two years. However, nominators are welcome to revise the supporting documents for such candidates if they so wish.
 
 **Previous winners of the Contributions Award** are listed below.
 

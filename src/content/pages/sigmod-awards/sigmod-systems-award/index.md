@@ -10,9 +10,7 @@ wp_parent: 296
 updated: "2026-04-06"
 ---
 
-**Background**:
-
-The SIGMOD Systems Award is awarded to an individual or set of individuals to recognize the development of a software or hardware system whose technical contributions have had significant impact on the theory or practice of large-scale data management systems. The award consists of a plaque and a cash prize of $5000. The SIGMOD Systems Award is intended to recognize data management projects that are innovative, and which have widespread deployment and impact. Not every winner has to be equal in both dimensions, but neither pure research projects (innovation without a practical artifact with widespread impact) nor a pure product (a useful artifact without deep innovation) are good candidates. The SIGMOD Systems Award is selected by the [SIGMOD Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/).
+**Background:** The SIGMOD Systems Award is awarded to an individual or set of individuals to recognize the development of a software or hardware system whose technical contributions have had significant impact on the theory or practice of large-scale data management systems. The award consists of a plaque and a cash prize of $5000. The SIGMOD Systems Award is intended to recognize data management projects that are innovative, and which have widespread deployment and impact. Not every winner has to be equal in both dimensions, but neither pure research projects (innovation without a practical artifact with widespread impact) nor a pure product (a useful artifact without deep innovation) are good candidates. The SIGMOD Systems Award is selected by the [SIGMOD Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/).
 
 Some concrete criteria are as follows:  
 · Is the project embodied in a piece of software that is widely available?  
@@ -20,13 +18,9 @@ Some concrete criteria are as follows:
 · Does the project embody innovative technical ideas?  
 · Has the project substantially changed the direction of the field?
 
-**Eligibility**:
+**Eligibility:** Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for contributions not already honored by a major ACM Award (e.g., the Turing Award, SIGMOD Edgar F. Codd Innovations Award, or SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct contribution.
 
-Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for contributions not already honored by a major ACM Award (e.g., the Turing Award, SIGMOD Edgar F. Codd Innovations Award, or SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct contribution.
-
-**Nomination**:
-
-Anyone in the field may nominate one or more individuals, except for self-nominations. Nominations should specify the system being recognized and include: a proposed citation (up to 25 words) and a concise description of the innovation/contribution (100–250 words), including a justification of its significance and the rationale for selecting the nominees to be explicitly recognized for the system. Along with the nomination, up to three additional supporting letters should be submitted. Such letters should not be simple endorsements of the nomination, but convey additional factual information. The Awards Committee will evaluate all nominations and decide on zero or more winners. The Awards Committee itself is free to identify candidates for the award and is not required to pick among submitted nominations. The committee will automatically re-consider previously submitted nominations from the past two years. However, nominators are welcome to revise the supporting documents for such candidates if they so wish.
+**Nomination:** Anyone in the field may nominate one or more individuals, except for self-nominations. Nominations should specify the system being recognized and include: a proposed citation (up to 25 words) and a concise description of the innovation/contribution (100–250 words), including a justification of its significance and the rationale for selecting the nominees to be explicitly recognized for the system. Along with the nomination, up to three additional supporting letters should be submitted. Such letters should not be simple endorsements of the nomination, but convey additional factual information. The Awards Committee will evaluate all nominations and decide on zero or more winners. The Awards Committee itself is free to identify candidates for the award and is not required to pick among submitted nominations. The committee will automatically re-consider previously submitted nominations from the past two years. However, nominators are welcome to revise the supporting documents for such candidates if they so wish.
 
 **Previous winners of the award** are listed below.
 

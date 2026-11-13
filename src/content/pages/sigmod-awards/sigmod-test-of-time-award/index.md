@@ -10,13 +10,9 @@ wp_parent: 296
 updated: "2026-05-07"
 ---
 
-**Background**:
+**Background:** The ACM SIGMOD Test of Time Award recognizes the best paper from the SIGMOD proceedings **10–12 years** prior, based on the criterion of identifying the paper that has had the most impact (research, products, methodology) over the intervening decade. The award consists of a plaque and an honorarium of $1000. In particular, in 2026, papers that were published in the SIGMOD Proceedings in 2014–2016 will be considered. In picking a winner, the [Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) evaluates the evidence that the scientific or engineering contributions of the paper have had a lasting impact on our research community, on the state-of-the-art in practice, or on society more broadly. The committee values impact in practice and impact in research through significant follow-up research or establishment of a new research area.
 
-The ACM SIGMOD Test of Time Award recognizes the best paper from the SIGMOD proceedings **10–12 years** prior, based on the criterion of identifying the paper that has had the most impact (research, products, methodology) over the intervening decade. The award consists of a plaque and an honorarium of $1000. In particular, in 2026, papers that were published in the SIGMOD Proceedings in 2014–2016 will be considered. In picking a winner, the [Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) evaluates the evidence that the scientific or engineering contributions of the paper have had a lasting impact on our research community, on the state-of-the-art in practice, or on society more broadly. The committee values impact in practice and impact in research through significant follow-up research or establishment of a new research area.
-
-**Nomination**:
-
-Anyone in the field can nominate one or more papers (self-nominations are excluded). Nominations should include a justification of no more than 750 words; plain text is preferred. Additional supporting letters are not accepted for this award. The [Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) itself is free to identify candidates for the award and is not required to pick among submitted nominations.
+**Nomination:** Anyone in the field can nominate one or more papers (self-nominations are excluded). Nominations should include a justification of no more than 750 words; plain text is preferred. Additional supporting letters are not accepted for this award. The [Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) itself is free to identify candidates for the award and is not required to pick among submitted nominations.
 
 **Previous recipients of the Award** are listed below.
 

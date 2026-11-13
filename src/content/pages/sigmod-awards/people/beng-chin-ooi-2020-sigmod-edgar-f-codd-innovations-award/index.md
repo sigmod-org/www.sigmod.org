@@ -7,12 +7,14 @@ area: "awards"
 wp_id: 3427
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-13"
+updated: "2026-11-12"
 ---
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2020/05/download.jpg" alt="" width="150" height="207"></td><td><h2>Beng Chin Ooi</h2><h3>2020 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2020/05/download.jpg" alt="Beng Chin Ooi"><figcaption>Beng Chin Ooi</figcaption></figure>
+</div>
 
-**Beng Chin Ooi** is the recipient of the 2020 ACM SIGMOD Edgar F. Codd Innovations Award for his innovative research and for devising and deploying innovative large-scale systems to manage and analyze data. The award recognizes both his groundbreaking research and his success in building end-to-end solutions, from data cleaning, through data curation with human-in-loop (crowdsourcing) and big data processing, all the way to complex (machine learning and deep learning based) data analytics.
+> **Beng Chin Ooi** is the recipient of the 2020 ACM SIGMOD Edgar F. Codd Innovations Award for his innovative research and for devising and deploying innovative large-scale systems to manage and analyze data. The award recognizes both his groundbreaking research and his success in building end-to-end solutions, from data cleaning, through data curation with human-in-loop (crowdsourcing) and big data processing, all the way to complex (machine learning and deep learning based) data analytics.
 
 **Details**: Beng Chin is a Distinguished Professor of Computer Science, and Director of [Smart Systems Institute](https://ssi.nus.edu.sg/) (SSI@NUS) at the National University of Singapore (NUS). He is an adjunct Chang Jiang Professor at Zhejiang University, and Director of [NUS AI Innovation and Commercialization Centre](http://www.nusszai.cn/) at Suzhou, China. He had served as Dean of School of Computing, NUS (2007-2013). He obtained his BSc (1st Class Honors) and PhD from [Monash University](http://www.csse.monash.edu.au/), Australia, in 1985 and 1989 respectively. Beng Chin is a fellow of the [ACM](http://fellows.acm.org/fellow_citation.cfm?id=4181533&srt=all) (2011), [IEEE](http://www.ieee.org/membership_services/membership/fellows/alphabetical/ofellows.html) (2009), and [Singapore National Academy of Science (SNAS)](https://snas.org.sg/fellowship-fellows/) (2016).
 

@@ -7,9 +7,11 @@ area: "awards"
 wp_id: 334
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-13"
+updated: "2026-11-12"
 ---
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2018/02/bernstein.jpg" alt="" width="125" height="150"></td><td><h2>Philip Bernstein</h2><h3>1994 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2018/02/bernstein.jpg" alt="Philip Bernstein"><figcaption>Philip Bernstein</figcaption></figure>
+</div>
 
 Philip Bernstein is a repository architect at Microsoft, where he leads a joint design effort with Texas Instruments to design an open repository for CASE. He was formerly an architect at Digital Equipment Corp., a professor at Harvard University and Wang Institute of Graduate Studies, and VP Software at Sequoia Systems. Dr. Bernstein has published over 70 articles on the theory and implementation of database systems, is coauthor of “Concurrency Control and Recovery in Database Systems” (Addison-Wesley, 1987).

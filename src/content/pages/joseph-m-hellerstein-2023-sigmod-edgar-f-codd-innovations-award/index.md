@@ -6,13 +6,11 @@ section: "sigmod"
 area: "awards"
 wp_id: 4573
 wp_type: "page"
-updated: "2023-05-23"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2023/05/Joesephmhellerstein-1.png)
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2023/05/Joesephmhellerstein-1-300x300.png" alt="Joseph M. Hellerstein"><figcaption>Joseph M. Hellerstein</figcaption></figure>
+</div>
 
-## Joseph M. Hellerstein
-
-### 2023 SIGMOD Edgar F. Codd Innovations Award
-
-The SIGMOD 2023 Edgar F Codd Innovations Award goes to Professor Joseph M. Hellerstein for innovative contributions in extensible query processing, interactive data analytics, and declarative approaches to networking and distributed computing.
+> The SIGMOD 2023 Edgar F Codd Innovations Award goes to Professor Joseph M. Hellerstein for innovative contributions in extensible query processing, interactive data analytics, and declarative approaches to networking and distributed computing.

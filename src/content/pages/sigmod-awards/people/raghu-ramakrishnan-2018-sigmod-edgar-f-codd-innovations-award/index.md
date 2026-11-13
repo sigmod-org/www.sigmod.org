@@ -7,12 +7,14 @@ area: "awards"
 wp_id: 2486
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-13"
+updated: "2026-11-12"
 ---
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2018/05/raghu.jpg" alt="" width="184" height="186"></td><td><h2>Raghu Ramakrishnan</h2><h3>2018 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2018/05/raghu.jpg" alt="Raghu Ramakrishnan"><figcaption>Raghu Ramakrishnan</figcaption></figure>
+</div>
 
-**Raghu Ramakrishnan** is the recipient of the 2018 ACM SIGMOD Edgar F. Codd Innovations Award for his pioneering work in deductive databases and their application to relational databases in practice.
+> **Raghu Ramakrishnan** is the recipient of the 2018 ACM SIGMOD Edgar F. Codd Innovations Award for his pioneering work in deductive databases and their application to relational databases in practice.
 
 **Details**: Raghu Ramakrishnan is CTO for Data, and a Technical Fellow at Microsoft. He has previously served as Chief Scientist at Yahoo! and Professor at the University of Wisconsin-Madison, in addition to being founder and CTO of QUIQ, an early online crowd-sourced question-answering company. He graduated from IIT Madras and received his PhD from the University of Texas at Austin.
 

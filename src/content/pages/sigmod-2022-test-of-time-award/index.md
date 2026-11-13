@@ -13,9 +13,7 @@ NoDB: efficient query execution on raw data files
 
 Ioannis Alagiannis, Renata Borovica-Gajic, Miguel Branco, Stratos Idreos, Anastasia Ailamaki
 
-**Citation:**
-
-NoDB introduces a radical departure from the standard paradigm of ingest-then-process data analytics: a new paradigm that does not require data loading while still maintaining the whole feature set of a modern database system. This is accomplished by making raw data files a first-class citizen, fully integrated with the query engine. NoDB introduces the concept of positional maps to efficiently execute queries on raw, never-before-seen data collections along with ingested and processed datasets. The result is a structure later known as “virtual data lake”: a cache which records frequently-used data and operations and accelerates execution through learning from previous queries. NoDB’s data virtualization and just-in-time query processing algorithms are implemented at the heart of several data lake platforms.
+**Citation:** NoDB introduces a radical departure from the standard paradigm of ingest-then-process data analytics: a new paradigm that does not require data loading while still maintaining the whole feature set of a modern database system. This is accomplished by making raw data files a first-class citizen, fully integrated with the query engine. NoDB introduces the concept of positional maps to efficiently execute queries on raw, never-before-seen data collections along with ingested and processed datasets. The result is a structure later known as “virtual data lake”: a cache which records frequently-used data and operations and accelerates execution through learning from previous queries. NoDB’s data virtualization and just-in-time query processing algorithms are implemented at the heart of several data lake platforms.
 
 ![](/wp-content/uploads/2022/05/image.png)
 

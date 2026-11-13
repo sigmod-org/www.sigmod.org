@@ -10,19 +10,13 @@ wp_parent: 296
 updated: "2026-04-01"
 ---
 
-**Background**:
-
-The SIGMOD Edgar F. Codd Innovations Award is for innovative and highly significant innovations of enduring value to the development, understanding, or use of data systems. The award is given annually (if there is at least one qualified candidate) and consists of a plaque plus an honorarium of $10,000.
+**Background:** The SIGMOD Edgar F. Codd Innovations Award is for innovative and highly significant innovations of enduring value to the development, understanding, or use of data systems. The award is given annually (if there is at least one qualified candidate) and consists of a plaque plus an honorarium of $10,000.
 
 Until 2003, this award was known as the “SIGMOD Innovations Award.” In 2004, SIGMOD, with the unanimous approval of ACM Council, decided to rename the award to honor Dr. E.F. (Ted) Codd (1923 – 2003) who invented the relational data model and was responsible for the significant development of the database field as a scientific discipline.
 
-**Eligibility**:
+**Eligibility:** Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for *innovations* not already honored by a major ACM Award (e.g., the Turing Award, a SIGMOD Edgar F. Codd Innovations Award, or a SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct innovation.
 
-Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for *innovations* not already honored by a major ACM Award (e.g., the Turing Award, a SIGMOD Edgar F. Codd Innovations Award, or a SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct innovation.
-
-**Nomination**:
-
-Anyone in the field can nominate one or more persons (self-nominations are excluded). Nominations should include a CV of the nominee, a proposed citation (up to 25 words), a succinct (100-250 words) description of the innovation, and a detailed statement to justify the nomination. Along with the nomination, up to three additional supporting letters should be submitted. Such letters should not be simple endorsements of the nomination, but convey additional factual information. The [Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) will evaluate all nominations and decide on zero or more winners. The Awards Committee itself is free to identify candidates for the award and is not required to pick among submitted nominations. The committee will automatically re-consider previously submitted nominations from the past two years. However, nominators are welcome to revise the supporting documents for such candidates if they so wish.
+**Nomination:** Anyone in the field can nominate one or more persons (self-nominations are excluded). Nominations should include a CV of the nominee, a proposed citation (up to 25 words), a succinct (100-250 words) description of the innovation, and a detailed statement to justify the nomination. Along with the nomination, up to three additional supporting letters should be submitted. Such letters should not be simple endorsements of the nomination, but convey additional factual information. The [Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) will evaluate all nominations and decide on zero or more winners. The Awards Committee itself is free to identify candidates for the award and is not required to pick among submitted nominations. The committee will automatically re-consider previously submitted nominations from the past two years. However, nominators are welcome to revise the supporting documents for such candidates if they so wish.
 
 **Previous winners of the Innovations Award** are listed below.
 

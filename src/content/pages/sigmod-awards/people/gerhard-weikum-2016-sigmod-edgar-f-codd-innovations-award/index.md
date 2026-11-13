@@ -7,12 +7,14 @@ area: "awards"
 wp_id: 1837
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-13"
+updated: "2026-11-12"
 ---
 
-<table align="center"><tbody><tr><td><img src="/assets/people/gerhard-weikum.jpg" alt="gerhardweikum" width="161" height="161"></td><td><h2>Gerhard Weikum</h2><h3>2016 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/assets/people/gerhard-weikum.jpg" alt="Gerhard Weikum"><figcaption>Gerhard Weikum</figcaption></figure>
+</div>
 
-**Professor Gerhard Weikum** is the recipient of the 2016 SIGMOD Edgar F. Codd Innovation Award for pioneering work on the automatic construction of large knowledge bases.
+> **Professor Gerhard Weikum** is the recipient of the 2016 SIGMOD Edgar F. Codd Innovation Award for pioneering work on the automatic construction of large knowledge bases.
 
 **Details**: Gerhard Weikum’s research spans three decades. He made major contributions on transactional and distributed systems, self-tuning database systems, data & text integration, and the automatic construction of knowledge bases.  He co-authored a comprehensive textbook on transactional systems, received the VLDB Test-of-Time Award for his work on automatic DB tuning, and is one of the creators of the Yago knowledge base. Weikum is an ACM Fellow and a member of several academies in Europe. He was president of the VLDB Endowment, and has served on various editorial boards including ACM TODS, ACM TWEB, VLDBJ and CACM,  
 and as PC chair of conferences like ACM SIGMOD, ICDE and CIDR.  He received the ACM SIGMOD Contributions Award, a Google Focused Research Award, and an ERC Synergy Grant.

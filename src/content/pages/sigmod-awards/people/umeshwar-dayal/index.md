@@ -7,12 +7,14 @@ area: "awards"
 wp_id: 344
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-13"
+updated: "2026-11-12"
 ---
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2015/07/image_preview24.jpg" alt="Umeshwar_Dayal"></td><td><h2>Umeshwar Dayal</h2><h3>2010 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview24.jpg" alt="Umeshwar Dayal"><figcaption>Umeshwar Dayal</figcaption></figure>
+</div>
 
-Dr. Umeshwar Dayal is the recipient of the 2010 SIGMOD Edgar F. Codd Innovation Award for a succession of pioneering, influential contributions in distributed heterogeneous databases, high-performance active databases, generalized transitive closure, transaction models for long-running activities, and business process discovery, among other topics.
+> Dr. Umeshwar Dayal is the recipient of the 2010 SIGMOD Edgar F. Codd Innovation Award for a succession of pioneering, influential contributions in distributed heterogeneous databases, high-performance active databases, generalized transitive closure, transaction models for long-running activities, and business process discovery, among other topics.
 
 **Details:** Umeshwar Dayal has a track record of 30 years of research accomplishments in data management and has made a succession of fundamental contributions to the field.  His research in the mid-1980’s on Multibase, the world’s first large-scale heterogeneous distributed database system, paved the way for research over the past two decades at universities and industrial research labs (HP Labs, IBM Research, and elsewhere) in data integration and federated databases.  PROBE, one of the first extensible database management systems,  made significant contributions to the field in several areas, including object and semantic data modeling, spatial, temporal and recursive query processing, and system architecture.  HiPAC was one of the leading active database systems of its time, and the only one to focus on the needs of real-time applications, resulting in an innovative transaction model. The event-condition-action (ECA) rule model introduced in HiPAC has now been widely adopted in reactive computing systems, complex-event-processing systems, and distributed middleware.
 
