@@ -107,6 +107,8 @@ aside .h-section + .links { margin-bottom: 32px; }
 .prose td, .prose th { padding: 9px 12px; border-bottom: 1px solid var(--line); vertical-align: top; text-align: left; }
 .prose th { background: var(--tint); color: var(--ink); font-weight: 600; }
 .prose blockquote { margin: 22px 0; padding: 4px 20px; border-left: 3px solid var(--accent); color: var(--muted); }
+.prose blockquote > :first-child { margin-top: 0; }
+.prose blockquote > :last-child { margin-bottom: 0; }
 .lead { font-size: 19px; color: var(--muted); }
 .side { align-self: start; position: sticky; top: 96px; }
 .side-title { display: block; font-weight: 600; color: var(--ink); text-decoration: none; padding-bottom: 10px; margin-bottom: 6px; border-bottom: 1px solid var(--line); }
