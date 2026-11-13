@@ -133,3 +133,32 @@
 .prose .pp { list-style: none; padding: 0; margin: 0; display: grid; gap: 10px; }
 .prose .pp b { color: var(--ink); } .prose .pp .authors { font-style: normal; color: var(--muted); font-size: 13.5px; }
 .prose .tag { font: 600 10.5px var(--sans); letter-spacing: .06em; text-transform: uppercase; padding: 1px 6px; border-radius: 4px; background: var(--tint); color: var(--muted); margin-left: 6px; vertical-align: 2px; }
+
+/* Test of Time, Systems, Research Highlights, Distinguished AEs/PCs and student award history pages */
+.prose .tot-title { font: 600 19px/1.3 var(--serif); color: var(--ink); }
+.prose .tot-title a { color: inherit; text-decoration: none; }
+.prose .tot-title a:hover { color: var(--accent); }
+.prose .tot-authors { font-style: italic; font-size: 14px; margin: 3px 0 6px; }
+.prose .tot-pair + .tot-pair { margin-top: 16px; }
+.prose .more-link { font-size: 13.5px; font-weight: 500; }
+.prose .sys-grid { display: grid; gap: 14px; margin-top: 18px; }
+.prose .sys { display: grid; grid-template-columns: 120px minmax(0, 1fr); gap: 18px; align-items: start; padding: 16px; border: 1px solid var(--line); border-radius: 10px; }
+.prose .sys-logo { height: 72px; display: flex; align-items: center; justify-content: center; background: #fff; border-radius: 6px; }
+.prose .sys-logo img { max-width: 110px; max-height: 64px; object-fit: contain; margin: 0; }
+.prose .sys-yr { font: 600 12px var(--sans); color: var(--accent); letter-spacing: .06em; }
+.prose .sys-name { font: 600 20px/1.3 var(--serif); color: var(--ink); margin: 2px 0 4px; }
+.prose .sys-people { margin: 0 0 4px; font-size: 14px; }
+.prose .sys details { font-size: 13.5px; color: var(--muted); margin: 0 0 4px; }
+.prose .sys summary { cursor: pointer; color: var(--accent); font-weight: 500; }
+.prose .sys details p { margin: 6px 0 0; }
+.prose .sys-none { color: var(--muted); font-style: italic; padding: 4px 16px; }
+@media (max-width: 640px) { .prose .sys { grid-template-columns: 1fr; } .prose .sys-logo { justify-content: flex-start; } }
+.prose .count { font-weight: 500; color: var(--muted); text-transform: none; letter-spacing: 0; margin-left: 6px; }
+.prose .names { columns: 3 190px; column-gap: 24px; list-style: none; padding: 0; margin: 0; font-size: 14.5px; }
+.prose .names li { break-inside: avoid; padding: 1px 0; margin: 0; }
+.prose .names.outstanding li { font-weight: 600; color: var(--ink); }
+.prose .places { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
+.prose .places li { display: grid; grid-template-columns: 70px minmax(0, 1fr); gap: 10px; margin: 0; }
+.prose .places .pl { font: 600 12px var(--sans); color: var(--muted); padding-top: 3px; }
+.prose .places .pl.first { color: var(--accent); }
+.prose .places span { color: var(--muted); font-size: 13.5px; }
