@@ -22,6 +22,6 @@ updated: "2026-11-13"
 <figure><img src="/assets/people/tot/2024-xiaokui-xiao.jpg" alt="Xiaokui Xiao" loading="lazy"><figcaption>Xiaokui Xiao</figcaption></figure>
 </div>
 
-For the paper from the SIGMOD proceedings 10-12 years prior that has had the most impact over the intervening decade.:
+For the paper from the SIGMOD proceedings 10-12 years prior that has had the most impact over the intervening decade:
 
 > *In particular, this paper had a widespread impact in the area of synthetic data generation, in the data management community and beyond.*

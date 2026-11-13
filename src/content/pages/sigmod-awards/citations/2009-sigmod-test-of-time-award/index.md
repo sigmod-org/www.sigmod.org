@@ -14,7 +14,7 @@ updated: "2026-11-13"
 
 <p class="paper-authors">Jeffrey Scott Vitter (Duke University, now at Texas A&M) and Min Wang (Duke University, now at IBM Thomas J. Watson)</p>
 
-This paper was chosen from the 1999 SIGMOD Conference that has had the most impact (research, products, methodology) over the intervening decade.:
+This paper was chosen from the 1999 SIGMOD Conference that has had the most impact (research, products, methodology) over the intervening decade:
 
 > *This influential paper showed that aggregates over sparse, high-dimensional arrays can be approximated with wavelets to give a compact data-cube representation that supports queries at interactive speeds. Prior histogram-based methods had prohibitive I/O costs for massive data sets of high dimensionality. The method is more accurate than random sampling and supports progressive refinement of answers when additional accuracy is desired. The paper inspired significant follow-on work by others, in the OLAP domain and also more broadly in approximate query processing, selectivity estimation, indexing of images and time series, and data-stream processing.*
 
