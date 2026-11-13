@@ -11,8 +11,11 @@ layout: base.njk
 </div>
 <div class="wrap page-grid{% if not menu %} no-side{% endif %}{% if wide %} wide{% endif %}">
   <article class="prose">
+    {#- Wide pages (full-width tables): the menu sits beside the introduction, the tables start below it -#}
+    {%- if menu and wide %}<aside class="side side-intro">{% include "shared/side-menu.njk" %}</aside>{% endif %}
     {{ content | safe }}
     {% include "shared/meta.njk" %}
   </article>
   {%- if menu and not wide %}<aside class="side">{% include "shared/side-menu.njk" %}</aside>{% endif %}
+  {%- if menu and wide %}<aside class="side side-end">{% include "shared/side-menu.njk" %}</aside>{% endif %}
 </div>

@@ -26,6 +26,14 @@
 .page-grid.wide { grid-template-columns: minmax(0, 1fr); }
 .page-grid.wide .prose { max-width: none; }
 .page-grid.wide .prose > p { max-width: 820px; }
+/* the menu floats beside the introduction (page.njk); tables and headings start below it */
+.page-grid.wide .side-intro { float: right; width: 260px; margin: 0 0 24px 64px; position: static; }
+.page-grid.wide .prose table, .page-grid.wide .prose h2 { clear: both; }
+.page-grid.wide .side-end { display: none; }
+@media (max-width: 1060px) {
+  .page-grid.wide .side-intro { display: none; }
+  .page-grid.wide .side-end { display: block; }
+}
 .prose table.t-officers { display: table; font-size: 13.5px; line-height: 1.45; }
 .prose table.t-officers th { font-size: 13px; position: sticky; top: 72px; z-index: 1; }
 .prose table.t-officers th small { display: block; font-weight: 400; font-size: 12px; color: var(--muted); }
