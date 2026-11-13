@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2015/07/2000Michael_Carey.gif" alt="Michael Carey"><figcaption>Michael Carey</figcaption></figure>
+<figure><img src="/assets/people/michael-carey.jpg" alt="Michael Carey"><figcaption>Michael Carey</figcaption></figure>
 </div>
 
 Information missing!

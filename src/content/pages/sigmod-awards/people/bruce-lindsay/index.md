@@ -10,7 +10,7 @@ wp_parent: 297
 updated: "2022-05-13"
 ---
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2018/02/linsdayBruce.jpg" alt="" width="225" height="300"></td><td><h2>Bruce Lindsay</h2><h3>2012 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
+<table align="center"><tbody><tr><td><img src="/assets/people/bruce-lindsay.jpg" alt="" width="300" height="300"></td><td><h2>Bruce Lindsay</h2><h3>2012 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
 
 **Dr. Bruce Lindsay** is the recipient of the 2012 SIGMOD Edgar F. Codd Innovation Award for distinguished contributions to the internals of relational database management systems.
 

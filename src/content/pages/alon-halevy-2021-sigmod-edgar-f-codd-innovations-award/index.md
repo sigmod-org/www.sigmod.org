@@ -9,7 +9,7 @@ wp_type: "page"
 updated: "2022-05-17"
 ---
 
-![](/wp-content/uploads/2022/05/Alon.jpg)
+![](/assets/people/alon-halevy.jpg)
 
 Alon Halevy
 
