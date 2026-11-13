@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2023-05-23"
 ---
 
-![](/wp-content/uploads/2023/05/image.png)
-
 ![](/wp-content/uploads/2023/05/Joesephmhellerstein-1.png)
 
 ## Joseph M. Hellerstein

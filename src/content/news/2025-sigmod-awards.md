@@ -12,8 +12,6 @@ categories: ["Awards","News"]
 tags: ["news"]
 ---
 
-![](/wp-content/uploads/2023/05/image-2.png)
-
 The 2025 SIGMOD Awards Committee comprising Sourav S. Bhowmick, Angela Bonifati, V. Jagadish, David Maier, Sharad Mehrotra (Chair), Rachel Pottinger, Sayan Ranu, Cyrus Shahabi, Wang-Chiew Tanis happy to announce the following recipients of the 2025 ACM SIGMOD awards.
 
 The SIGMOD 2025 Edgar F Codd Innovations Award goes to Carlo Zaniolo for his groundbreaking contributions to database languages and query optimization on complex database models with long-lasting impact on research and industrial application.

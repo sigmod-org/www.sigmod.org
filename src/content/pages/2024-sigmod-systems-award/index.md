@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2025-04-25"
 ---
 
-![](/wp-content/uploads/2022/05/image_large.png)
-
 ![](/wp-content/uploads/2024/06/singa-1024x368.png)
 
 ## Apache Singa: A Distributed Deep Learning System

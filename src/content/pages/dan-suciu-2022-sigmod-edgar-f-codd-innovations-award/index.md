@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2022-05-13"
 ---
 
-![](/wp-content/uploads/2022/05/image_large.png)
-
 ![](/wp-content/uploads/2022/05/suciu-photo.png)
 
 ## Dan Suciu

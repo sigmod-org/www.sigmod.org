@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2025-04-25"
 ---
 
-![](/wp-content/uploads/2023/05/image.png)
-
 ![](/wp-content/uploads/2025/04/carlo_zaniolo.jpeg)
 
 Carlo Zaniolo

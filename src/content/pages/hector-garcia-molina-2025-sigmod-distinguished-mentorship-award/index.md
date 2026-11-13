@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2026-04-06"
 ---
 
-![](/wp-content/uploads/2025/06/image.png)
-
 ![](/wp-content/uploads/2015/07/image_preview14.jpg)
 
 **Background**:

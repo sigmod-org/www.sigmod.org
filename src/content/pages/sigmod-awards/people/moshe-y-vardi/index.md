@@ -10,8 +10,6 @@ wp_parent: 297
 updated: "2022-05-13"
 ---
 
-![](/wp-content/uploads/2022/05/image_large.png)
-
 <table align="center"><tbody><tr><td><img src="/wp-content/uploads/2018/02/vardi2.jpg" alt="" width="170" height="199"></td><td><h2>Moshe Y. Vardi</h2><h3>2008 SIGMOD Edgar F. Codd Innovations Award</h3></td></tr></tbody></table>
 
 Moshe Y. Vardi is the recipient of the 2008 SIGMOD Edgar F. Codd Innovations Award for fundamental contributions to the foundations of relational databases. He has made significant contributions to the foundations of relational databases by establishing deep connections between database theory, mathematical logic, complexity theory, and AI. His important contributions span many areas of database theory, including the complexity of query evaluation, the semantics of database updates, conjunctive queries, data integration, data dependencies, and deductive databases. The most prominent examples of Vardi’s deep contributions are the following fundamental results.

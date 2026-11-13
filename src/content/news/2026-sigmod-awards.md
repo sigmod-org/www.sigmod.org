@@ -10,8 +10,6 @@ categories: ["Awards","News"]
 tags: ["news"]
 ---
 
-![](/wp-content/uploads/2023/05/image-2.png)
-
 The 2026 SIGMOD Awards Committee, comprising Anastasia Ailamaki, Sourav S. Bhowmick, Georgia Koutrika, Sharad Mehrotra (Chair), C. Mohan, Beng Chin Ooi, Rachel Pottinger, Sayan Ranu, Cyrus Shahabi, and Wang-Chiew Tan, is happy to announce the following recipients of the 2026 ACM SIGMOD awards.
 
 The SIGMOD 2026 Edgar F. Codd Innovations Award goes to [H. V. Jagadish](/h-v-jagadish-2026-sigmod-edgar-f-codd-innovations-award/) (University of Michigan) for establishing usability as a first-class design principle in data management, and for pioneering the research agenda that redefined how humans interact with data systems.

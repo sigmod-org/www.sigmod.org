@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2026-04-01"
 ---
 
-![](/wp-content/uploads/2025/06/image.png)
-
 ![](/wp-content/uploads/2026/04/Jagadish-1.jpeg)
 
 H.V. Jagadish

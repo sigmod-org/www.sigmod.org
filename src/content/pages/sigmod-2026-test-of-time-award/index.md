@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2026-04-14"
 ---
 
-![](/wp-content/uploads/2023/05/image-2.png)
-
 [The Snowflake Elastic Data Warehouse](https://dl.acm.org/doi/10.1145/2882903.2903741)
 
 ![Benoit Dageville](/wp-content/uploads/2026/04/Benoit_Dageville-1-150x150.jpg)

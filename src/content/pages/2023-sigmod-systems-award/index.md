@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2023-06-27"
 ---
 
-![](/wp-content/uploads/2022/05/image_large.png)
-
 ![](/wp-content/uploads/2023/05/Apache_Flink_logo.svg_.png)
 
 ## Apache Flink

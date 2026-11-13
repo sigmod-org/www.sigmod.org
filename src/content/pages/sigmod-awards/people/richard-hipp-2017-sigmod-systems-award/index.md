@@ -10,8 +10,6 @@ wp_parent: 297
 updated: "2022-05-13"
 ---
 
-![](/wp-content/uploads/2022/05/image_large.png)
-
 <table align="center"><tbody><tr><td><img src="/wp-content/uploads/2017/07/richardHipp-150x150.jpg" alt="" width="150" height="150"></td><td><h2>Richard Hipp</h2><h2></h2><h3>2017 SIGMOD Systems Award</h3></td><td></td><td></td></tr></tbody></table>
 
 **Dr. Richard Hipp** is the recipient of the 2017 SIGMOD Systems Award for SQLite, extending DBMS technology to low end devices.

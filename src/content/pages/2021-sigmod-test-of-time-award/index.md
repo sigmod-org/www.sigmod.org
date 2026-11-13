@@ -9,8 +9,6 @@ wp_type: "page"
 updated: "2022-05-17"
 ---
 
-![](/wp-content/uploads/2022/05/image_large.png)
-
 No free lunch in data privacy
 
 **D Kifer and A Machanavajjhala**
