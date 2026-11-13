@@ -6,11 +6,12 @@ area: "awards"
 wp_id: 354
 wp_type: "page"
 wp_parent: 348
-updated: "2015-07-17"
+updated: "2026-11-13"
 ---
+
 
 ## Online Aggregation
 
-### Joseph M. Hellerstein (UC Berkeley), Peter J. Haas (IBM Almaden Research Center), and Helen J. Wang (UC Berkeley)
+<p class="paper-authors">Joseph M. Hellerstein (UC Berkeley), Peter J. Haas (IBM Almaden Research Center), and Helen J. Wang (UC Berkeley)</p>
 
-The paper *Online Aggregation* from the 1997 ACM SIGMOD Conference in Tucson, AZ, was chosen from a number of potential candidates for the lasting impact that it had by opening up new database research directions. In the years since 1997, this frequently cited paper has had a significant influence on subsequent research on approximate query processing, sampling-based data reduction, and more recently, approaches to handling aggregation in stream data management and continuous query processing systems.
+> *The paper *Online Aggregation* from the 1997 ACM SIGMOD Conference in Tucson, AZ, was chosen from a number of potential candidates for the lasting impact that it had by opening up new database research directions. In the years since 1997, this frequently cited paper has had a significant influence on subsequent research on approximate query processing, sampling-based data reduction, and more recently, approaches to handling aggregation in stream data management and continuous query processing systems.*

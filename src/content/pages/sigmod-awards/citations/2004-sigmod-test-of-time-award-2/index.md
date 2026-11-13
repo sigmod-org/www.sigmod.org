@@ -6,14 +6,15 @@ area: "awards"
 wp_id: 351
 wp_type: "page"
 wp_parent: 348
-updated: "2015-07-17"
+updated: "2026-11-13"
 ---
+
 
 ## From Structured Documents to Novel Query Facilities
 
-### Vassilis Christophides, Serge Abiteboul, Sophie Cluet, and Michel Scholl
+<p class="paper-authors">Vassilis Christophides, Serge Abiteboul, Sophie Cluet, and Michel Scholl</p>
 
-This paper presented several long-lasting contributions, combining SGML-based document management with database technology:
+> *This paper presented several long-lasting contributions, combining SGML-based document management with database technology:*
 
 1.  It presented a technique to map DTDs to DB schemata and to store SGML documents in a database in such a way, that the document structure is preserved and can be used for querying.
 2.  It introduced paths and attributes of SGML as first-class citizens. This is the most interesting novelty, since it allows combining the querying of schema information and data in a homogeneous fashion and thereby navigating through SGML documents based on their structure as well as their values.
