@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2018/05/meral2.png" alt="Z. Meral Özsoyoğlu"><figcaption>Z. Meral Özsoyoğlu</figcaption></figure>
+<figure><img src="/assets/people/meral-ozsoyoglu.jpg" alt="Z. Meral Özsoyoğlu"><figcaption>Z. Meral Özsoyoğlu</figcaption></figure>
 </div>
 
 > **Professor Zehra Meral Özsoyoğlu** is the recipient of the 2018 ACM SIGMOD Contributions Award for dedicated service to the database community, especially as editor in chief for ACM TODS and PVLDB, the VLDB Endowment and acting as PC chair for VLDB PC and PODS.

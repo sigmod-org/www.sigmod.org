@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2015/07/image_preview8.png" alt="Maria Zemankova"><figcaption>Maria Zemankova</figcaption></figure>
+<figure><img src="/assets/people/maria-zemankova.jpg" alt="Maria Zemankova"><figcaption>Maria Zemankova</figcaption></figure>
 </div>
 
 Maria Zemankova received her B.S. (with Highest Honors) in Mathematics and Computing with minor in Psychology from the American University in Cairo in 1977, and M.S. and Ph.D. in Computer Science from the Florida State University in 1979 and 1983, respectively.

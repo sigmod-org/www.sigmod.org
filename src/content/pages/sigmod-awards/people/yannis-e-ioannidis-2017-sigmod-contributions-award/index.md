@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2017/04/yannispic_3.png" alt="Yannis E. Ioannidis"><figcaption>Yannis E. Ioannidis</figcaption></figure>
+<figure><img src="/assets/people/yannis-ioannidis.jpg" alt="Yannis E. Ioannidis"><figcaption>Yannis E. Ioannidis</figcaption></figure>
 </div>
 
 > **Professor Yannis E. Ioannidis** is the recipient of the 2017 ACM SIGMOD Contributions Award for his sustained leadership and dedicated service to the database community, especially as part of the SIGMOD Executive Committee and the VLDB Endowment.

@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2015/07/image_preview16.png" alt="Tamer Özsu"><figcaption>Tamer Özsu</figcaption></figure>
+<figure><img src="/assets/people/tamer-ozsu.jpg" alt="Tamer Özsu"><figcaption>Tamer Özsu</figcaption></figure>
 </div>
 
 > Tamer Özsu is the recipient of the 2006 SIGMOD Contributions Award for long-standing dedicated service to the database research community, including leadership roles in the SIGMOD and VLDB organizations, and innovations in the publication process.

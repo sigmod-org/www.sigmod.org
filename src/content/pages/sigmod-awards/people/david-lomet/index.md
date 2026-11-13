@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2015/07/image_preview12.jpg" alt="David Lomet"><figcaption>David Lomet</figcaption></figure>
+<figure><img src="/assets/people/david-lomet.jpg" alt="David Lomet"><figcaption>David Lomet</figcaption></figure>
 </div>
 
 > Dr. David Lomet is the recipient of the 2010 SIGMOD Contribution Award for his outstanding leadership as the Editor-In-Chief of the IEEE Data Engineering Bulletin, a key forum for dissemination of emerging ideas in academia and industry.  Lomet has been a key figure in our field, holding many additional leadership roles and demonstrating in each his dedication to service and to our community.

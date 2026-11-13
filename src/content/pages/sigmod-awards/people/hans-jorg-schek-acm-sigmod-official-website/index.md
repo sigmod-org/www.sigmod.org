@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2015/07/image_preview13.jpg" alt="Hans-Jörg Schek"><figcaption>Hans-Jörg Schek</figcaption></figure>
+<figure><img src="/assets/people/hans-jorg-schek.jpg" alt="Hans-Jörg Schek"><figcaption>Hans-Jörg Schek</figcaption></figure>
 </div>
 
 > Professor Hans-Jörg Schek is the recipient of the 2007 SIGMOD Contributions Award for his significant service to the database research community, as well as the broader scientific community, as a scholar, an educator, a supervisor, a referee of and advisor for large collaborative research projects in Europe, and as an organizer of conferences, journals, and other community activities. He has also served the community through his pioneering research efforts in nested relational data management and database support for advanced applications such as office automation, engineering information management, and digital libraries.

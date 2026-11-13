@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2015/07/image_preview4.png" alt="Hongjun Lu"><figcaption>Hongjun Lu</figcaption></figure>
+<figure><img src="/assets/people/hongjun-lu.jpg" alt="Hongjun Lu"><figcaption>Hongjun Lu</figcaption></figure>
 </div>
 
 > “For lifetime dedication and service to the database research community, especially the promotion of database research in the Asia-Pacific Region.”
