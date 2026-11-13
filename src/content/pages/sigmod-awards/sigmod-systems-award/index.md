@@ -54,19 +54,19 @@ Some concrete criteria are as follows:
 <div class="sys-yr">2019</div><div class="sys-name">Aurora</div>
 <details><summary>23 contributors</summary><p>Xiaofeng Bao, Charlie Bell, Murali Brahmadesam, James Corey, Neal Fachan, Raju Gulabani, Anurag Gupta, Kamal Gupta, James Hamilton, Andy Jassy, Tengiz Kharatishvili, Sailesh Krishnamurthy, Yan Leshinsky, Lon Lundgren, Pradeep Madhavarapu, Sandor Maurice, Grant McAlister, Sam McKelvie, Raman Mittal, Debanjan Saha, Swami Sivasubramanian, Stefano Stefani, Alex Verbitski</p></details>
 <a class="more-link" href="/sigmod-awards/citations/2019-sigmod-systems-award/">Citation →</a></div></div>
-<div class="sys"><div class="sys-logo"><img src="/wp-content/uploads/2018/10/hivepig-e1539226884888.jpg" alt="Hive and Pig" loading="lazy"></div><div>
+<div class="sys"><div class="sys-logo sys-faces"><img src="/assets/people/systems/2018-hive-pig-team.jpg" alt="Hive and Pig" loading="lazy"></div><div>
 <div class="sys-yr">2018</div><div class="sys-name">Hive and Pig</div>
 <p class="sys-people">Jeff Hammerbacher (MUSC), Ashish Thusoo (Qubole), Joydeep Sen Sarma (Qubole), Christopher Olston (Google), Benjamin Reed (Facebook), Utkarsh Srivastava (Google)</p>
 <a class="more-link" href="/sigmod-awards/citations/2018-sigmod-systems-award/">Citation →</a></div></div>
-<div class="sys"><div class="sys-logo"><img src="/wp-content/uploads/2017/07/richardHipp-150x150.jpg" alt="SQLite" loading="lazy"></div><div>
+<div class="sys"><div class="sys-logo sys-faces"><img src="/assets/people/systems/2017-richard-hipp.jpg" alt="SQLite" loading="lazy"></div><div>
 <div class="sys-yr">2017</div><div class="sys-name">SQLite</div>
 <p class="sys-people">Richard Hipp</p>
 <a class="more-link" href="/sigmod-awards/people/richard-hipp-2017-sigmod-systems-award/">Citation →</a></div></div>
-<div class="sys"><div class="sys-logo"><img src="/wp-content/uploads/2016/05/fotoSep2014-e1464196430422.jpg" alt="MonetDB" loading="lazy"></div><div>
+<div class="sys"><div class="sys-logo sys-faces"><img src="/assets/people/systems/2016-martin-kersten.jpg" alt="MonetDB" loading="lazy"></div><div>
 <div class="sys-yr">2016</div><div class="sys-name">MonetDB</div>
 <p class="sys-people">Martin Kersten</p>
 <a class="more-link" href="/sigmod-awards/people/martin-kersten-2016-sigmod-systems-award/">Citation →</a></div></div>
-<div class="sys"><div class="sys-logo"><img src="/wp-content/uploads/2017/07/rowe_l_web.jpg-360-150x150.jpg" alt="Postgres" loading="lazy"></div><div>
+<div class="sys"><div class="sys-logo sys-faces"><img src="/assets/people/systems/2015-postgres-team.jpg" alt="Postgres" loading="lazy"></div><div>
 <div class="sys-yr">2015</div><div class="sys-name">Postgres</div>
 <p class="sys-people">Michael Stonebraker, Lawrence Rowe</p>
 <a class="more-link" href="/sigmod-awards/people/2015-sigmod-systems-award/">Citation →</a></div></div>

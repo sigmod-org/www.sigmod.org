@@ -7,14 +7,21 @@ area: "awards"
 wp_id: 3417
 wp_type: "page"
 wp_parent: 348
-updated: "2022-05-13"
+updated: "2026-11-13"
 ---
 
-# BerkeleyDB — 2020 SIGMOD Systems Award
+<div class="sys-hero">
+<div class="sys-logo"><img src="/wp-content/uploads/2020/05/berkeleydb-logo.png" alt="BerkeleyDB logo"></div>
+<div><div class="kicker">2020 SIGMOD Systems Award</div><h2>BerkeleyDB</h2></div>
+</div>
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2020/05/berkeleydb-logo.png" alt="" width="169" height="81"></td><td><h1>BerkeleyDB</h1><h3>2020 SIGMOD Systems Award</h3></td><td></td><td></td></tr></tbody></table>
+The creators of BerkeleyDB are the recipients of the 2020 SIGMOD Systems Award.
 
-The creators of BerkeleyDB are the recipients of the 2020 SIGMOD Systems Award for their seminal work in embodying simplicity, quality, and elegance in a high-performance key-value store that has impacted many systems and applications over the last 25 years. BerkeleyDB contributors are (in alphabetical order): Don Anderson, Keith Bostic, Alan Bram, Greg Burd, Michael Cahill, Ron Cohen, Alex Gorrod, George Feinberg, Mark Hayes, Charles Lamb, Linda Lee, Susan LoVerso, John Merrells, Mike Olson, Carol Sandstrom, Steve Sarette, David Schacter, David Segleau, Margo Seltzer, Mike Ubell.
+> *For their seminal work in embodying simplicity, quality, and elegance in a high-performance key-value store that has impacted many systems and applications over the last 25 years.*
+
+<div class="yr-group"><p class="yr-label">Contributors, in alphabetical order<span class="count">20</span></p><ul class="names"><li>Don Anderson</li><li>Keith Bostic</li><li>Alan Bram</li><li>Greg Burd</li><li>Michael Cahill</li><li>Ron Cohen</li><li>Alex Gorrod</li><li>George Feinberg</li><li>Mark Hayes</li><li>Charles Lamb</li><li>Linda Lee</li><li>Susan LoVerso</li><li>John Merrells</li><li>Mike Olson</li><li>Carol Sandstrom</li><li>Steve Sarette</li><li>David Schacter</li><li>David Segleau</li><li>Margo Seltzer</li><li>Mike Ubell</li></ul></div>
+
+## About the recipients
 
 **Don Anderson** started his professional career doing kernel work with Bell Laboratories in 1979. Then he worked for over 25 years as an independent consultant for a variety of clients, specializing in UNIX and its variants, compilers, linkers and loaders. He worked with Sleepycat Software from 1997 until they were acquired by Oracle in 2006, and continued consulting with their clients around the world, helping to build great products using Berkeley DB. He now works for MongoDB on the Storage Engines team. He also has a parallel career as a professional jazz trumpet player.
 

@@ -6,15 +6,16 @@ section: "sigmod"
 area: "awards"
 wp_id: 5137
 wp_type: "page"
-updated: "2025-04-25"
+updated: "2026-11-13"
 ---
 
-![](/wp-content/uploads/2025/04/spanner.png)
+<div class="sys-hero">
+<div class="sys-logo"><img src="/wp-content/uploads/2025/04/spanner.png" alt="Spanner logo"></div>
+<div><div class="kicker">2025 SIGMOD Systems Award</div><h2>Spanner: Google’s Globally-Distributed Database</h2></div>
+</div>
 
-**Spanner: Google’s Globally-Distributed Database**
+The 2025 SIGMOD Systems Award goes to Spanner: Google’s Globally-Distributed Database.
 
-The 2025 SIGMOD Systems Award goes to Spanner: Google’s Globally-Distributed Database:
+> *For reimagining relational data management to enable serializability with external consistency at global scale.*
 
-“*for reimagining relational data management to enable serializability with external consistency at global scale.*“
-
-Ordered List of contributors to Spanner: James C. Corbett Jeffrey Dean, Michael Epstein, Andrew Fikes, Christopher Frost, Sanjay Ghemawat, Andrey Gubarev, Christopher Heiser, Peter Hochschild, Wilson Hsieh, Sebastian Kanthak, Alexander Lloyd, Sergey Melnik, David Mwaura, Sean Quinlan, Lindsay Rolig, Yasushi Saito, Michal Szymaniak, Christopher Taylor, Ruth Wang, Dale Woodford, David F. Bacon, Shannon Bales, Nico Bruno, Brian F. Cooper, Adam Dickinson, Campbell Fraser, Milind Joshi, Eugene Kogan, Rajesh Rao, David Shue, Marcel van der Holst, Cliff Frey, Damian Reeves, Steve Middlekauff, Mert Akdere, Ben Vandiver, Dan Glick, David Ziegler, Alex Khesin, Dave Weissman, Todd Lipcon, Sean Dorward, Eric Veach, and JJ Furman
+<div class="yr-group"><p class="yr-label">Contributors, in the order given<span class="count">45</span></p><ul class="names"><li>James C. Corbett</li><li>Jeffrey Dean</li><li>Michael Epstein</li><li>Andrew Fikes</li><li>Christopher Frost</li><li>Sanjay Ghemawat</li><li>Andrey Gubarev</li><li>Christopher Heiser</li><li>Peter Hochschild</li><li>Wilson Hsieh</li><li>Sebastian Kanthak</li><li>Alexander Lloyd</li><li>Sergey Melnik</li><li>David Mwaura</li><li>Sean Quinlan</li><li>Lindsay Rolig</li><li>Yasushi Saito</li><li>Michal Szymaniak</li><li>Christopher Taylor</li><li>Ruth Wang</li><li>Dale Woodford</li><li>David F. Bacon</li><li>Shannon Bales</li><li>Nico Bruno</li><li>Brian F. Cooper</li><li>Adam Dickinson</li><li>Campbell Fraser</li><li>Milind Joshi</li><li>Eugene Kogan</li><li>Rajesh Rao</li><li>David Shue</li><li>Marcel van der Holst</li><li>Cliff Frey</li><li>Damian Reeves</li><li>Steve Middlekauff</li><li>Mert Akdere</li><li>Ben Vandiver</li><li>Dan Glick</li><li>David Ziegler</li><li>Alex Khesin</li><li>Dave Weissman</li><li>Todd Lipcon</li><li>Sean Dorward</li><li>Eric Veach</li><li>JJ Furman</li></ul></div>

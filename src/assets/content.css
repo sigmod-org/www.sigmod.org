@@ -162,3 +162,24 @@
 .prose .places .pl { font: 600 12px var(--sans); color: var(--muted); padding-top: 3px; }
 .prose .places .pl.first { color: var(--accent); }
 .prose .places span { color: var(--muted); font-size: 13.5px; }
+.prose .sys-logo.sys-faces { height: auto; min-height: 72px; background: none; }
+.prose .sys-logo.sys-faces img { max-width: 120px; max-height: 120px; border-radius: 8px; }
+/* "Named in honor of" banner on named award pages */
+.prose .honor { display: grid; grid-template-columns: 132px minmax(0, 1fr); gap: 22px; align-items: center; padding: 18px; border-radius: 12px; background: var(--accent-soft); margin: 4px 0 26px; }
+.prose .honor img { width: 132px; height: 132px; object-fit: cover; object-position: 50% 15%; border-radius: 10px; margin: 0; max-width: none; }
+.prose .honor .kicker { font: 600 12px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.prose .honor .who { font: 600 22px/1.2 var(--serif); color: var(--ink); margin: 3px 0 6px; }
+.prose .honor .who small { font: 500 14px var(--sans); color: var(--muted); margin-left: 6px; }
+.prose .honor p { margin: 0; font-size: 15px; }
+@media (max-width: 560px) { .prose .honor { grid-template-columns: 88px minmax(0, 1fr); gap: 14px; align-items: start; } .prose .honor img { width: 88px; height: 88px; } }
+/* Systems Award citation pages: header with the system logo (or the recipients' faces) */
+.prose .sys-hero { display: grid; grid-template-columns: 200px minmax(0, 1fr); gap: 24px; align-items: center; margin: 4px 0 22px; }
+.prose .sys-hero .sys-logo { height: 120px; border: 1px solid var(--line); border-radius: 10px; background: #fff; }
+.prose .sys-hero .sys-logo img { max-width: 170px; max-height: 96px; }
+.prose .sys-hero .sys-logo.sys-faces { height: auto; border: 0; background: none; justify-content: flex-start; }
+.prose .sys-hero .sys-logo.sys-faces img { max-width: 200px; max-height: 200px; }
+.prose .sys-hero .kicker { font: 600 12px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); }
+.prose .sys-hero h2 { margin: 4px 0 0; font-size: 28px; line-height: 1.2; }
+.prose .sys-hero .meta { margin-top: 6px; color: var(--muted); font-size: 14.5px; }
+.prose .bio-group { font: 600 12px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin: 22px 0 -4px; }
+@media (max-width: 640px) { .prose .sys-hero { grid-template-columns: 1fr; gap: 14px; } .prose .sys-hero .sys-logo { max-width: 220px; } .prose .sys-hero .sys-logo.sys-faces img { max-width: 160px; } }

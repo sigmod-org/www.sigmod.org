@@ -9,6 +9,7 @@ wp_parent: 296
 updated: "2026-11-13"
 ---
 
+Starting with the SIGMOD 2016 cohort of papers, SIGMOD has recognized the papers whose artifacts best let others reproduce their results. The award began as **Most Reproducible Papers** (SIGMOD 2016–2020 papers), became the **Most Comprehensively Reproduced Paper** (SIGMOD 2021 papers), and has been the **Best Artifact Award** since the SIGMOD 2022 papers.
 
 The *ACM SIGMOD Best Artifact Award* recognizes the best papers in terms of reproducibility. Up to three comprehensively reproduced papers are carefully selected and the awards are presented during the awards session of the SIGMOD conference (next year). The criteria for the award broadly include: (i) coverage, (ii) ease of reproducibility, (iii) flexibility, and (iv) portability.
 
