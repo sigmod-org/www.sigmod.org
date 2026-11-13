@@ -1,20 +1,20 @@
 ---
 edited: true
-title: "Beng Chin Ooi — 2009 SIGMOD Contribution Award Winner"
+title: "Beng Chin Ooi — 2009 SIGMOD Contributions Award"
 permalink: "/sigmod-awards/people/beng-chin-ooi/"
 section: "sigmod"
 area: "awards"
 wp_id: 309
 wp_type: "page"
 wp_parent: 297
-updated: "2025-01-11"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)  
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview7.jpg" alt="Beng Chin Ooi"><figcaption>Beng Chin Ooi</figcaption></figure>
+</div>
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2015/07/image_preview7.jpg" alt="Beng" width="125" height="150"></td><td><h2>Beng Chin Ooi</h2><h3>2009 SIGMOD Contributions Award</h3></td></tr></tbody></table>
-
-Beng Chin Ooi is the recipient of the 2009 SIGMOD Contributions Award for his sustained and selfless contributions to the database community in promoting and pursuing high standards of database research at both the international and regional level.
+> Beng Chin Ooi is the recipient of the 2009 SIGMOD Contributions Award for his sustained and selfless contributions to the database community in promoting and pursuing high standards of database research at both the international and regional level.
 
 Beng Chin Ooi has been consistently involved in activities that push the frontier of database research. He has taken leadership roles on technical programs for ICDE, SSD, SIGMOD and VLDB. He has helped ensure a high standard for database journal publications as an editor for The VLDB Journal, IEEE Transactions on Knowledge and Data Engineering, International Journal of Geographical Information Science, and Geoinformatca. Currently, he is the editor-in-chief of IEEE Transactions on Knowledge and Data Engineering, and an editor for the Distributed and Parallel Databases journal. He also serves on the SIGMOD Doctoral Dissertation Award committee and on the board of the VLDB Endowment. Ooi has contributed greatly to promoting database research, especially in the Asia-Pacific region, by building an eminent database group at the National University of Singapore that supports high quality research throughout the region through direct collaborations and participation in regional conferences.
 

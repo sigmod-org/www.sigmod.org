@@ -7,12 +7,12 @@ area: "awards"
 wp_id: 327
 wp_type: "page"
 wp_parent: 297
-updated: "2026-10-04"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)  
-
-<table align="center"><tbody><tr><td><a href="/wp-content/uploads/2015/07/image_preview8.png"><img src="/wp-content/uploads/2015/07/image_preview8.png" alt="image_preview" width="125" height="150"></a></td><td><h2>Maria Zemankova</h2><h3>1992 SIGMOD Contributions Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview8.png" alt="Maria Zemankova"><figcaption>Maria Zemankova</figcaption></figure>
+</div>
 
 Maria Zemankova received her B.S. (with Highest Honors) in Mathematics and Computing with minor in Psychology from the American University in Cairo in 1977, and M.S. and Ph.D. in Computer Science from the Florida State University in 1979 and 1983, respectively.
 

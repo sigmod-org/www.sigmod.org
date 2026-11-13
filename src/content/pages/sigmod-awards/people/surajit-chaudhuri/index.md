@@ -7,14 +7,14 @@ area: "awards"
 wp_id: 342
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-10"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview1.jpg" alt="Surajit Chaudhuri"><figcaption>Surajit Chaudhuri</figcaption></figure>
+</div>
 
-<table align="center"><tbody><tr><td><a href="/wp-content/uploads/2015/07/image_preview1.jpg"><img src="/wp-content/uploads/2015/07/image_preview1.jpg" alt="image_preview" width="125" height="150"></a></td><td><h2>Surajit Chaudhuri</h2><h3>2004 SIGMOD Contributions Award</h3></td></tr></tbody></table>
-
-Surajit Chaudhuri received the 2004 SIGMOD Contribution Award for creating and maintaining the conference management tool (CMT). CMT was first released in 1999, and has since then become the tool of choice for a large number of mainstream conferences in the database area and beyond. In particular, the ACM SIGMOD Conference, the VLDB Conference, and the Data Engineering Conference have all used CMT throughout the last few years. CMT has established itself as a de facto standard for supporting the program committee work of these leading conferences in our field.
+> Surajit Chaudhuri received the 2004 SIGMOD Contribution Award for creating and maintaining the conference management tool (CMT). CMT was first released in 1999, and has since then become the tool of choice for a large number of mainstream conferences in the database area and beyond. In particular, the ACM SIGMOD Conference, the VLDB Conference, and the Data Engineering Conference have all used CMT throughout the last few years. CMT has established itself as a de facto standard for supporting the program committee work of these leading conferences in our field.
 
 Chaudhuri not only developed the original version of CMT, but, most importantly, has continuously provided maintenance and support, and has added major features upon request by individual conferences. CMT has evolved into one of the most versatile program-committee support tools available today. Chaudhuri has invested an enormous amount of effort into this contribution, on a purely voluntary basis, deserving this recognition by the database community.
 

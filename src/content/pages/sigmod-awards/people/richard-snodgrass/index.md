@@ -7,12 +7,12 @@ area: "awards"
 wp_id: 337
 wp_type: "page"
 wp_parent: 297
-updated: "2024-09-06"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)
-
-<table align="center"><tbody><tr><td><a href="/wp-content/uploads/2015/07/image_preview21.jpg"><img src="/wp-content/uploads/2015/07/image_preview21.jpg" alt="image_preview" width="125" height="150"></a></td><td><h2>Richard Snodgrass</h2><h3>2002 SIGMOD Contributions Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview21.jpg" alt="Richard Snodgrass"><figcaption>Richard Snodgrass</figcaption></figure>
+</div>
 
 Although Prof. Richard T. Snodgrass has performed a number of services to the field, including PC chair and TODS editorship, the work for which this award is made is his service as SIGMOD chair from 1997-2001. He took the lead to create the ACM/SIGMOD Digital Library, and personally built the necessary bridges to sister societies, in order to complete the project. Through the example of his leadership, the number of SIGMOD volunteers more than tripled, and SIGMOD membership itself began a significant upward trend.
 

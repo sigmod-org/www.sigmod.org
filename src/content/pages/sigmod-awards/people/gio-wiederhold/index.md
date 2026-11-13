@@ -7,12 +7,12 @@ area: "awards"
 wp_id: 317
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-10"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)
-
-<table align="center"><tbody><tr><td><a href="/wp-content/uploads/2015/07/image_preview3.png"><img src="/wp-content/uploads/2015/07/image_preview3.png" alt="image_preview" width="125" height="150"></a></td><td><h2>Gio Wiederhold</h2><h3>1995 SIGMOD Contributions Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview3.png" alt="Gio Wiederhold"><figcaption>Gio Wiederhold</figcaption></figure>
+</div>
 
 Gio Wiederhold is a professor of Computer Science at Stanford University, with courtesy appointments in Medicine and Electrical Engineering. Since 1976 he has supervised 29 PhD theses in these departments. Current research includes privacy protection in collaborative settings, large-scale software composition, access to simulations to augment decision-making capabilities for information systems, and developing an algebra over ontologies.
 

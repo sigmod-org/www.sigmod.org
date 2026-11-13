@@ -7,14 +7,14 @@ area: "awards"
 wp_id: 303
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-10"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview4.jpg" alt="Kyu-Young Whang"><figcaption>Kyu-Young Whang</figcaption></figure>
+</div>
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2015/07/image_preview4.jpg" alt="Kyu-Young Whang" width="125"></td><td><h2>&nbsp;&nbsp;&nbsp; Kyu-Young Whang</h2><h3>&nbsp;&nbsp;&nbsp;&nbsp; 2014 SIGMOD Contributions Award</h3></td></tr></tbody></table>
-
-**Professor Kyu-Young Whang** is awarded the 2014 SIGMOD Contributions award for sustained dedication, leadership, and service to the database community in promoting database research at both worldwide and regional levels, including many years of service to the VLDB Journal, the VLDB Endowment, the IEEE TC on Data Engineering, and the DASFAA Steering Committee.
+> **Professor Kyu-Young Whang** is awarded the 2014 SIGMOD Contributions award for sustained dedication, leadership, and service to the database community in promoting database research at both worldwide and regional levels, including many years of service to the VLDB Journal, the VLDB Endowment, the IEEE TC on Data Engineering, and the DASFAA Steering Committee.
 
 **Details:** Dr. Whang is a Korea Advanced Institute of Science and Technology (KAIST) Distinguished Professor at the Department of Computer Science and the Director of the Advanced Information Technology Research Center (AITrc). His research interests encompass database systems/storage systems, object-oriented databases, multimedia databases, geographic information systems (GIS), data mining/data warehouses, XML databases, and data streaming. He is an author of over 110 papers in refereed international journals and conference proceedings (and over 170 papers in domestic ones).
 

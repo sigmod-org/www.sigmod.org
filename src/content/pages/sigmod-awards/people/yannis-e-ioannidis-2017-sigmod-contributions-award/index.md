@@ -7,14 +7,14 @@ area: "awards"
 wp_id: 2168
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-10"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2017/04/yannispic_3.png" alt="Yannis E. Ioannidis"><figcaption>Yannis E. Ioannidis</figcaption></figure>
+</div>
 
-<table align="center"><tbody><tr><td><img src="/wp-content/uploads/2017/04/yannispic_3.png" alt="" width="100" height="130"></td><td><h2>Yannis E. Ioannidis</h2><h3>2017 SIGMOD Contributions Award</h3></td></tr></tbody></table>
-
-**Professor Yannis E. Ioannidis** is the recipient of the 2017 ACM SIGMOD Contributions Award for his sustained leadership and dedicated service to the database community, especially as part of the SIGMOD Executive Committee and the VLDB Endowment.
+> **Professor Yannis E. Ioannidis** is the recipient of the 2017 ACM SIGMOD Contributions Award for his sustained leadership and dedicated service to the database community, especially as part of the SIGMOD Executive Committee and the VLDB Endowment.
 
 **Details:** Yannis Ioannidis is currently a Professor at the Department of Informatics and Telecommunications of the University of Athens. In early 2011 he also became the President and General Director of the ATHENA Research and Innovation Center; in addition, he currently serves as the Acting Director of the Institute of Language and Speech Processing, the Industrial Systems Institute, and the Institute for the Management of Information Systems of ATHENA.
 

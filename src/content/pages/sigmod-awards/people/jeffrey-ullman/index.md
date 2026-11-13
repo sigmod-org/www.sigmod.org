@@ -7,12 +7,12 @@ area: "awards"
 wp_id: 322
 wp_type: "page"
 wp_parent: 297
-updated: "2022-05-10"
+updated: "2026-11-12"
 ---
 
-![](/wp-content/uploads/2022/05/image_large-300x9.png)
-
-<table align="center"><tbody><tr><td><a href="/wp-content/uploads/2015/07/image_preview6.png"><img src="/wp-content/uploads/2015/07/image_preview6.png" alt="image_preview" width="125" height="150"></a></td><td><h2>&nbsp;&nbsp;&nbsp; Jeffrey Ullman</h2><h3>&nbsp;&nbsp;&nbsp;&nbsp; 1996 SIGMOD Contributions Award</h3></td></tr></tbody></table>
+<div class="award-team">
+<figure><img src="/wp-content/uploads/2015/07/image_preview6.png" alt="Jeffrey Ullman"><figcaption>Jeffrey Ullman</figcaption></figure>
+</div>
 
 Jeff Ullman is the Stanford W. Ascherman Professor of Engineering in the Department of Computer Science at Stanford. He received the B.S. degree from Columbia University in 1963 and the PhD from Princeton in 1966. Prior to his appointment at Stanford in 1979, he was a member of the technical staff of Bell Laboratories from 1966-1969, and on the faculty of Princeton University between 1969 and 1979. From 1990-1994, he was chair of the Stanford Computer Science Department. He has served as chair of the CS-GRE Examination board, Member of the ACM Council, Chair of the New York State CS Doctoral Evaluation Board, on several NSF advisory boards, and is past or present editor of several journals. He is presently a member of the Computing Research Association Board and the W3C Advisory Board.
 
