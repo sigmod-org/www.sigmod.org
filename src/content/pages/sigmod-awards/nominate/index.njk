@@ -9,7 +9,7 @@ area: "awards"
     Apps Script app in award-nominations/ (see award-nominations/README.md). It
     talks to the backend in the sigmodec@gmail.com account. Links in nomination
     e-mails point to this page. -#}
-<link rel="stylesheet" href="/assets/nominate.css">
+<link rel="stylesheet" href="{{ "/assets/nominate.css" | v }}">
 <div class="page-head">
   <div class="wrap">
     <p class="crumbs"><a href="/">Home</a><span>/</span><a href="/sigmod-awards/">Awards</a></p>
@@ -21,4 +21,4 @@ area: "awards"
     <noscript><p>This form needs JavaScript. You can also send nominations by e-mail as described in the <a href="/sigmod-awards/ongoing-awards-call/">call for nominations</a>.</p></noscript>
   </div>
 </div>
-<script src="/assets/nominate.js"></script>
+<script src="{{ "/assets/nominate.js" | v }}"></script>

@@ -1,4 +1,7 @@
 import { HtmlBasePlugin } from "@11ty/eleventy";
+import fs from "node:fs";
+import path from "node:path";
+import crypto from "node:crypto";
 import { buildNominationAssets } from "./award-nominations/dev/build-site.mjs";
 
 // PATH_PREFIX serves the site from a subfolder, e.g. /www.sigmod.org/ on GitHub Pages.
@@ -7,6 +10,15 @@ const pathPrefix = process.env.PATH_PREFIX || "/";
 export default function (eleventyConfig) {
   if (pathPrefix !== "/") eleventyConfig.addPlugin(HtmlBasePlugin);
   eleventyConfig.addGlobalData("layout", "page.njk");
+
+  // Cache-busting: "/assets/site.css" | v  ->  "/assets/site.css?v=<first 8 hex of the file's MD5>".
+  // The link changes only when the file does, so browsers fetch new CSS/JS right after a deploy.
+  eleventyConfig.addFilter("v", (url) => {
+    const rel = url.replace(/^\/assets\//, "");
+    const file = path.join("src/assets", rel);
+    if (!fs.existsSync(file)) return url;
+    return url + "?v=" + crypto.createHash("md5").update(fs.readFileSync(file)).digest("hex").slice(0, 8);
+  });
 
   // Award nominations: the form code (src/assets/nominate.js, .css) is generated
   // from the Apps Script app in award-nominations/ before every build.
