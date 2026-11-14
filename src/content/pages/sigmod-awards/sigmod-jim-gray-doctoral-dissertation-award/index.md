@@ -70,7 +70,7 @@ The annual ACM SIGMOD Doctoral Dissertation Award, inaugurated in 2006, recogniz
 
 <div class="yr"><div class="yr-year">2016</div><div>
 <div class="yr-group"><p class="yr-label">Winner</p><div class="diss-win"><div class="diss-card"><div class="diss-name">Paris Koutris</div><div class="diss-meta">Advisor: Dan Suciu · University of Washington</div></div></div></div>
-<div class="yr-group"><p class="yr-label">Honorable mentions</p><ul class="diss-ru"><li><b>Pinar Tozun</b> <span>· Advisor: Anastasia Ailamaki · École Polytechnique Fédérale de Lausanne</span></li><li><b>Alvin Cheung</b> <span>· Advisors: Sam Madden and Armando Solar-Lezama · MIT</span></li></ul></div>
+<div class="yr-group"><p class="yr-label">Honorable mentions</p><ul class="diss-ru"><li><b>Pınar Tözün</b> <span>· Advisor: Anastasia Ailamaki · École Polytechnique Fédérale de Lausanne</span></li><li><b>Alvin Cheung</b> <span>· Advisors: Sam Madden and Armando Solar-Lezama · MIT</span></li></ul></div>
 <p class="yr-src"><a href="/sigmod-awards/citations/2016-sigmod-jim-gray-doctoral-dissertation-award/">Award citation</a></p>
 </div></div>
 

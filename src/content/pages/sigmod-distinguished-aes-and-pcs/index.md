@@ -37,6 +37,21 @@ updated: "2026-11-13"
 </div></div>
 
 <div class="yr"><div class="yr-year">2021</div><div>
-<div class="yr-group"><p class="yr-label">Distinguished associate editors<span class="count">9</span></p><ul class="names"><li>Phil Bernstein</li><li>Sourav Bhowmick</li><li>Alan Fekete</li><li>Wolfgang Gatterbauer</li><li>Wolfgang Lehner</li><li>Alexandra Meliou</li><li>Tamer Ozsu</li><li>Ken Ross</li><li>Pinar Tozun</li></ul></div>
+<div class="yr-group"><p class="yr-label">Distinguished associate editors<span class="count">9</span></p><ul class="names"><li>Phil Bernstein</li><li>Sourav Bhowmick</li><li>Alan Fekete</li><li>Wolfgang Gatterbauer</li><li>Wolfgang Lehner</li><li>Alexandra Meliou</li><li>Tamer Ozsu</li><li>Ken Ross</li><li>Pınar Tözün</li></ul></div>
 <div class="yr-group"><p class="yr-label">Distinguished PC members<span class="count">34</span></p><ul class="names"><li>Peter Alvaro</li><li>Zhifeng Bao</li><li>Carsten Binnig</li><li>Byron Choi</li><li>Sudipto Das</li><li>Niv Dayan</li><li>Christopher De Sa</li><li>Hakan Ferhatosmanoglu</li><li>Boris Glavic</li><li>Peter Haas</li><li>Wook-Shin Han</li><li>Xi He</li><li>Melanie Herschel</li><li>Gabriela Jacques-Silva</li><li>Christian Jensen</li><li>Ryan Johnson</li><li>Oliver Kennedy</li><li>Dumitrel Loghin</li><li>Nikos Mamoulis</li><li>Volker Markl</li><li>Ismail Oukid</li><li>Paolo Papotti</li><li>Tilmann Rabl</li><li>Jennie Rogers</li><li>Mo Sadoghi</li><li>Semih Salihoglu</li><li>Alkis Simitsis</li><li>Kurt Stockinger</li><li>Rebecca Taft</li><li>Tianzheng Wang</li><li>Wei Wang</li><li>Chenggang Wu</li><li>Xiaofei Zhang</li><li>Baihua Zheng</li></ul></div>
+</div></div>
+
+<div class="yr"><div class="yr-year">2020</div><div>
+<div class="yr-group"><p class="yr-label">Distinguished area chairs<span class="count">4</span></p><ul class="names"><li>Renée Miller</li><li>Prithviraj Sen</li><li>Pınar Tözün</li><li>Tamer Özsu</li></ul></div>
+<div class="yr-group"><p class="yr-label">Distinguished PC members<span class="count">15</span></p><ul class="names"><li>Leilani Battle</li><li>Bailu Ding</li><li>Alexander Boehm</li><li>Matthias Boehm</li><li>Peter Boncz</li><li>Wolfgang Gatterbauer</li><li>Boris Glavic</li><li>Chris Jermaine</li><li>Oliver Kennedy</li><li>Chuan Lei</li><li>Alexandra Meliou</li><li>Peter Pietzuch</li><li>Mirek Riedewald</li><li>Gabriela Jacques da Silva</li><li>Sudeepa Roy</li></ul></div>
+</div></div>
+
+<div class="yr"><div class="yr-year">2019</div><div>
+<div class="yr-group"><p class="yr-label">Distinguished PC members · Research track core PC<span class="count">4</span></p><ul class="names"><li>Gustavo Alonso</li><li>Matthias Boehm</li><li>Chris Jermaine</li><li>Alexandra Meliou</li></ul></div>
+<div class="yr-group"><p class="yr-label">Distinguished PC members · Research track regular PC<span class="count">15</span></p><ul class="names"><li>Xu Chu</li><li>Sudipto Das</li><li>Wenfei Fan</li><li>Raul Castro Fernandez</li><li>Boris Glavic</li><li>Arun Kumar</li><li>Ashwin Machanavajjhala</li><li>Ingo Müller</li><li>Tamer Özsu</li><li>Andrew Pavlo</li><li>Danica Porobic</li><li>Yufei Tao</li><li>Eugene Wu</li><li>Matei Zaharia</li><li>Ce Zhang</li></ul></div>
+<div class="yr-group"><p class="yr-label">Distinguished PC members · Industrial track<span class="count">1</span></p><ul class="names"><li>Mark Callaghan</li></ul></div>
+</div></div>
+
+<div class="yr"><div class="yr-year">2018</div><div>
+<div class="yr-group"><p class="yr-label">Distinguished PC members<span class="count">20</span></p><ul class="names"><li>Ashraf Aboulnaga</li><li>Manos Athanassoulis</li><li>Sebastian Breß</li><li>Graham Cormode</li><li>Sudipto Das</li><li>Khuzaima Daudjee</li><li>Aaron Elmore</li><li>Ada Fu</li><li>Michael Hay</li><li>Yuxiong He</li><li>Yannis Katsis</li><li>Alexandra Meliou</li><li>Dan Olteanu</li><li>Andrew Pavlo</li><li>Peter Pietzuch</li><li>Lucian Popa</li><li>Semih Salihoglu</li><li>Ryan Stutsman</li><li>Yufei Tao</li><li>Alex Thomson</li></ul></div>
 </div></div>

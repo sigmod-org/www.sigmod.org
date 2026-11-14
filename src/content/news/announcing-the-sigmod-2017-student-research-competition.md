@@ -34,6 +34,6 @@ Arun Kumar, University of California, San Diego
 Justin Levandoski, Microsoft  
 Fatma Ozcan, IBM  
 Sudeepa Roy, Duke University  
-Pinar Tozun, IBM  
+Pınar Tözün, IBM  
 Immanuel Trummer, Cornell University  
 Jingren Zhou, Alibaba
