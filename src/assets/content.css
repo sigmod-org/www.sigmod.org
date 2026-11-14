@@ -183,3 +183,10 @@
 .prose .sys-hero .meta { margin-top: 6px; color: var(--muted); font-size: 14.5px; }
 .prose .bio-group { font: 600 12px var(--sans); letter-spacing: .08em; text-transform: uppercase; color: var(--accent); margin: 22px 0 -4px; }
 @media (max-width: 640px) { .prose .sys-hero { grid-template-columns: 1fr; gap: 14px; } .prose .sys-hero .sys-logo { max-width: 220px; } .prose .sys-hero .sys-logo.sys-faces img { max-width: 160px; } }
+/* PODS keynote speakers: a quiet year list */
+.prose .kn-list { list-style: none; padding: 0; margin: 18px 0 0; border-top: 1px solid var(--line); }
+.prose .kn-list li { display: grid; grid-template-columns: 64px minmax(0, 1fr); gap: 16px; padding: 12px 0; margin: 0; border-bottom: 1px solid var(--line); }
+.prose .kn-yr { font: 500 17px/1.4 var(--serif); color: var(--muted); }
+.prose .kn-who { display: block; font-weight: 600; color: var(--ink); }
+.prose .kn-title { display: block; font-size: 15px; margin-top: 1px; }
+.prose .kn-item + .kn-item { margin-top: 10px; }

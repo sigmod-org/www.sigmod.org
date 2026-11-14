@@ -7,260 +7,44 @@ area: "pods"
 wp_id: 398
 wp_type: "page"
 wp_parent: 390
-updated: "2026-11-13"
+updated: "2026-11-14"
 ---
 
 Every year, PODS features two or three tutorials. Short abstracts of the tutorials usually appear in the Proceedings. Here we provide links to full versions – either full papers or slides of the tutorials, where available.
 
-**2026**  
-Mahmoud Abo Khamis:  
-**[Query Optimization and Evaluation via Information Theory](https://dl.acm.org/doi/10.1145/3788852.3805595)**
-
-Karl Bringmann:  
-**[Fine-grained Complexity of Database Queries](https://dl.acm.org/doi/10.1145/3788852.3805596)**
-
-**2025**  
-Albert Atserias:  
-**[Local-vs-Global Consistency of Annotated Relations](https://dl.acm.org/doi/10.1145/3722234.3725823)**
-
-Stefan Mengel:  
-**[Lower Bounds for Conjunctive Query Evaluation](https://dl.acm.org/doi/10.1145/3722234.3725824)**
-
-**2024**  
-Thomas Neumann:  
-**[Closing the Gap Between Theory and Practice in Query Optimization](https://dl.acm.org/doi/10.1145/3635138.3654765)**
-
-David Woodruff:  
-**[Approximation Algorithms on Matrices – with some Database Applications!](https://dl.acm.org/doi/10.1145/3635138.3654766)**
-
-**2023**  
-Edith Cohen:  
-**[Sampling Big Ideas in Query Optimization](https://dl.acm.org/doi/abs/10.1145/3584372.3589935)**
-
-Floris Geerts:  
-**[A Query Language Perspective on Graph Learning](https://dl.acm.org/doi/abs/10.1145/3584372.3589936)**
-
-**2022**  
-Wim Martens:  
-**[Towards Theory for Real-World Data](https://dl.acm.org/doi/10.1145/3517804.3526066)**
-
-Rediet Abebe:  
-**Algorithms on Trial: Interrogating Evidentiary Statistical Software**
-
-**2021**  
-Dániel Marx:  
-**[Modern Lower Bound Techniques in Database Theory and Constraint Satisfaction](https://dl.acm.org/doi/10.1145/3452021.3458814)** \[[video](https://www.youtube.com/watch?v=IeTrkMbiH5E&list=PL3xUNnH4Tdbt53LHxilTcDdyHdgZ8D_yT&ab_channel=SIGMOD2021)\]
-
-Barna Saha:  
-**[Approximation Algorithms for Large Scale Data Analysis](https://dl.acm.org/doi/abs/10.1145/3452021.3458813)** \[[video](https://www.youtube.com/watch?v=w5W5sK56BQg&list=PL3xUNnH4Tdbt53LHxilTcDdyHdgZ8D_yT)\]
-
-**2020**  
-Adnan Darwiche:  
-**[Three Modern Roles for Logic in AI](https://dl.acm.org/doi/abs/10.1145/3375395.3389131)**
-
-Arnaud Durand:  
-**[Fine-Grained Complexity Analysis of Queries: From Decision to Counting and Enumeration](https://dl.acm.org/doi/abs/10.1145/3375395.3389130)**
-
-**2019**  
-Alan Fekete:  
-**[Making Consistency Protocols Serializable](https://dl.acm.org/doi/10.1145/3294052.3322191)**
-
-Suresh Venkatasubramanian:  
-**[Algorithmic Fairness: Measures, Methods and Representations](https://dl.acm.org/doi/10.1145/3294052.3322192)**
-
-**2018**  
-Arvind Narayanan:  
-**[Blockchains: Past, Present, and Future](https://dl.acm.org/citation.cfm?id=3197545)**
-
-Rajeev Raman:  
-**[In-memory Representations of Databases via Succinct Data Structures](https://dl.acm.org/citation.cfm?id=3196992)**
-
-**2017**  
-Lise Getoor:  
-**[Statistical Relational Learning: Unifying AI & DB Perspectives on Structured Probabilistic Models](https://dl.acm.org/citation.cfm?id=3034786.3056450)**
-
-Ke Yi:  
-**Random Sampling on Big Data: Techniques and Applications**
-
-Dan Suciu:  
-**[Communication Cost in Parallel Query Processing: A Tutorial](https://dl.acm.org/citation.cfm?id=3056449)**
-
-**2016**  
-Sara Cohen:  
-**[Data Management for Social Networking](https://dl.acm.org/citation.cfm?id=2902306)**
-
-Frank Neven:  
-**[Logical Aspects of Massively Parallel and Distributed Systems](https://dl.acm.org/citation.cfm?id=2902307)**
-
-**2015**  
-Todd J. Green:  
-**[LogiQL: A Declarative Language for Enterprise Applications](https://dl.acm.org/citation.cfm?id=2745780)**
-
-Graham Cormode:  
-**[Compact Summaries over Large Datasets](https://dl.acm.org/citation.cfm?id=2745781)**
-
-**2014**  
-Peter J. Haas:  
-**[Model-data Ecosystems: Challenges, Tools, and Trends](http://doi.acm.org/10.1145/2594538.2594562)**
-
-Benny Kimelfeld:  
-**[Database Principles in Information Extraction](http://doi.acm.org/10.1145/2594538.2594563)**
-
-**2013**  
-Piotr Indyk:  
-**[Sketching via Hashing: From Heavy Hitters to Compressed Sensing to Sparse Fourier Transform](http://doi.acm.org/10.1145/2463664.2465217)** ([slides](http://people.csail.mit.edu/indyk/pods2.pptx))
-
-Pablo Barcelo:  
-**[Querying Graph Databases](http://doi.acm.org/10.1145/2463664.2465216)**
-
-**2012**  
-Benjamin C. Pierce:  
-**[Linguistic Foundations for Bidirectional Transformations](http://doi.acm.org/10.1145/2213556.2213568)**
-
-Michael W. Mahoney:  
-**[Approximate Computation and Implicit Regularization for Very Large-scale Data Analysis](http://doi.acm.org/10.1145/2213556.2213579)**
-
-**2011**  
-Marcelo Arenas and Jorge Perez:  
-**[Querying Semantic Web Data with SPARQL: State of the Art and Research Perspectives](http://doi.acm.org/10.1145/1989284.1989312)** ([slides](http://web.ing.puc.cl/~marenas/talks/pods11.pdf))
-
-S. Muthu Muthukrishnan:  
-**[Data Stream Analysis: Principles and Perspectives](http://doi.acm.org/10.1145/1989284.1989314)** ([slides](https://4cc36a90-a-62cb3a1a-s-sites.googlegroups.com/site/algoresearch/pods11.pdf))
-
-**2010**  
-Gerhard Weikum and Martin Theobald:  
-**[From Information to Knowledge: Harvesting Entities and Relationships from Web Sources](http://doi.acm.org/10.1145/1807085.1807097)**
-
-T.S. Jayram:  
-**[Information Complexity](http://doi.acm.org/10.1145/1807085.1807108)**
-
-**2009**  
-Lars Arge:  
-**[Worst-Case Efficient Range Search Indexing](http://doi.acm.org/10.1145/1559795.1559822)**
-
-Leonid Libkin:  
-**[The finite model theory toolbox of a database theoretician](http://doi.acm.org/10.1145/1559795.1559807)**
-
-**2008**  
-Mikolaj Bojanczyk:  
-**[Effective Characterizations of Tree Logics](http://doi.acm.org/10.1145/1376916.1376925)**
-
-Wenfei Fan:  
-**[Dependencies Revisited for Improving Data Quality](http://doi.acm.org/10.1145/1376916.1376940)**
-
-**2007**  
-Nicole Schweikardt:  
-**[Machine Models and Lower Bounds for Query Processing](http://doi.acm.org/10.1145/1265530.1265537)**
-
-Jan Van den Bussche, Dirk Van Gucht, Stijn Vansummeren:  
-**[A Crash Course on Database Queries](http://doi.acm.org/10.1145/1265530.1265551)**
-
-**2006**  
-Joseph Y. Halpern:  
-**[From Statistical Knowledge Bases to Degrees of Belief: An Overview](http://doi.acm.org/10.1145/1142351.1142367)**
-
-Christoph Koch:  
-**[Processing Queries on Tree-structured Data Efficiently](http://doi.acm.org/10.1145/1142351.1142382)**
-
-Enrico Franconi, Sergio Tessaris:  
-**[The logic of RDF and SPARQL](http://doi.acm.org/10.1145/1142351.1142402)**
-
-**2005**  
-Johannes Gehrke:  
-**[Models and Methods for Privacy-preserving Data Publishing and Analysis](http://doi.acm.org/10.1145/1065167.1065207)**
-
-Monica S. Lam, John Whaley, V. Benjamin Livshits, Michael C. Martin, Dzintars Avots, Michael Carbin, Christopher Unkel:  
-**[Context-sensitive Program Analysis as Database Queries](http://doi.acm.org/10.1145/1065167.1065169)**
-
-**2004**  
-Monika Rauch Henzinger:  
-**[The Past, Present and Future of Web Information Retrieval](http://doi.acm.org/10.1145/1055558.1055566)**
-
-Thomas Schwentick:  
-**[Trees, Automata and XML](http://doi.acm.org/10.1145/1055558.1055589)** ([printable slides](http://lrb.cs.uni-dortmund.de/~tick/Talks/pods04d.pdf), [slides in motion](http://lrb.cs.uni-dortmund.de/~tick/Talks/pods04.pdf))
-
-**2003**  
-Rakesh Agrawal:  
-**[Privacy in data systems](http://doi.acm.org/10.1145/773153.773157)**
-
-**2002**  
-Maurizio Lenzerini:  
-**[Data Integration: A Theoretical Perspective](http://www.acm.org/sigmod/pods/tut/le.pdf)**
-
-Dennis Shasha, Jason Tsong-Li Wang, Rosalba Giugno:  
-**[Algorithmics and Applications of Tree and Graph Searching](http://www.acm.org/sigmod/pods/tut/sh.ppt)**
-
-**2001**  
-Martin Grohe:  
-**[The Parameterized Complexity of Database Queries](http://www.acm.org/sigmod/pods/tut/mg.ps)**
-
-F. T. Leighton:  
-**[The Challenges of Delivering Content on the Internet](http://doi.acm.org/10.1145/375551.375601)**
-
-**2000**  
-Ashish Gupta:  
-**[Entrepreneurship for Information Systems Researchers](http://doi.acm.org/10.1145/335168.335222)**
-
-Moshe Y. Vardi:  
-**[Constraint Satisfaction and Database Theory](http://www.cs.rice.edu/~vardi/papers/pods00tk.ps.gz)**
-
-**1999**  
-Jon M. Kleinberg, Andrew Tomkins:  
-**Applications of Linear Algebra in Information Retrieval and Hypertext Analysis**
-
-J. D. Tygar:  
-**Open Problems in Electronic Commerce**
-
-**1998**  
-Surajit Chaudhuri:  
-**[An Overview of Query Optimization in Relational Systems](ftp://ftp.research.microsoft.com/users/surajitc/pods98_slides.pdf)**
-
-Judith Klavans:  
-**Data Bases in Digital Libraries: Where Computer Science and Information Management Meet**
-
-Jeffrey Scott Vitter:  
-**[External Memory Algorithms](/pods-home/pods-tutorials/Vit.IO_surveyfoils.pdf)**
-
-**1997**  
-Peter Buneman:  
-**[Semistructured Data](/pods-home/pods-tutorials/tutorial-semi-pods.ps.gz)**
-
-Richard Hull:  
-**[Managing Semantic Heterogeneity in Databases: A Theoretical Perspective](http://www-db.research.bell-labs.com/user/hull/pods97-tutorial.html)**
-
-Arie Shoshani:  
-**OLAP and Statistical Databases: Similarities and Differences**
-
-**1996**  
-Max J. Egenhofer:  
-**[Geographic Database Systems: Issues and Research Needs](http://www.spatial.maine.edu/~max/pods.html)**
-
-Udi Manber:  
-**Future Directions and Research Problems in the World Wide Web**
-
-**1995**  
-Nathan Goodman:  
-**Research Problems in Genome Databases**
-
-Paris C. Kanellakis:  
-**[Constraint Programming and Database Languages](http://www.acm.org/sigmod/pods/tut/paris.ps)**
-
-Phokion G. Kolaitis:  
-**[Combinatorial Games In Database Theory](http://www.acm.org/sigmod/pods/tut/phokion.ps)**
-
-**1994**  
-Rakesh Agrawal:  
-**Database Mining**
-
-Gaston H. Gonnet:  
-**Text Dominated Databases, Theory, Practice and Experience**
-
-Val Tannen:  
-**[Languages for Collection Types](/pods-home/pods-tutorials/tutorial-coll-pods.ps.gz)**
-
-**1993**  
-Jan Chomicki:  
-**Temporal Query Languages: a Survey**
-
-Alberto Mendelzon:  
-**Belief Revision Theory and Knowledge Base Updates**
+<ul class="kn-list">
+<li><span class="kn-yr">2026</span><div><div class="kn-item"><span class="kn-who">Mahmoud Abo Khamis</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3788852.3805595">Query Optimization and Evaluation via Information Theory</a></span></div><div class="kn-item"><span class="kn-who">Karl Bringmann</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3788852.3805596">Fine-grained Complexity of Database Queries</a></span></div></div></li>
+<li><span class="kn-yr">2025</span><div><div class="kn-item"><span class="kn-who">Albert Atserias</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3722234.3725823">Local-vs-Global Consistency of Annotated Relations</a></span></div><div class="kn-item"><span class="kn-who">Stefan Mengel</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3722234.3725824">Lower Bounds for Conjunctive Query Evaluation</a></span></div></div></li>
+<li><span class="kn-yr">2024</span><div><div class="kn-item"><span class="kn-who">Thomas Neumann</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3635138.3654765">Closing the Gap Between Theory and Practice in Query Optimization</a></span></div><div class="kn-item"><span class="kn-who">David Woodruff</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3635138.3654766">Approximation Algorithms on Matrices – with some Database Applications!</a></span></div></div></li>
+<li><span class="kn-yr">2023</span><div><div class="kn-item"><span class="kn-who">Edith Cohen</span><span class="kn-title"><a href="https://dl.acm.org/doi/abs/10.1145/3584372.3589935">Sampling Big Ideas in Query Optimization</a></span></div><div class="kn-item"><span class="kn-who">Floris Geerts</span><span class="kn-title"><a href="https://dl.acm.org/doi/abs/10.1145/3584372.3589936">A Query Language Perspective on Graph Learning</a></span></div></div></li>
+<li><span class="kn-yr">2022</span><div><div class="kn-item"><span class="kn-who">Wim Martens</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3517804.3526066">Towards Theory for Real-World Data</a></span></div><div class="kn-item"><span class="kn-who">Rediet Abebe</span><span class="kn-title">Algorithms on Trial: Interrogating Evidentiary Statistical Software</span></div></div></li>
+<li><span class="kn-yr">2021</span><div><div class="kn-item"><span class="kn-who">Dániel Marx</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3452021.3458814">Modern Lower Bound Techniques in Database Theory and Constraint Satisfaction</a> · <a href="https://www.youtube.com/watch?v=IeTrkMbiH5E&list=PL3xUNnH4Tdbt53LHxilTcDdyHdgZ8D_yT&ab_channel=SIGMOD2021">video</a></span></div><div class="kn-item"><span class="kn-who">Barna Saha</span><span class="kn-title"><a href="https://dl.acm.org/doi/abs/10.1145/3452021.3458813">Approximation Algorithms for Large Scale Data Analysis</a> · <a href="https://www.youtube.com/watch?v=w5W5sK56BQg&list=PL3xUNnH4Tdbt53LHxilTcDdyHdgZ8D_yT">video</a></span></div></div></li>
+<li><span class="kn-yr">2020</span><div><div class="kn-item"><span class="kn-who">Adnan Darwiche</span><span class="kn-title"><a href="https://dl.acm.org/doi/abs/10.1145/3375395.3389131">Three Modern Roles for Logic in AI</a></span></div><div class="kn-item"><span class="kn-who">Arnaud Durand</span><span class="kn-title"><a href="https://dl.acm.org/doi/abs/10.1145/3375395.3389130">Fine-Grained Complexity Analysis of Queries: From Decision to Counting and Enumeration</a></span></div></div></li>
+<li><span class="kn-yr">2019</span><div><div class="kn-item"><span class="kn-who">Alan Fekete</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3294052.3322191">Making Consistency Protocols Serializable</a></span></div><div class="kn-item"><span class="kn-who">Suresh Venkatasubramanian</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/3294052.3322192">Algorithmic Fairness: Measures, Methods and Representations</a></span></div></div></li>
+<li><span class="kn-yr">2018</span><div><div class="kn-item"><span class="kn-who">Arvind Narayanan</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=3197545">Blockchains: Past, Present, and Future</a></span></div><div class="kn-item"><span class="kn-who">Rajeev Raman</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=3196992">In-memory Representations of Databases via Succinct Data Structures</a></span></div></div></li>
+<li><span class="kn-yr">2017</span><div><div class="kn-item"><span class="kn-who">Lise Getoor</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=3034786.3056450">Statistical Relational Learning: Unifying AI & DB Perspectives on Structured Probabilistic Models</a></span></div><div class="kn-item"><span class="kn-who">Ke Yi</span><span class="kn-title">Random Sampling on Big Data: Techniques and Applications · <a href="https://www.youtube.com/watch?v=s4aQMiYgShI">video</a></span></div><div class="kn-item"><span class="kn-who">Dan Suciu</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=3056449">Communication Cost in Parallel Query Processing: A Tutorial</a> · <a href="https://www.youtube.com/watch?v=ATvW_S0bazk">video</a></span></div></div></li>
+<li><span class="kn-yr">2016</span><div><div class="kn-item"><span class="kn-who">Sara Cohen</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=2902306">Data Management for Social Networking</a></span></div><div class="kn-item"><span class="kn-who">Frank Neven</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=2902307">Logical Aspects of Massively Parallel and Distributed Systems</a></span></div></div></li>
+<li><span class="kn-yr">2015</span><div><div class="kn-item"><span class="kn-who">Todd J. Green</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=2745780">LogiQL: A Declarative Language for Enterprise Applications</a></span></div><div class="kn-item"><span class="kn-who">Graham Cormode</span><span class="kn-title"><a href="https://dl.acm.org/citation.cfm?id=2745781">Compact Summaries over Large Datasets</a></span></div></div></li>
+<li><span class="kn-yr">2014</span><div><div class="kn-item"><span class="kn-who">Peter J. Haas</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/2594538.2594562">Model-data Ecosystems: Challenges, Tools, and Trends</a></span></div><div class="kn-item"><span class="kn-who">Benny Kimelfeld</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/2594538.2594563">Database Principles in Information Extraction</a></span></div></div></li>
+<li><span class="kn-yr">2013</span><div><div class="kn-item"><span class="kn-who">Piotr Indyk</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/2463664.2465217">Sketching via Hashing: From Heavy Hitters to Compressed Sensing to Sparse Fourier Transform</a> · <a href="http://people.csail.mit.edu/indyk/pods2.pptx">slides</a></span></div><div class="kn-item"><span class="kn-who">Pablo Barcelo</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/2463664.2465216">Querying Graph Databases</a></span></div></div></li>
+<li><span class="kn-yr">2012</span><div><div class="kn-item"><span class="kn-who">Benjamin C. Pierce</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/2213556.2213568">Linguistic Foundations for Bidirectional Transformations</a></span></div><div class="kn-item"><span class="kn-who">Michael W. Mahoney</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/2213556.2213579">Approximate Computation and Implicit Regularization for Very Large-scale Data Analysis</a></span></div></div></li>
+<li><span class="kn-yr">2011</span><div><div class="kn-item"><span class="kn-who">Marcelo Arenas and Jorge Perez</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1989284.1989312">Querying Semantic Web Data with SPARQL: State of the Art and Research Perspectives</a> · <a href="http://web.ing.puc.cl/~marenas/talks/pods11.pdf">slides</a></span></div><div class="kn-item"><span class="kn-who">S. Muthu Muthukrishnan</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1989284.1989314">Data Stream Analysis: Principles and Perspectives</a> · <a href="https://4cc36a90-a-62cb3a1a-s-sites.googlegroups.com/site/algoresearch/pods11.pdf">slides</a></span></div></div></li>
+<li><span class="kn-yr">2010</span><div><div class="kn-item"><span class="kn-who">Gerhard Weikum and Martin Theobald</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1807085.1807097">From Information to Knowledge: Harvesting Entities and Relationships from Web Sources</a></span></div><div class="kn-item"><span class="kn-who">T.S. Jayram</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1807085.1807108">Information Complexity</a></span></div></div></li>
+<li><span class="kn-yr">2009</span><div><div class="kn-item"><span class="kn-who">Lars Arge</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1559795.1559822">Worst-Case Efficient Range Search Indexing</a></span></div><div class="kn-item"><span class="kn-who">Leonid Libkin</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1559795.1559807">The finite model theory toolbox of a database theoretician</a></span></div></div></li>
+<li><span class="kn-yr">2008</span><div><div class="kn-item"><span class="kn-who">Mikolaj Bojanczyk</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1376916.1376925">Effective Characterizations of Tree Logics</a></span></div><div class="kn-item"><span class="kn-who">Wenfei Fan</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1376916.1376940">Dependencies Revisited for Improving Data Quality</a></span></div></div></li>
+<li><span class="kn-yr">2007</span><div><div class="kn-item"><span class="kn-who">Nicole Schweikardt</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1265530.1265537">Machine Models and Lower Bounds for Query Processing</a></span></div><div class="kn-item"><span class="kn-who">Jan Van den Bussche, Dirk Van Gucht, Stijn Vansummeren</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1265530.1265551">A Crash Course on Database Queries</a></span></div></div></li>
+<li><span class="kn-yr">2006</span><div><div class="kn-item"><span class="kn-who">Joseph Y. Halpern</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1142351.1142367">From Statistical Knowledge Bases to Degrees of Belief: An Overview</a></span></div><div class="kn-item"><span class="kn-who">Christoph Koch</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1142351.1142382">Processing Queries on Tree-structured Data Efficiently</a></span></div><div class="kn-item"><span class="kn-who">Enrico Franconi, Sergio Tessaris</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1142351.1142402">The logic of RDF and SPARQL</a></span></div></div></li>
+<li><span class="kn-yr">2005</span><div><div class="kn-item"><span class="kn-who">Johannes Gehrke</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1065167.1065207">Models and Methods for Privacy-preserving Data Publishing and Analysis</a></span></div><div class="kn-item"><span class="kn-who">Monica S. Lam, John Whaley, V. Benjamin Livshits, Michael C. Martin, Dzintars Avots, Michael Carbin, Christopher Unkel</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1065167.1065169">Context-sensitive Program Analysis as Database Queries</a></span></div></div></li>
+<li><span class="kn-yr">2004</span><div><div class="kn-item"><span class="kn-who">Monika Rauch Henzinger</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1055558.1055566">The Past, Present and Future of Web Information Retrieval</a></span></div><div class="kn-item"><span class="kn-who">Thomas Schwentick</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/1055558.1055589">Trees, Automata and XML</a> · <a href="http://lrb.cs.uni-dortmund.de/~tick/Talks/pods04d.pdf">printable slides</a>, <a href="http://lrb.cs.uni-dortmund.de/~tick/Talks/pods04.pdf">slides in motion</a></span></div></div></li>
+<li><span class="kn-yr">2003</span><div><div class="kn-item"><span class="kn-who">Rakesh Agrawal</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/773153.773157">Privacy in data systems</a></span></div></div></li>
+<li><span class="kn-yr">2002</span><div><div class="kn-item"><span class="kn-who">Maurizio Lenzerini</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/543613.543644">Data Integration: A Theoretical Perspective</a> · <a href="http://www.acm.org/sigmod/pods/tut/le.pdf">full version</a></span></div><div class="kn-item"><span class="kn-who">Dennis Shasha, Jason Tsong-Li Wang, Rosalba Giugno</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/543613.543620">Algorithmics and Applications of Tree and Graph Searching</a> · <a href="http://www.acm.org/sigmod/pods/tut/sh.ppt">slides</a></span></div></div></li>
+<li><span class="kn-yr">2001</span><div><div class="kn-item"><span class="kn-who">Martin Grohe</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/375551.375564">The Parameterized Complexity of Database Queries</a> · <a href="http://www.acm.org/sigmod/pods/tut/mg.ps">full version</a></span></div><div class="kn-item"><span class="kn-who">F. T. Leighton</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/375551.375601">The Challenges of Delivering Content on the Internet</a></span></div></div></li>
+<li><span class="kn-yr">2000</span><div><div class="kn-item"><span class="kn-who">Ashish Gupta</span><span class="kn-title"><a href="http://doi.acm.org/10.1145/335168.335222">Entrepreneurship for Information Systems Researchers</a></span></div><div class="kn-item"><span class="kn-who">Moshe Y. Vardi</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/335168.335209">Constraint Satisfaction and Database Theory</a> · <a href="http://www.cs.rice.edu/~vardi/papers/pods00tk.ps.gz">full version</a></span></div></div></li>
+<li><span class="kn-yr">1999</span><div><div class="kn-item"><span class="kn-who">Jon M. Kleinberg, Andrew Tomkins</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/303976.303995">Applications of Linear Algebra in Information Retrieval and Hypertext Analysis</a></span></div><div class="kn-item"><span class="kn-who">J. D. Tygar</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/303976.303986">Open Problems in Electronic Commerce</a></span></div></div></li>
+<li><span class="kn-yr">1998</span><div><div class="kn-item"><span class="kn-who">Surajit Chaudhuri</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/275487.275492">An Overview of Query Optimization in Relational Systems</a> · <a href="ftp://ftp.research.microsoft.com/users/surajitc/pods98_slides.pdf">slides</a></span></div><div class="kn-item"><span class="kn-who">Judith Klavans</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/275487.275513">Data Bases in Digital Libraries: Where Computer Science and Information Management Meet</a></span></div><div class="kn-item"><span class="kn-who">Jeffrey Scott Vitter</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/275487.275501">External Memory Algorithms</a> · <a href="/pods-home/pods-tutorials/Vit.IO_surveyfoils.pdf">slides</a></span></div></div></li>
+<li><span class="kn-yr">1997</span><div><div class="kn-item"><span class="kn-who">Peter Buneman</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/263661.263675">Semistructured Data</a> · <a href="/pods-home/pods-tutorials/tutorial-semi-pods.ps.gz">full version</a></span></div><div class="kn-item"><span class="kn-who">Richard Hull</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/263661.263668">Managing Semantic Heterogeneity in Databases: A Theoretical Perspective</a> · <a href="http://www-db.research.bell-labs.com/user/hull/pods97-tutorial.html">web page</a></span></div><div class="kn-item"><span class="kn-who">Arie Shoshani</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/263661.263682">OLAP and Statistical Databases: Similarities and Differences</a></span></div></div></li>
+<li><span class="kn-yr">1996</span><div><div class="kn-item"><span class="kn-who">Max J. Egenhofer</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/237661.242785">Geographic Database Systems: Issues and Research Needs</a> · <a href="http://www.spatial.maine.edu/~max/pods.html">web page</a></span></div><div class="kn-item"><span class="kn-who">Udi Manber</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/237661.237713">Future Directions and Research Problems in the World Wide Web</a></span></div></div></li>
+<li><span class="kn-yr">1995</span><div><div class="kn-item"><span class="kn-who">Nathan Goodman</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/212433.220202">Research Problems in Genome Databases</a></span></div><div class="kn-item"><span class="kn-who">Paris C. Kanellakis</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/212433.212447">Constraint Programming and Database Languages</a> · <a href="http://www.acm.org/sigmod/pods/tut/paris.ps">full version</a></span></div><div class="kn-item"><span class="kn-who">Phokion G. Kolaitis</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/212433.212461">Combinatorial Games In Database Theory</a> · <a href="http://www.acm.org/sigmod/pods/tut/phokion.ps">full version</a></span></div></div></li>
+<li><span class="kn-yr">1994</span><div><div class="kn-item"><span class="kn-who">Rakesh Agrawal</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/182591.182600">Database Mining</a></span></div><div class="kn-item"><span class="kn-who">Gaston H. Gonnet</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/182591.182655">Text Dominated Databases, Theory, Practice and Experience</a></span></div><div class="kn-item"><span class="kn-who">Val Tannen</span><span class="kn-title"><a href="https://dl.acm.org/doi/10.1145/182591.182608">Languages for Collection Types</a> · <a href="/pods-home/pods-tutorials/tutorial-coll-pods.ps.gz">full version</a></span></div></div></li>
+<li><span class="kn-yr">1993</span><div><div class="kn-item"><span class="kn-who">Jan Chomicki</span><span class="kn-title">Temporal Query Languages: a Survey</span></div><div class="kn-item"><span class="kn-who">Alberto Mendelzon</span><span class="kn-title">Belief Revision Theory and Knowledge Base Updates</span></div></div></li>
+</ul>
