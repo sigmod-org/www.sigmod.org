@@ -6,8 +6,10 @@ section: "sigmod"
 area: "conferences"
 wp_id: 4469
 wp_type: "page"
-updated: "2026-11-13"
+updated: "2026-11-14"
 ---
+
+Since 2017, the SIGMOD conference officers have celebrated the reviewers whose work stood out each year, naming distinguished associate editors (AEs) and program committee (PC) members. The recipients are listed below; the 2017 list is currently missing.
 
 <div class="yr"><div class="yr-year">2026</div><div>
 <div class="yr-group"><p class="yr-label">Distinguished associate editors<span class="count">20</span></p><ul class="names"><li>Aditya Parameswaran</li><li>Amol Deshpande</li><li>Arnd König</li><li>Boon Thau Loo</li><li>Chris Jermaine</li><li>Dan Olteanu</li><li>Divesh Srivastava</li><li>Eugene Wu</li><li>Floris Geerts</li><li>Juliana Freire</li><li>Kenneth Salem</li><li>Manos Athanassoulis</li><li>Paolo Papotti</li><li>Peter Boncz</li><li>S. Sudarshan</li><li>Sharad Mehrotra</li><li>Surajit Chaudhuri</li><li>Tamer Özsu</li><li>Tilmann Rabl</li><li>Wolfgang Gatterbauer</li></ul></div>
