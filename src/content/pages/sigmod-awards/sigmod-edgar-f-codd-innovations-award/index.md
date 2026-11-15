@@ -7,12 +7,19 @@ area: "awards"
 wp_id: 2260
 wp_type: "page"
 wp_parent: 296
-updated: "2026-04-01"
+updated: "2026-11-15"
 ---
 
-**Background:** The SIGMOD Edgar F. Codd Innovations Award is for innovative and highly significant innovations of enduring value to the development, understanding, or use of data systems. The award is given annually (if there is at least one qualified candidate) and consists of a plaque plus an honorarium of $10,000.
+<div class="honor">
+<img src="/assets/people/edgar-f-codd.jpg" alt="Edgar F. (Ted) Codd">
+<div>
+<div class="kicker">In memory of</div>
+<div class="who">Edgar F. (Ted) Codd <small>1923–2003</small></div>
+<p>Inventor of the relational data model, who was responsible for the significant development of the database field as a scientific discipline. Known until 2003 as the SIGMOD Innovations Award, the award was renamed in his honor in 2004, with the unanimous approval of ACM Council.</p>
+</div>
+</div>
 
-Until 2003, this award was known as the “SIGMOD Innovations Award.” In 2004, SIGMOD, with the unanimous approval of ACM Council, decided to rename the award to honor Dr. E.F. (Ted) Codd (1923 – 2003) who invented the relational data model and was responsible for the significant development of the database field as a scientific discipline.
+**Background:** The SIGMOD Edgar F. Codd Innovations Award is for innovative and highly significant innovations of enduring value to the development, understanding, or use of data systems. The award is given annually (if there is at least one qualified candidate) and consists of a plaque plus an honorarium of $10,000.
 
 **Eligibility:** Anyone except the current elected officers of SIGMOD (Chair, Vice Chair, and Treasurer), and members of the SIGMOD Awards Committee. Awards should be for *innovations* not already honored by a major ACM Award (e.g., the Turing Award, a SIGMOD Edgar F. Codd Innovations Award, or a SIGMOD Contributions Award). A candidate can be considered for multiple awards as long as each is for a distinct innovation.
 
@@ -28,7 +35,7 @@ Until 2003, this award was known as the “SIGMOD Innovations Award.” In 2004,
 <figure><img src="/wp-content/uploads/2022/05/suciu-photo-232x300.png" alt="Dan Suciu" loading="lazy"><figcaption><span>2022</span><strong>Dan Suciu</strong><a title="Dan Suciu" href="/dan-suciu-2022-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>
 <figure><img src="/assets/people/alon-halevy.jpg" alt="Alon Halevy" loading="lazy"><figcaption><span>2021</span><strong>Alon Halevy</strong><a href="/alon-halevy-2021-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>
 <figure><img src="/wp-content/uploads/2020/05/download.jpg" alt="Beng Chin Ooi" loading="lazy"><figcaption><span>2020</span><strong>Beng Chin Ooi</strong><a title="Beng Chin Ooi" href="/sigmod-awards/people/beng-chin-ooi-2020-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>
-<figure><img src="/wp-content/uploads/2019/06/177957-150x150.jpg" alt="Anastasia Ailamaki" loading="lazy"><figcaption><span>2019</span><strong>Anastasia Ailamaki</strong><a title="Anastasia Ailamaki" href="/sigmod-awards/people/anastasia-ailamaki-2019-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>
+<figure><img src="/assets/people/anastasia-ailamaki.jpg" alt="Anastasia Ailamaki" loading="lazy"><figcaption><span>2019</span><strong>Anastasia Ailamaki</strong><a title="Anastasia Ailamaki" href="/sigmod-awards/people/anastasia-ailamaki-2019-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>
 <figure><img src="/wp-content/uploads/2018/05/raghu.jpg" alt="Raghu Ramakrishnan" loading="lazy"><figcaption><span>2018</span><strong>Raghu Ramakrishnan</strong><a title="Raghu Ramakrishnan" href="/sigmod-awards/people/raghu-ramakrishnan-2018-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>
 <figure><img src="/assets/people/goetz-graefe.jpg" alt="Goetz Graefe" loading="lazy"><figcaption><span>2017</span><strong>Goetz Graefe</strong><a title="Goetz Graefe" href="/sigmod-awards/people/goetz-graefe-2017-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>
 <figure><img src="/assets/people/gerhard-weikum.jpg" alt="Gerhard Weikum" loading="lazy"><figcaption><span>2016</span><strong>Gerhard Weikum</strong><a title="Gerhard Weikum" href="/sigmod-awards/people/gerhard-weikum-2016-sigmod-edgar-f-codd-innovations-award/">citation</a></figcaption></figure>

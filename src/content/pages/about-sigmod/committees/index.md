@@ -73,8 +73,8 @@ Carsten Binnig, Rada Chirkova, Alfons Kemper, Samuel Madden, Julia Stoyanovich, 
 
 ### Past committees
 
--   [SIGMOD Awards Committee, since 1999](/sigmod-awards/committees/sigmod-awards-committee/)
--   [Jim Gray Doctoral Dissertation Award Committee](/sigmod-awards/committees/jim-gray-doctoral-dissertation-awards-committee/)
--   [Systems Award Committee](/sigmod-awards/committees/systems-awards-committee/)
--   [SIGMOD Executive Committee, since 1969](/sigmod-history/officers/)
--   [SIGMOD Conference program chairs](/sigmod-history/program-chair/)
+-   [SIGMOD Awards Committee](/sigmod-awards/committees/sigmod-awards-committee/) (since 1999)
+-   [Jim Gray Doctoral Dissertation Award Committee](/sigmod-awards/committees/jim-gray-doctoral-dissertation-awards-committee/) (since 2006)
+-   [SIGMOD Executive Committee](/sigmod-history/officers/) (since 1969)
+-   [SIGMOD Conference program chairs](/sigmod-history/program-chair/) (since 1975)
+-   [Systems Award Committee](/sigmod-awards/committees/systems-awards-committee/) (2015–2019)

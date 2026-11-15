@@ -11,7 +11,7 @@ updated: "2026-11-12"
 ---
 
 <div class="award-team">
-<figure><img src="/wp-content/uploads/2019/06/177957-150x150.jpg" alt="Anastasia Ailamaki"><figcaption>Anastasia Ailamaki</figcaption></figure>
+<figure><img src="/assets/people/anastasia-ailamaki.jpg" alt="Anastasia Ailamaki"><figcaption>Anastasia Ailamaki</figcaption></figure>
 </div>
 
 > **Anastasia Ailamaki** is the recipient of the 2019 ACM SIGMOD Edgar F. Codd Innovations Award for her pioneering work on the architecture of database systems, its interaction with computer architecture, and scientific data management.
