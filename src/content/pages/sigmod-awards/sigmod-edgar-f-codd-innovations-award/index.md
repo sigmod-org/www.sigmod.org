@@ -13,7 +13,7 @@ updated: "2026-11-15"
 <div class="honor">
 <img src="/assets/people/edgar-f-codd.jpg" alt="Edgar F. (Ted) Codd">
 <div>
-<div class="kicker">In memory of</div>
+<div class="kicker">Named in honor of</div>
 <div class="who">Edgar F. (Ted) Codd <small>1923–2003</small></div>
 <p>Inventor of the relational data model, who was responsible for the significant development of the database field as a scientific discipline. Known until 2003 as the SIGMOD Innovations Award, the award was renamed in his honor in 2004, with the unanimous approval of ACM Council.</p>
 </div>

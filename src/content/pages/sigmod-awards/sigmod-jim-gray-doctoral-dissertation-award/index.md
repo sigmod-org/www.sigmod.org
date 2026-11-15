@@ -13,7 +13,7 @@ updated: "2026-11-15"
 <div class="honor">
 <img src="/assets/people/jim-gray.jpg" alt="Jim Gray">
 <div>
-<div class="kicker">In memory of</div>
+<div class="kicker">Named in honor of</div>
 <div class="who">Jim Gray <small>1944–2007</small></div>
 <p>Recipient of the 1998 ACM Turing Award for seminal contributions to database and transaction processing research, and a generous mentor to many in the field. In 2008, with the unanimous approval of ACM Council, the award was renamed in his honor.</p>
 </div>
