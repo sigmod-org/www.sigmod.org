@@ -7,10 +7,19 @@ area: "awards"
 wp_id: 2270
 wp_type: "page"
 wp_parent: 296
-updated: "2026-11-13"
+updated: "2026-11-15"
 ---
 
-The annual ACM SIGMOD Doctoral Dissertation Award, inaugurated in 2006, recognizes excellent research by doctoral candidates in the database field. In 2008, SIGMOD, with the unanimous approval of ACM Council, decided to rename the award to honor Dr. Jim Gray.  The [SIGMOD Jim Gray Doctoral Dissertation Award Committee](/sigmod-awards/committees/jim-gray-doctoral-dissertation-awards-committee/) determines the recipient(s) of the award. Previous winners of the award are listed below.
+<div class="honor">
+<img src="/assets/people/jim-gray.jpg" alt="Jim Gray">
+<div>
+<div class="kicker">In memory of</div>
+<div class="who">Jim Gray <small>1944–2007</small></div>
+<p>Recipient of the 1998 ACM Turing Award for seminal contributions to database and transaction processing research, and a generous mentor to many in the field. In 2008, with the unanimous approval of ACM Council, the award was renamed in his honor.</p>
+</div>
+</div>
+
+The annual ACM SIGMOD Doctoral Dissertation Award, inaugurated in 2006, recognizes excellent research by doctoral candidates in the database field. The [SIGMOD Jim Gray Doctoral Dissertation Award Committee](/sigmod-awards/committees/jim-gray-doctoral-dissertation-awards-committee/) determines the recipient(s) of the award. Previous winners of the award are listed below.
 
 <div class="yr"><div class="yr-year">2026</div><div>
 <div class="yr-group"><p class="yr-label">Winners</p><div class="diss-win"><div class="diss-card"><div class="diss-name">Hangdong Zhao</div><div class="diss-meta">Advisor: Paraschos Koutris · University of Wisconsin</div><div class="diss-title">Advancing Join Algorithms for Real-world Queries</div></div><div class="diss-card"><div class="diss-name">Wenqi Jiang</div><div class="diss-meta">Advisor: Gustavo Alonso · ETH Zurich</div><div class="diss-title">Vector-Centric Machine Learning Systems: A Cross-Stack Approach</div></div></div></div>
