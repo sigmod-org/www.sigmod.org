@@ -159,6 +159,11 @@
       control = h('input', { type: f.type === 'email' ? 'email' : f.type === 'url' ? 'url' : 'text', id: id, name: f.key,
         autocomplete: f.autocomplete || 'off' });
       control.value = value || '';
+      if (f.suggestions && f.suggestions.length) {
+        // Suggestions people can pick from or type over.
+        control.setAttribute('list', id + '-list');
+        add(wrap, h('datalist', { id: id + '-list' }, f.suggestions.map(function (o) { return h('option', { value: o }); })));
+      }
     }
     add(wrap, control);
     if (f.maxWords || f.minWords) {
@@ -204,7 +209,8 @@
     { key: 'name', label: 'Name', type: 'text', required: true },
     { key: 'email', label: 'E-mail', type: 'email', required: true },
     { key: 'affiliation', label: 'Affiliation', type: 'text', required: true },
-    { key: 'relationship', label: 'Relationship to the nominee', type: 'text', required: false }
+    { key: 'relationship', label: 'Relationship to the nominee', type: 'text', required: true,
+      help: 'Pick a suggestion or type your own.' }
   ];
 
   /** One endorser block. */
@@ -218,6 +224,7 @@
     var grid = h('div', { class: 'grid2' });
     ENDORSER_FIELDS.forEach(function (f) {
       var ff = Object.assign({}, f, { key: 'e' + index + '-' + f.key });
+      if (f.key === 'relationship') ff.suggestions = award.endorsers.relationships;
       var w = fieldEl(ff, data[f.key]);
       map[f.key] = w;
       add(grid, w);
@@ -594,7 +601,7 @@
         h('div', { class: 'actions' }, cBtn, cProg));
     }
     var statusNote;
-    if (editable) statusNote = h('div', { class: 'note' }, 'Next cut-off: ' + deadlineText(B.cycle) + '. Bookmark this page; anyone with the link can edit the nomination.');
+    if (editable) statusNote = h('div', { class: 'note' }, 'Next cut-off: ' + deadlineText(B.cycle) + '. Bookmark this page. This link is just for you, so please don’t forward it: anyone who has it can edit the nomination. Endorsers get their own links, which show the nomination read-only.');
     else if (n.status === 'unconfirmed') statusNote = null;
     else statusNote = h('div', { class: 'note warn' }, 'This nomination is ' + n.status + ' and can no longer be changed. Contact ' + CONFIG.replyTo + ' with questions.');
     mount(
@@ -616,9 +623,9 @@
     award.fields.forEach(function (f) {
       if (f.type === 'file') {
         if (d.files.indexOf(f.key) < 0) return;
-        add(kv, [h('dt', null, f.label), h('dd', null, h('button', { type: 'button', class: 'link', onclick: function (e) { download('e', f.key, e.target); } }, 'Download PDF'))]);
+        add(kv, [h('dt', null, f.viewLabel || f.label), h('dd', null, h('button', { type: 'button', class: 'link', onclick: function (e) { download('e', f.key, e.target); } }, 'Download PDF'))]);
       } else if (d.fields[f.key]) {
-        add(kv, [h('dt', null, f.label), h('dd', null, d.fields[f.key])]);
+        add(kv, [h('dt', null, f.viewLabel || f.label), h('dd', null, d.fields[f.key])]);
       }
     });
 

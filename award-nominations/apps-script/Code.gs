@@ -254,9 +254,8 @@ function apiUpdateNomination(token, p) {
     nom.nomineeEmail = award.nomineeEmailKey ? fields[award.nomineeEmailKey] : '';
     nom.updated = new Date();
     save('Nominations', nom, ['data', 'files', 'title', 'nomineeEmail', 'updated']);
+    // Reported to the admins in the next daily digest (mailAdminDigest), not one e-mail per save.
     log('update', nom.id, nom.nominatorEmail, { changed: changed });
-    mailAdmins('Nomination ' + nom.id + ' updated: ' + nom.title, '<p>Changed: ' + esc(changed.join(', ') || 'nothing') +
-      '</p>' + adminSummaryHtml(nom));
   });
   buildSummary(nom);
   return { ok: true, nomination: nominatorView(token) };

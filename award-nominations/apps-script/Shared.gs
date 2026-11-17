@@ -81,6 +81,7 @@ function validateEndorsers(award, endorsers, ctx) {
     var err = {};
     if (!String(e.name || '').trim()) err.name = 'Required.';
     if (!String(e.affiliation || '').trim()) err.affiliation = 'Required.';
+    if (!String(e.relationship || '').trim()) err.relationship = 'Required.';
     if (!isEmail(e.email)) err.email = 'Not a valid e-mail address.';
     var em = normEmail(e.email);
     if (em && ctx.nomineeEmail && em === normEmail(ctx.nomineeEmail)) err.email = 'The nominee cannot write a supporting letter.';

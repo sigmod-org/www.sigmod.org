@@ -32,6 +32,52 @@ function mailAdmins(subject, html) {
     htmlBody: wrapMail(html), body: htmlToText(html), name: CONFIG.senderName });
 }
 
+/**
+ * Admins get new nominations and withdrawals right away. Everything else
+ * (edits, endorsers added or removed, letters received, replaced or
+ * declined) is collected from the Log sheet into one e-mail a day, sent by
+ * dailyJob only when something happened since the last one.
+ */
+var DIGEST_ACTIONS = {
+  'update': function (d) { return 'Nominator updated: ' + ((d.changed || []).join(', ') || 'no visible change'); },
+  'add-endorser': function (d) { return 'Endorser added: ' + d.endorser; },
+  'remove-endorser': function (d) { return 'Endorser removed: ' + d.endorser; },
+  'letter': function (d, who) { return 'Letter received from ' + who; },
+  'letter-replaced': function (d, who) { return 'Letter replaced by ' + who; },
+  'decline': function (d, who, raw) { return 'Declined by ' + who + (raw ? ': “' + raw + '”' : ''); }
+};
+
+function mailAdminDigest() {
+  var p = PropertiesService.getScriptProperties();
+  var now = new Date();
+  var since = Number(p.getProperty('DIGEST_SINCE')) || now.getTime() - 86400000;
+  var rows = readAll('Log').filter(function (r) {
+    return r.time instanceof Date && r.time.getTime() > since && r.time.getTime() <= now.getTime() && DIGEST_ACTIONS[r.action];
+  });
+  p.setProperty('DIGEST_SINCE', String(now.getTime()));
+  if (!rows.length) return 0;
+  var byNom = {}, order = [];
+  rows.forEach(function (r) {
+    if (!byNom[r.nominationId]) { byNom[r.nominationId] = []; order.push(r.nominationId); }
+    var d = null;
+    try { d = JSON.parse(r.details); } catch (x) { /* plain text */ }
+    var isObj = d !== null && typeof d === 'object';
+    byNom[r.nominationId].push(Utilities.formatDate(r.time, 'UTC', 'MMM d, HH:mm') + ' UTC · ' +
+      DIGEST_ACTIONS[r.action](isObj ? d : {}, r.who, isObj ? '' : String(r.details || '')));
+  });
+  var noms = readAll('Nominations');
+  var html = '<p>Activity since ' + Utilities.formatDate(new Date(since), 'UTC', 'MMM d, HH:mm') + ' UTC:</p>' +
+    order.map(function (id) {
+      var n = noms.filter(function (x) { return x.id === id; })[0];
+      return '<p style="margin-bottom:4px"><b>' + esc(id) + (n ? ': ' + esc(n.title) + '</b> (' + esc(AWARDS[n.award].short) + ')' : '</b>') +
+        (n ? ' · <a href="' + n.folderUrl + '">Drive folder</a>' : '') + '</p><ul style="margin-top:0">' +
+        byNom[id].map(function (l) { return '<li>' + esc(l) + '</li>'; }).join('') + '</ul>';
+    }).join('');
+  mailAdmins('Daily activity: ' + rows.length + ' change' + (rows.length === 1 ? '' : 's') + ' in ' +
+    order.length + ' nomination' + (order.length === 1 ? '' : 's'), html);
+  return rows.length;
+}
+
 function wrapMail(inner) {
   return '<div style="font:15px/1.55 -apple-system,Segoe UI,Helvetica,Arial,sans-serif;color:#1f2937;max-width:620px">' +
     inner + '<p style="color:#6b7280;font-size:13px;margin-top:28px;border-top:1px solid #e5e7eb;padding-top:12px">' +
@@ -84,7 +130,7 @@ function mailNominationReceived(nom) {
     (es.length ? '<p>We have invited ' + es.length + ' endorser' + (es.length > 1 ? 's' : '') + ' (' +
       esc(es.map(function (e) { return e.name; }).join(', ')) + ') to submit their letters by ' + fmtDeadline(nom.firstCycle) +
       '. You can follow their progress, but not read their letters, on your nomination page.</p>' : '') +
-    '<p>Use this private link to check status, update the nomination, or change endorsers. Keep it; anyone with the link can edit the nomination.</p>' +
+    '<p>Use this private link to check status, update the nomination, or change endorsers. It is just for you, so please keep it and don’t forward it: anyone who has it can edit the nomination. Endorsers get their own links, which show the nomination read-only and let them upload only their own letter.</p>' +
     button(statusUrl(nom), 'Open your nomination'));
 }
 
@@ -183,7 +229,7 @@ function buildSummary(nom) {
   var deadline = deadlineFor(cycleFor(new Date()));
   var rows = award.fields.map(function (f) {
     var v = f.type === 'file' ? (files[f.key] ? 'Attached: ' + f.label + '.pdf' : '—') : (data[f.key] || '—');
-    return '<tr><th>' + esc(f.label) + '</th><td>' + esc(v).replace(/\n/g, '<br>') + '</td></tr>';
+    return '<tr><th>' + esc(f.viewLabel || f.label) + '</th><td>' + esc(v).replace(/\n/g, '<br>') + '</td></tr>';
   }).join('');
   var letters = es.map(function (e) {
     var late = e.submittedAt instanceof Date && e.submittedAt > deadlineFor(nom.firstCycle) ? ' (after ' + nom.firstCycle + ' cut-off)' : '';

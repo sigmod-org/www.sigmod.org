@@ -139,7 +139,10 @@ function dailyJob() {
     });
   }
 
-  // 4. Delete uploads that were never attached to a submitted form.
+  // 4. One e-mail to the admins with the day's edits, endorser changes and letters.
+  mailAdminDigest();
+
+  // 5. Delete uploads that were never attached to a submitted form.
   var it = stagingFolder().getFiles();
   while (it.hasNext()) {
     var f = it.next();

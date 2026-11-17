@@ -15,10 +15,12 @@ var CONFIG = {
   // Replies to every e-mail the system sends go here.
   replyTo: 'sigmodec@gmail.com',
 
-  // Who gets a copy of every new nomination, update and withdrawal (the
+  // Who gets the notices (the
   // Awards Chair, the Secretary, ...) is NOT kept in this public file: set it
   // in the spreadsheet with Nominations → Set notification e-mails. It is
-  // stored in the script's properties. Until it is set, notices go here:
+  // stored in the script's properties. New nominations and withdrawals are
+  // sent right away; edits, endorser changes and letters arrive as one daily
+  // digest (dailyJob, 7am), only on days with activity. Until set, notices go here:
   notifyFallback: ['sigmodec@gmail.com'],
 
   // While true, every e-mail (including the notices above) goes only to
@@ -77,6 +79,21 @@ var NOMINEE_PERSON = [
   { key: 'nomineeAffiliation', label: 'Nominee affiliation', type: 'text', required: true, section: 'Nominee' }
 ];
 
+// Suggestions offered (but not imposed) for "relationship to the nominee",
+// asked of nominators and endorsers. People can pick one or type their own.
+var RELATIONSHIPS = ['Colleague at the same institution', 'Former colleague', 'Collaborator / co-author',
+  'Former PhD student', 'Former postdoc', 'PhD advisor', 'Mentor', 'Colleague through professional service'];
+// The Mentorship Award's letters come mostly from mentees, so they are listed first.
+var MENTEE_RELATIONSHIPS = ['Former PhD student (mentee)', 'Former postdoc (mentee)',
+  'Former intern or junior colleague (mentee)', 'Mentee, not directly supervised'];
+
+// The nominator's relationship to a nominee who is a person.
+function nominatorRelationship(suggestions) {
+  return { key: 'nominatorRelationship', label: 'Your relationship to the nominee', type: 'text', required: true,
+    suggestions: suggestions || RELATIONSHIPS, viewLabel: 'Nominator’s relationship to the nominee', section: 'Nominee',
+    help: 'Pick a suggestion or type your own.' };
+}
+
 var CITATION = { key: 'citation', label: 'Proposed citation', type: 'textarea', rows: 2, required: true, maxWords: 25,
   help: 'Up to 25 words.', section: 'Nomination' };
 
@@ -91,6 +108,7 @@ var AWARDS = {
     titleKey: 'nomineeName',
     nomineeEmailKey: 'nomineeEmail',
     fields: NOMINEE_PERSON.concat([
+      nominatorRelationship(),
       CITATION,
       { key: 'description', label: 'Description of the innovation', type: 'textarea', rows: 8, required: true,
         minWords: 100, maxWords: 250, help: '100–250 words.', section: 'Nomination' },
@@ -98,7 +116,7 @@ var AWARDS = {
         help: 'A detailed statement justifying the nomination (PDF).', section: 'Nomination' },
       { key: 'cv', label: 'Nominee CV', type: 'file', required: true, help: 'PDF.', section: 'Nomination' }
     ]),
-    endorsers: { min: 0, max: 3,
+    endorsers: { min: 0, max: 3, relationships: RELATIONSHIPS,
       help: 'Up to three supporting letters. Letters should convey additional facts, not simply endorse the nomination.' }
   },
 
@@ -112,6 +130,7 @@ var AWARDS = {
     titleKey: 'nomineeName',
     nomineeEmailKey: 'nomineeEmail',
     fields: NOMINEE_PERSON.concat([
+      nominatorRelationship(),
       CITATION,
       { key: 'description', label: 'Description of the contribution', type: 'textarea', rows: 8, required: true,
         minWords: 100, maxWords: 250, help: '100–250 words.', section: 'Nomination' },
@@ -119,7 +138,7 @@ var AWARDS = {
         help: 'A detailed statement justifying the nomination (PDF).', section: 'Nomination' },
       { key: 'cv', label: 'Nominee CV', type: 'file', required: true, help: 'PDF.', section: 'Nomination' }
     ]),
-    endorsers: { min: 0, max: 3,
+    endorsers: { min: 0, max: 3, relationships: RELATIONSHIPS,
       help: 'Up to three supporting letters. Letters should convey additional facts, not simply endorse the nomination.' }
   },
 
@@ -133,10 +152,12 @@ var AWARDS = {
     titleKey: 'nomineeName',
     nomineeEmailKey: 'nomineeEmail',
     fields: NOMINEE_PERSON.concat([
+      nominatorRelationship(),
       { key: 'statement', label: 'Nomination letter', type: 'file', required: true,
         help: 'Up to 2 pages (PDF).', section: 'Nomination' }
     ]),
     endorsers: { min: 3, max: 5, requireNonSupervisee: true,
+      relationships: MENTEE_RELATIONSHIPS.concat(RELATIONSHIPS),
       help: 'At least three supporting letters, at least one from someone the nominee did not directly supervise.' }
   },
 
@@ -159,7 +180,7 @@ var AWARDS = {
       { key: 'supporting', label: 'Additional material (optional)', type: 'file', required: false,
         help: 'PDF.', section: 'Nomination' }
     ],
-    endorsers: { min: 0, max: 3,
+    endorsers: { min: 0, max: 3, relationships: RELATIONSHIPS,
       help: 'Up to three supporting letters. Letters should convey additional facts, not simply endorse the nomination.' }
   },
 

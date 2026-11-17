@@ -39,7 +39,7 @@ The same code runs in three ways:
 |---|---|---|
 | **Web app** (`doPost`, `doGet`) | Every click on the sigmod.org page: submit, confirm, upload, edit, letter | The page sends `{fn, args}` to the `/exec` URL. `doPost` runs the matching `api*` function in `Code.gs` (only those listed in `API_FUNCTIONS`) and returns JSON. It runs as sigmodec, so it can write to the sheet and Drive and send mail. |
 | **Spreadsheet menu** (`Admin.gs`) | You, in the sheet, under **Nominations** | One-off admin tasks: first-time setup, importing e-mail nominations, building the committee folder, regenerating summary PDFs, running the daily job by hand |
-| **Daily trigger** (`dailyJob`) | Google, every morning around 7am New York time | Reminders, carry-over notices, expiring and abandoning nominations, cleaning up uploads. It's created by Setup; you can see it in the editor under **Triggers** (clock icon). |
+| **Daily trigger** (`dailyJob`) | Google, every morning around 7am New York time | Reminders, carry-over notices, the admins' daily digest, expiring and abandoning nominations, cleaning up uploads. It's created by Setup; you can see it in the editor under **Triggers** (clock icon). |
 
 **Where things are recorded:**
 - **Data:** the sheet's tabs. `Nominations` and `Endorsements` hold one row per nomination and per endorser, and `Log` records every action.
@@ -50,7 +50,7 @@ The same code runs in three ways:
 
 ## Changing who gets the notices
 
-Whenever a nominator confirms, edits or withdraws a nomination, an e-mail with the subject `[SIGMOD Awards nominations] …` goes to a short list of people: normally the **Awards Chair**, the **SIGMOD Secretary** and **sigmodec@gmail.com**. The list is **not in the code**, so it isn't published in this public repo and can change without a deploy. It's stored in the Apps Script project's *script properties* under the key `NOTIFY_EMAILS`.
+When a nominator confirms or withdraws a nomination, an e-mail with the subject `[SIGMOD Awards nominations] …` goes right away to a short list of people. Everything else (edits, endorsers added or removed, letters received, replaced or declined) is collected from the Log sheet into one **daily digest** from `dailyJob`, sent only on days with activity. The recipients are normally the **Awards Chair**, the **SIGMOD Secretary** and **sigmodec@gmail.com**. The list is **not in the code**, so it isn't published in this public repo and can change without a deploy. It's stored in the Apps Script project's *script properties* under the key `NOTIFY_EMAILS`.
 
 **To change it, for example when a new Awards Chair takes over:**
 
