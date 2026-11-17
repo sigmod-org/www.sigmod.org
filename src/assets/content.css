@@ -156,7 +156,6 @@
 .prose .count { font-weight: 500; color: var(--muted); text-transform: none; letter-spacing: 0; margin-left: 6px; }
 .prose .names { columns: 3 190px; column-gap: 24px; list-style: none; padding: 0; margin: 0; font-size: 14.5px; }
 .prose .names li { break-inside: avoid; padding: 1px 0; margin: 0; }
-.prose .names.outstanding li { font-weight: 600; color: var(--ink); }
 .prose .places { list-style: none; padding: 0; margin: 0; display: grid; gap: 6px; }
 .prose .places li { display: grid; grid-template-columns: 70px minmax(0, 1fr); gap: 10px; margin: 0; }
 .prose .places .pl { font: 600 12px var(--sans); color: var(--muted); padding-top: 3px; }
@@ -190,3 +189,11 @@
 .prose .kn-who { display: block; font-weight: 600; color: var(--ink); }
 .prose .kn-title { display: block; font-size: 15px; margin-top: 1px; }
 .prose .kn-item + .kn-item { margin-top: 10px; }
+
+/* Distinguished AEs/PCs: most often recognized */
+.prose .toprec { background: var(--accent-soft); border-radius: 12px; padding: 16px 20px 14px; margin: 4px 0 26px; }
+.prose .toprec ol { list-style: none; padding: 0; margin: 0; columns: 2 260px; column-gap: 32px; }
+.prose .toprec li { break-inside: avoid; display: grid; grid-template-columns: 26px minmax(0, 1fr); gap: 10px; align-items: baseline; padding: 5px 0; margin: 0; }
+.prose .tr-n { font: 600 20px/1 var(--serif); color: var(--accent); text-align: right; }
+.prose .tr-who b { display: block; font-weight: 600; color: var(--ink); font-size: 15px; }
+.prose .tr-who span { display: block; font-size: 12.5px; color: var(--muted); }

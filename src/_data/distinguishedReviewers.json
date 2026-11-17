@@ -1,0 +1,146 @@
+{
+  "_readme": "Distinguished AEs/PCs, newest year first. Add a new year at the top of 'years'. 'aliases' maps a spelling variant to the name used for counting the 'Most often recognized' list.",
+  "aliases": {
+    "Ken Ross": "Kenneth Ross",
+    "Ken Salem": "Kenneth Salem",
+    "Oliver A. Kennedy": "Oliver Kennedy",
+    "Sourav S Bhowmick": "Sourav Bhowmick",
+    "Gabriela Jacques da Silva": "Gabriela Jacques-Silva"
+  },
+  "years": [
+    {
+      "year": 2026,
+      "groups": [
+        {
+          "label": "Distinguished associate editors",
+          "names": ["Aditya Parameswaran", "Amol Deshpande", "Arnd König", "Boon Thau Loo", "Chris Jermaine", "Dan Olteanu", "Divesh Srivastava", "Eugene Wu", "Floris Geerts", "Juliana Freire", "Kenneth Salem", "Manos Athanassoulis", "Paolo Papotti", "Peter Boncz", "S. Sudarshan", "Sharad Mehrotra", "Surajit Chaudhuri", "Tamer Özsu", "Tilmann Rabl", "Wolfgang Gatterbauer"]
+        },
+        {
+          "label": "Outstanding PC members",
+          "names": ["Aidan Hogan", "Graham Cormode", "Hank Korth", "Qichen Wang"]
+        },
+        {
+          "label": "Distinguished PC members",
+          "names": ["Adina Crainiceanu", "Ahmed Eldawy", "Alberto Lerner", "Alexander Boehm", "Amr Magdy", "Andreas Kipf", "Andrew Pavlo", "Antonis Deligiannakis", "Anupam Sanghi", "Arijit Khan", "Bailu Ding", "Bernhard Seeger", "Brit Youngmann", "Clemens Lutz", "Denis Him", "Donatella Firmani", "Enzo Veltri", "Eser Kandogan", "Faisal Nawab", "Felix Schuhknecht", "Florian Kerschbaum", "Florin Rusu", "Hannes Voigt", "Haozhe Zhang", "Hazar Harmouch", "Holger Pirk", "Ibrahim Sabek", "Ioannis Demertzis", "Jana Giceva", "John Paparrizos", "Kaisong Huang", "Kexin Rong", "Konstantinos Karanasos", "Martin Boissier", "Matthias Weidlich", "Michael Abebe", "Michael Bohlen", "Milos Nikolic", "Muhammad El-Hindi", "Nicolas Bruno", "Nikolaos Tziavelis", "Nikos Mamoulis", "Niv Dayan", "Norman May", "Parke Godfrey", "Pierre Senellart", "Rachel Pottinger", "Ryan Marcus", "Sebastian Bress", "Sebastian Link", "Sepanta Zeighami", "Shaleen Deep", "Shantanu Sharma", "Silu Huang", "Stavros Sintos", "Sujaya Maiyya", "Sven Helmer", "Tiemo Bang", "Tobias Ziegler", "Torben Bach Pedersen", "Uwe Roehm", "Varun Pandey", "Vasiliki Kalavri", "Viktor Sanca", "Wook-Shin Han", "Xi He", "Yannis Chronis", "Yannis Foufoulas", "Zhouyue Zhao", "Zichen Zhu"]
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "groups": [
+        {
+          "label": "Distinguished associate editors",
+          "names": ["Amol Deshpande", "Ashraf Aboulnaga", "Boris Glavic", "Jennie Rogers", "Jun Yang", "Karima Echihabi", "Mohamed Mokbel", "Oliver A. Kennedy", "Paolo Papotti", "Stratos Idreos", "Wolfgang Gatterbauer"]
+        },
+        {
+          "label": "Distinguished PC members",
+          "names": ["Alexander Boehm", "Arijit Khan", "Bailu Ding", "Da Yan", "Daichi Amagata", "Dixin Tang", "Eliana Pastor", "Eser Kandogan", "Essam Mansour", "Fatemeh Nargesian", "Francesco Gullo", "Hannes Voigt", "Haridimos Kondylakis", "Ibrahim Sabek", "Jan Van den Bussche", "Jian Tan", "Kaushik Rajan", "Kaustubh Beedkar", "Konstantinos Karanasos", "Kurt Stockinger", "Lukasz Golab", "Manos Athanassoulis", "Marco Serafini", "Matteo Brucato", "Matteo Paganelli", "Matthias Weidlich", "Michael Grossniklaus", "Milos Nikolic", "Nikolaos Tziavelis", "Norman May", "Odysseas Papapetrou", "Peter Boncz", "Rainer Gemulla", "Rebecca Taft", "Sainyam Galhotra", "Sajjadur Rahman", "Sebastian Link", "Stefania Dumbrava", "Stijn Vansummeren", "Surajit Chaudhuri", "Suyash Gupta", "Tiemo Bang", "Ting Yu", "Tingjian Ge", "Torsten Grust", "Vasilis Efthymiou", "Venkatesh Emani", "Verena Kantere", "Vivek Narasayya", "Walid Aref", "Xi He", "Xiangyao Yu", "Yinan Li", "Yuliang Li", "Ziawasch Abedjan"]
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "groups": [
+        {
+          "label": "Distinguished associate editors",
+          "names": ["Ashraf Aboulnaga", "Carsten Binnig", "Wolfgang Gatterbauer", "Arun Kumar", "Volker Markl", "Kyriakos Mouratidis", "Jignesh Patel", "Sudeepa Roy", "Kian-Lee Tan"]
+        },
+        {
+          "label": "Distinguished PC members",
+          "names": ["Manos Athanassoulis", "Matthias Boehm", "Niv Dayan", "Anna Fariha", "Melanie Herschel", "Aidan Hogan", "Bettina Kemme", "Arijit Khan", "Amr Magdy", "Nikos Mamoulis", "Ioana Manolescu", "Michael Mathioudakis", "Sharad Mehrotra", "Tilmann Rabl", "Kexin Rong", "Marco Serafini", "Kyuseok Shim", "Sandeep Tata", "Matthias Weidlich", "Yuhao Zhang", "Andreas Züfle"]
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "groups": [
+        {
+          "label": "Distinguished associate editors",
+          "names": ["Stefan Manegold", "Sourav S Bhowmick", "Semih Salihoglu", "Huiping Cao", "Zhifeng Bao", "Dan Suciu"]
+        },
+        {
+          "label": "Distinguished PC members · Industry track",
+          "names": ["Shaleen Deep"]
+        },
+        {
+          "label": "Distinguished PC members · Research track",
+          "names": ["Manos Athanassoulis", "Carsten Binnig", "Matthias Boehm", "Byron Choi", "Theodore Dalamagas", "Anna Fariha", "Vasiliki Kalavri", "Daniel Kang", "Ulf Leser", "Norman May", "Felix Naumann", "Louiqa Raschid", "Sudeepa Roy", "Amir Shaikhha", "Letizia Tanca"]
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "groups": [
+        {
+          "label": "Distinguished associate editors",
+          "names": ["Walid Aref", "AnHai Doan", "Dan Kifer", "Qiong Luo", "Rachel Pottinger", "Ken Salem", "Li Xiong"]
+        },
+        {
+          "label": "Distinguished PC members",
+          "names": ["Carsten Binnig", "Graham Cormode", "Hazar Harmouch", "Kai-Uwe Sattler", "Kenneth Ross", "Laks V.S. Lakshmanan", "Lukasz Golab", "S. Sudarshan", "Sharad Mehrotra", "Xiangyao Yu", "Ziawasch Abedjan", "Stijn Vansummeren", "Silu Huang", "Tianzheng Wang", "Mohamed Y. Eltabakh", "Laurel Orr", "Wolfgang Gatterbauer", "Shimin Chen", "Amol Deshpande", "Sudipto Das", "Hongzhi Wang", "Danica Porobic", "Michael Cafarella", "Bingsheng He", "Bettina Kemme", "Ke Yi", "Saravanan Thirumuruganathan", "Boris Glavic", "Yufei Tao", "Anna Fariha"]
+        }
+      ]
+    },
+    {
+      "year": 2021,
+      "groups": [
+        {
+          "label": "Distinguished associate editors",
+          "names": ["Phil Bernstein", "Sourav Bhowmick", "Alan Fekete", "Wolfgang Gatterbauer", "Wolfgang Lehner", "Alexandra Meliou", "Tamer Özsu", "Ken Ross", "Pınar Tözün"]
+        },
+        {
+          "label": "Distinguished PC members",
+          "names": ["Peter Alvaro", "Zhifeng Bao", "Carsten Binnig", "Byron Choi", "Sudipto Das", "Niv Dayan", "Christopher De Sa", "Hakan Ferhatosmanoglu", "Boris Glavic", "Peter Haas", "Wook-Shin Han", "Xi He", "Melanie Herschel", "Gabriela Jacques-Silva", "Christian Jensen", "Ryan Johnson", "Oliver Kennedy", "Dumitrel Loghin", "Nikos Mamoulis", "Volker Markl", "Ismail Oukid", "Paolo Papotti", "Tilmann Rabl", "Jennie Rogers", "Mo Sadoghi", "Semih Salihoglu", "Alkis Simitsis", "Kurt Stockinger", "Rebecca Taft", "Tianzheng Wang", "Wei Wang", "Chenggang Wu", "Xiaofei Zhang", "Baihua Zheng"]
+        }
+      ]
+    },
+    {
+      "year": 2020,
+      "groups": [
+        {
+          "label": "Distinguished area chairs",
+          "names": ["Renée Miller", "Prithviraj Sen", "Pınar Tözün", "Tamer Özsu"]
+        },
+        {
+          "label": "Distinguished PC members",
+          "names": ["Leilani Battle", "Bailu Ding", "Alexander Boehm", "Matthias Boehm", "Peter Boncz", "Wolfgang Gatterbauer", "Boris Glavic", "Chris Jermaine", "Oliver Kennedy", "Chuan Lei", "Alexandra Meliou", "Peter Pietzuch", "Mirek Riedewald", "Gabriela Jacques da Silva", "Sudeepa Roy"]
+        }
+      ]
+    },
+    {
+      "year": 2019,
+      "groups": [
+        {
+          "label": "Distinguished PC members · Research track core PC",
+          "names": ["Gustavo Alonso", "Matthias Boehm", "Chris Jermaine", "Alexandra Meliou"]
+        },
+        {
+          "label": "Distinguished PC members · Research track regular PC",
+          "names": ["Xu Chu", "Sudipto Das", "Wenfei Fan", "Raul Castro Fernandez", "Boris Glavic", "Arun Kumar", "Ashwin Machanavajjhala", "Ingo Müller", "Tamer Özsu", "Andrew Pavlo", "Danica Porobic", "Yufei Tao", "Eugene Wu", "Matei Zaharia", "Ce Zhang"]
+        },
+        {
+          "label": "Distinguished PC members · Industrial track",
+          "names": ["Mark Callaghan"]
+        }
+      ]
+    },
+    {
+      "year": 2018,
+      "groups": [
+        {
+          "label": "Distinguished PC members",
+          "names": ["Ashraf Aboulnaga", "Manos Athanassoulis", "Sebastian Breß", "Graham Cormode", "Sudipto Das", "Khuzaima Daudjee", "Aaron Elmore", "Ada Fu", "Michael Hay", "Yuxiong He", "Yannis Katsis", "Alexandra Meliou", "Dan Olteanu", "Andrew Pavlo", "Peter Pietzuch", "Lucian Popa", "Semih Salihoglu", "Ryan Stutsman", "Yufei Tao", "Alex Thomson"]
+        }
+      ]
+    },
+    {
+      "year": 2017,
+      "groups": [
+        {
+          "label": "Distinguished PC members",
+          "names": ["Michael Benedikt", "Sudipto Das", "Rainer Gemulla", "Yaron Kanza", "Raghav Kaushik", "Arun Kumar", "Wolfgang Lehner", "Ashwin Machanavajjhala", "Stefan Manegold", "Tamer Özsu", "Andrew Pavlo", "Sudeepa Roy", "Pierre Senellart", "Ryan Stutsman", "Arash Termehchy", "Yannis Velegrakis"]
+        }
+      ]
+    }
+  ]
+}

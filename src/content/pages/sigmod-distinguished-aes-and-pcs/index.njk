@@ -1,0 +1,26 @@
+---
+edited: true
+title: "SIGMOD Distinguished AEs and PCs"
+permalink: "/sigmod-distinguished-aes-and-pcs/"
+section: "sigmod"
+area: "conferences"
+wp_id: 4469
+wp_type: "page"
+updated: "2026-11-17"
+editPath: "src/_data/distinguishedReviewers.json"
+---
+
+{#- Years come from src/_data/distinguishedReviewers.json (add a new year at the top of that file);
+    the "Most often recognized" list is computed from it in src/_data/distinguishedTop.js. -#}
+<p>Since 2017, the SIGMOD conference officers have celebrated the reviewers whose work stood out each year, naming distinguished associate editors (AEs) and program committee (PC) members. The recipients are listed below.</p>
+
+<div class="toprec"><p class="yr-label">Most often recognized</p><ol>
+{%- for r in distinguishedTop %}<li><span class="tr-n">{{ r.count }}</span><span class="tr-who"><b>{{ r.name }}</b><span>{{ r.years | join(" · ") }}</span></span></li>{% endfor -%}
+</ol></div>
+{% for y in distinguishedReviewers.years %}
+<div class="yr"><div class="yr-year">{{ y.year }}</div><div>
+{%- for g in y.groups %}
+<div class="yr-group"><p class="yr-label">{{ g.label }}<span class="count">{{ g.names | length }}</span></p><ul class="names">{% for n in g.names %}<li>{{ n }}</li>{% endfor %}</ul></div>
+{%- endfor %}
+</div></div>
+{% endfor %}
