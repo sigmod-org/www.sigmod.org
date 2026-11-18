@@ -19,7 +19,7 @@ Online members receive:
 
 -   Voting rights in ACM SIGMOD elections and the opportunity to serve as a SIGMOD officer
 -   Discounted registration fees at events in-cooperation or sponsored by SIGMOD, including the SIGMOD/PODS conference
--   Announcements via the moderated, members-only DBWorld email distribution list, keeping members informed of the latest happenings in our field
+-   Announcements via the moderated, members-only [DBWorld email distribution list](https://dbworld.sigmod.org/), keeping members informed of the latest happenings in our field
 -   The quarterly [SIGMOD Record](https://sigmodrecord.org/), which publishes articles, reports, and interviews that cover the most recent developments in the community (electronic edition)
 -   [SIGMOD/PODS conference proceedings](https://dl.acm.org/conference/mod/proceedings) (available before the conference) and the [PACMMOD journal](https://dl.acm.org/journal/pacmmod) in the ACM Digital Library
 -   A bundle of SIGMOD-related publications made available through the ACM Digital Library
