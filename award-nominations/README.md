@@ -141,7 +141,7 @@ npx @google/clasp update-deployment AKfycbzzi23SQja5ClqVSglZ51X9UYLAJfXPCAHHkSL4
 2. Set `siteUrl` to your local site.
 3. Deploy, test, then switch both back and deploy again.
 
-While `testMode` is on, real nominators' e-mails are redirected too, so keep it short or do it outside the busy weeks before Feb 1.
+While `testMode` is on, real nominators' e-mails are redirected too, so keep it short or do it outside the busy weeks before Feb 15.
 
 ## Authentication
 
@@ -169,7 +169,7 @@ These rules are enforced on every award form, both in the browser and again on t
 - the nominee and the nominator can't be endorsers
 - **eligibility is confirmed by the people involved, not checked against a list.** In an "Eligibility" section above Submit, the nominator ticks that they have read the [ACM Awards Conflict of Interest Policy](https://awards.acm.org/awards-committees/conflict-of-interest) and are eligible to nominate under it. On the Codd, Contributions, Mentorship and Systems forms, they also confirm that the nominee is not a current elected officer (Chair, Vice Chair, Secretary/Treasurer) or Awards Committee member. Each endorser confirms only their own eligibility under the ACM policy before uploading a letter. Nothing needs updating when people rotate. The summary PDF records the confirmations.
 
-**Cut-off and cycles.** A nomination confirmed by Feb 1 (end of day, AoE) is first considered that year. After that it rolls to the next year and stays active for `activeCycles` years.
+**Cut-off and cycles.** A nomination confirmed by Feb 15 (end of day, AoE) is first considered that year. After that it rolls to the next year and stays active for `activeCycles` years.
 
 **Daily job (7am).**
 - reminds endorsers who haven't submitted, 14 and 3 days before the cut-off
@@ -218,8 +218,8 @@ After going live, follow *Deploying changes* for every update.
 
 ## Each cycle
 
-- **Before Feb 1:** nothing to do. Watch the `Nominations` tab: its `letters` column shows, for example, `2/3`.
-- **After Feb 1:** **Nominations → Build committee folder for this cycle** creates `Committee <year>/<Award>/` with shortcuts to every active nomination and an `Index <year>` sheet. Share that folder, view only, with the committee.
+- **Before Feb 15:** nothing to do. Watch the `Nominations` tab: its `letters` column shows, for example, `2/3`.
+- **After Feb 15:** **Nominations → Build committee folder for this cycle** creates `Committee <year>/<Award>/` with shortcuts to every active nomination and an `Index <year>` sheet. Share that folder, view only, with the committee.
 - **After the awards:** set the winners' `status` to `awarded` so they stop carrying over.
 
 ## Importing nominations received by e-mail
@@ -231,7 +231,7 @@ After going live, follow *Deploying changes* for every update.
 
 ## Limits
 
-- **E-mail quota:** a consumer Gmail account sends to about **100 recipients a day**. Watch it in the last days before Feb 1. If it becomes a problem, move the project to a Google Workspace account (1,500 a day).
+- **E-mail quota:** a consumer Gmail account sends to about **100 recipients a day**. Watch it in the last days before Feb 15. If it becomes a problem, move the project to a Google Workspace account (1,500 a day).
 - **Uploads:** PDFs up to 10 MB each, checked for a real PDF header.
 - **Replaced files:** a replaced statement or letter goes to Drive trash, where it can be recovered for 30 days.
 - **Log:** the `Log` tab records every action.

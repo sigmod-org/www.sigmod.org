@@ -30,7 +30,7 @@ var CONFIG = {
   testRecipients: ['sigmodec@gmail.com'],
 
   // Annual cut-off: end of this day, Anywhere on Earth (UTC-12).
-  deadline: { month: 2, day: 1 },
+  deadline: { month: 2, day: 15 },
 
   // Endorsers who have not submitted get a reminder this many days before
   // the cut-off. Nominators get a summary of missing letters on
