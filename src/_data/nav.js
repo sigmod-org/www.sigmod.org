@@ -42,8 +42,8 @@ const awards = grouped({
       children: [
         { label: "Contributions", url: "/sigmod-awards/sigmod-contributions-award/" },
         { label: "Distinguished Mentorship", url: "/hector-garcia-molina-2025-sigmod-distinguished-mentorship-award/" },
-        { label: "Edgar F. Codd Innovations", url: "/sigmod-awards/sigmod-edgar-f-codd-innovations-award/" },
-        { label: "Jim Gray Dissertation", url: "/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/" },
+        { label: "Doctoral Dissertation", url: "/sigmod-awards/sigmod-jim-gray-doctoral-dissertation-award/" },
+        { label: "Innovations", url: "/sigmod-awards/sigmod-edgar-f-codd-innovations-award/" },
         { label: "Systems", url: "/sigmod-awards/sigmod-systems-award/" },
         { label: "Test of Time", url: "/sigmod-awards/sigmod-test-of-time-award/" },
       ],

@@ -6,8 +6,17 @@ area: "pods"
 wp_id: 391
 wp_type: "page"
 wp_parent: 390
-updated: "2026-11-13"
+updated: "2026-11-24"
 ---
+
+<div class="honor">
+<img src="/assets/people/alberto-mendelzon.jpg" alt="Alberto O. Mendelzon">
+<div>
+<div class="kicker">Named in honor of</div>
+<div class="who">Alberto O. Mendelzon <small>1951–2005</small></div>
+<p>Professor of Computer Science at the University of Toronto and an international leader in the principles of database systems. He served as General Chair of PODS from 1997 to 1999.</p>
+</div>
+</div>
 
 [Alberto O. Mendelzon](http://www.cs.toronto.edu/~mendel) was an international leader in the principles of database systems. His pioneering work on database dependencies has been influential in both the theory and practice of data management. His work has inspired research and practice in database design, query processing, and data integration. He made fundamental contributions in the areas of graphical and visual query languages, knowledge-base systems, and online-analytic processing. His work has provided the foundation for languages used to search web data. The volume of these applications is a testament to the truly foundational nature of his results.
 
