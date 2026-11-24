@@ -1,12 +1,12 @@
 ---
 edited: true
-title: "Hector Garcia-Molina Distinguished Mentorship Award"
+title: "SIGMOD Hector Garcia-Molina Distinguished Mentorship Award"
 permalink: "/hector-garcia-molina-2025-sigmod-distinguished-mentorship-award/"
 section: "sigmod"
 area: "awards"
 wp_id: 5179
 wp_type: "page"
-updated: "2026-11-13"
+updated: "2026-11-24"
 ---
 
 <div class="honor">
