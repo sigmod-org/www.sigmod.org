@@ -1,5 +1,5 @@
 ---
-title: "ACM PODS Alberto O. Mendelzon Test-of-Time Award"
+title: "PODS Alberto O. Mendelzon Test-of-Time Award"
 permalink: "/pods-home/acm-pods-alberto-o-mendelzon-test-of-time-award/"
 section: "pods"
 area: "pods"
