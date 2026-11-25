@@ -10,7 +10,7 @@ SIGMOD and PODS are run by volunteers. These are the people currently serving on
 
 ### SIGMOD Advisory Board
 
-Divy Agrawal (Chair), Sihem Amer-Yahia, Alexandre Böhm, Amr El Abbadi, Avrilia Floratou, Christian Jensen, Tamer Özsu, Kian-Lee Tan
+Divy Agrawal (Chair), Sihem Amer-Yahia, Alexandre Böhm, Amr El Abbadi, Avrilia Floratou, Christian Jensen, Tamer Özsu, Kian-Lee Tan
 
 ### SIGMOD PC Chair Board
 
