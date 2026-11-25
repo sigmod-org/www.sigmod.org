@@ -40,9 +40,9 @@ Lyublena Antova, Marcelo Arenas, Manos Athanassoulis, Renata Borovica-Gajic, Van
 
 Genoveva Vargas
 
-### Information Directors
+### Information Director
 
-Sourav S Bhowmick & Byron Choi
+Byron Choi
 
 ### Associate Information Directors
 
